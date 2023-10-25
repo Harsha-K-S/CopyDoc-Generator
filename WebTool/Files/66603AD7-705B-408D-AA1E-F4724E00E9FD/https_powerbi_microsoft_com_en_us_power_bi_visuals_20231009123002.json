@@ -1,0 +1,330 @@
+[
+  {
+    "Type": "SeoSection",
+    "Id": "e3478e3e-002d-49bd-950c-21c0d9abdde6",
+    "Title": "SEO Details",
+    "Elements": [
+      {
+        "Id": "995b7cd9-ece6-49a7-8848-36c12b59d54e",
+        "Name": "pagetitle",
+        "Text": "Power BI Visuals\u2014Data Visualization Tool | Microsoft Power BI"
+      },
+      {
+        "Id": "182815b1-dfa9-43a0-9e6c-f6f1ab32cca9",
+        "Name": "metakeywords",
+        "Text": "data storytelling, data visualization, data visualization tool, data visuals, power bi visualizations, power bi visuals"
+      },
+      {
+        "Id": "6f8b1315-f03e-4e7e-912a-049010e87d9c",
+        "Name": "metadescription",
+        "Text": "Gain actionable insights from any data source with Power BI. Bring your data to life with data visualization templates and endless customization options."
+      }
+    ]
+  },
+  {
+    "Type": "Section",
+    "Id": "12a12df0-6bc8-434d-9b45-018925e36e04",
+    "Title": " Tell your data story your way ",
+    "Elements": [
+      {
+        "Id": "006bb407-9097-4a0f-a7a2-8c2134128b5a",
+        "Name": "h1",
+        "Text": "Tell your data story your way"
+      },
+      {
+        "Id": "7e8eca5a-25b2-4919-b2ac-de45cb308ca9",
+        "Name": "p",
+        "Text": "Bring your data to life with stunning, interactive data visualizations tailored to your organization and\u00A0industry."
+      },
+      {
+        "Id": "9d6a82e1-3caf-4942-aa81-9a44d7df5f57",
+        "Name": "img",
+        "Src": "https://powerbicdn.azureedge.net/cvt-1bdff238393730b8322fb50f8b44c92f72f3c4c0b7593394f23a6d6ba9946eb1/pictures/pages/power-bi-visuals/hero_side_device_img1.jpg",
+        "Alt": "Man at a desk, with a cappuccino, looking at six data visualization examples on his laptop."
+      }
+    ]
+  },
+  {
+    "Type": "Section",
+    "Id": "307889d1-08d2-4ef8-85c1-463c7b6d8289",
+    "Title": "Build visuals to your specifications",
+    "Elements": [
+      {
+        "Id": "7cba9775-2956-4401-bb64-9f6fadc139a9",
+        "Name": "img",
+        "Src": "https://powerbicdn.azureedge.net/cvt-9e9f5b8d368624e42cfd658c2d50609acb5e83c0aff23c42e8124861e994784f/pictures/pages/power-bi-visuals/build-custom-visuals.jpg",
+        "Alt": "Build visuals to your specification"
+      },
+      {
+        "Id": "747c6820-1363-4176-ac7b-368528dff9dd",
+        "Name": "h2",
+        "Text": "Build visuals to your specifications"
+      },
+      {
+        "Id": "b2a6690f-4386-4a96-81d3-3b18259a2b72",
+        "Name": "p",
+        "Text": "Go beyond AppSource to easily build custom data visualizations that meet your requirements and suit your industry. Differentiate your organization by creating something unique\u2014then share it with your team or publish to the Power\u00A0BI\u00A0community."
+      },
+      {
+        "Id": "019b445d-ea86-4f4b-8afb-e70e0bfcb198",
+        "Name": "a",
+        "Text": "Get started",
+        "Href": "https://docs.microsoft.com/power-bi/developer/visuals/power-bi-custom-visuals"
+      },
+      {
+        "Id": "7cdb0726-b294-45b0-a51b-afe793350a12",
+        "Name": "span",
+        "Text": "Get started"
+      }
+    ]
+  },
+  {
+    "Type": "Section",
+    "Id": "60769fda-433d-42d9-8de7-6c3d985e487f",
+    "Title": " Connect with a Microsoft certified partner ",
+    "Elements": [
+      {
+        "Id": "9aaea715-1283-447e-8af3-f482b880f4f3",
+        "Name": "h2",
+        "Text": "Connect with a Microsoft certified partner"
+      },
+      {
+        "Id": "a14c8f28-6b70-47ff-b74a-247f19ddb3f5",
+        "Name": "p",
+        "Text": "Get expert help creating one-of-a-kind data visualizations. Design and implement custom, proprietary visuals with an experienced Power BI partner."
+      },
+      {
+        "Id": "3d90f1c1-9856-4e5b-84f3-33fe9bd041b4",
+        "Name": "img",
+        "Src": "https://powerbicdn.azureedge.net/cvt-e95155e0d9686bc5b0ac7d6c6098fdbac7814b613816a6586be7e50abe32316d/pictures/pages/power-bi-visuals/logos/akvelon-logo.png",
+        "Alt": "Akvelon"
+      },
+      {
+        "Id": "ce0f69e4-8641-401f-9682-e9d231796fde",
+        "Name": "img",
+        "Src": "https://powerbicdn.azureedge.net/cvt-256c7bd4d5438a1f64a5d9a30851edabd9004d4cdaee8b9a346a4b6a0531d659/pictures/pages/power-bi-visuals/logos/zoom-charts-logo.png",
+        "Alt": "ZoomCharts"
+      },
+      {
+        "Id": "32cb99f0-6268-40ce-af0b-7a1c2b47b80d",
+        "Name": "img",
+        "Src": "https://powerbicdn.azureedge.net/cvt-8bf757da567aa3ced91ba5747ca1b30c6c968a5aa0801a37b7d10b550cc5fb3a/pictures/pages/power-bi-visuals/logos/maq-software-logo.png",
+        "Alt": "MAQ Software"
+      },
+      {
+        "Id": "4eb736e2-1086-4f94-b24e-7f6c4168fa55",
+        "Name": "img",
+        "Src": "https://powerbicdn.azureedge.net/cvt-4c20928e4ce74c1067417b4ff2ed3b8e9f633cbba9f05ede03ff7f189a96c30a/pictures/pages/power-bi-visuals/logos/enlighten-designs-logo.png",
+        "Alt": "Enlighten Designs"
+      },
+      {
+        "Id": "53a95804-6a64-41da-8383-0ce232d5fdb7",
+        "Name": "a",
+        "Text": "Find a certified partner",
+        "Href": "https://go.microsoft.com/fwlink/?LinkId=2101427\u0026amp;clcid=0x409"
+      },
+      {
+        "Id": "3d0aa5f8-e33b-4b7a-ad9b-ee7a33f0a2f3",
+        "Name": "span",
+        "Text": "Find a certified partner"
+      }
+    ]
+  },
+  {
+    "Type": "Section",
+    "Id": "01bdc5c7-d98e-4f4b-aa07-7cdd72d1d9c9",
+    "Title": " Explore other resources ",
+    "Elements": [
+      {
+        "Id": "9a3a7543-f0d1-4540-bab6-e7e8d1bce9f3",
+        "Name": "h2",
+        "Text": "Explore other resources"
+      },
+      {
+        "Id": "09f45b41-7f14-4726-b815-b52660276864",
+        "Name": "h3",
+        "Text": "Download Power BI Desktop"
+      },
+      {
+        "Id": "20a6ef0b-8ee9-4f2c-8d2a-ed2d27dd5421",
+        "Name": "p",
+        "Text": "Create rich, interactive data reports and stunning visualizations with ease."
+      },
+      {
+        "Id": "d2bb5728-3cf5-406e-9958-4fbedc1d8370",
+        "Name": "a",
+        "Text": "Start free",
+        "Href": "https://powerbi.microsoft.com/en-us/desktop/"
+      },
+      {
+        "Id": "c26bb51a-161a-4aa0-b451-8be4a6ef2d38",
+        "Name": "span",
+        "Text": "Start free"
+      },
+      {
+        "Id": "be914932-fada-4ef8-ad4c-74591a7408b0",
+        "Name": "h3",
+        "Text": "Get tips for better data visualization design"
+      },
+      {
+        "Id": "a4318d6a-6878-4f24-abe4-d488e8b52ca5",
+        "Name": "p",
+        "Text": "Learn how to use visual perception to influence audience attention."
+      },
+      {
+        "Id": "f77d43b5-afd9-4548-b97c-59d341bb334f",
+        "Name": "a",
+        "Text": "Watch webinars",
+        "Href": "https://learn.microsoft.com/power-bi/fundamentals/webinars"
+      },
+      {
+        "Id": "00c9283f-fb65-42f0-8b43-4216deff7197",
+        "Name": "span",
+        "Text": "Watch webinars"
+      },
+      {
+        "Id": "95cd40ef-5f85-4884-b2c2-c7682de30ece",
+        "Name": "h3",
+        "Text": "See examples of data storytelling"
+      },
+      {
+        "Id": "4e4390f8-4282-41de-bafc-9c5c9a421925",
+        "Name": "p",
+        "Text": "Discover how visuals bring data to life."
+      },
+      {
+        "Id": "1d20fa8b-cc07-438d-b926-f9677a7626d7",
+        "Name": "a",
+        "Text": "Explore data stories gallery",
+        "Href": "https://go.microsoft.com/fwlink/?LinkId=2101428\u0026amp;clcid=0x409"
+      },
+      {
+        "Id": "1e0b30be-89c0-4e09-8193-48f01c1d4bfc",
+        "Name": "span",
+        "Text": "Explore data stories gallery"
+      }
+    ]
+  },
+  {
+    "Type": "Section",
+    "Id": "5c524c85-972b-44a1-abd6-7033191bd3ab",
+    "Title": "Contact Sales",
+    "Elements": [
+      {
+        "Id": "7819c339-9c6b-46c7-b201-9798a966c87e",
+        "Name": "h2",
+        "Text": "Contact Sales"
+      },
+      {
+        "Id": "8b8ea7c0-4e38-40a0-91e8-1e15996b204f",
+        "Name": "h3",
+        "Text": "Chat with Sales"
+      },
+      {
+        "Id": "0da41aa9-63ff-419a-b8b0-2049de5a3d3a",
+        "Name": "p",
+        "Text": "Available Monday to Friday"
+      },
+      {
+        "Id": "f106ae97-8e11-486c-a56c-3789f2e52e1b",
+        "Name": "p",
+        "Text": "8 AM to 5 PM Central Time."
+      },
+      {
+        "Id": "091e739a-63e8-48a9-a383-9c52b3b8b0cd",
+        "Name": "a",
+        "Text": "Chat now",
+        "Href": "https://powerbi.microsoft.com/en-us/power-bi-visuals/en-us/#"
+      },
+      {
+        "Id": "799ef891-f4f1-4bda-b769-048f1d4743c5",
+        "Name": "span",
+        "Text": "Chat now"
+      },
+      {
+        "Id": "e510a2aa-f6de-4f2a-8779-f4682e920fca",
+        "Name": "h3",
+        "Text": "Request we contact you"
+      },
+      {
+        "Id": "43163cf6-ea0c-4b84-b2f6-8dcc86e68e76",
+        "Name": "span",
+        "Text": "Have a Power\u00A0BI sales expert contact you."
+      },
+      {
+        "Id": "c79ff44d-67b1-491f-8aa2-d674ed99298b",
+        "Name": "a",
+        "Text": "Send a request",
+        "Href": "https://go.microsoft.com/fwlink/?LinkId=2240958\u0026amp;clcid=0x409"
+      },
+      {
+        "Id": "bb9803c4-e58e-4bb5-be0b-771f798551d9",
+        "Name": "span",
+        "Text": "Send a request"
+      },
+      {
+        "Id": "ae161f00-1572-4a23-8e4a-cd03ce06691d",
+        "Name": "h3",
+        "Text": "Call Sales"
+      },
+      {
+        "Id": "398fe24e-25d2-48c3-8c1c-cbbd93146b2f",
+        "Name": "p",
+        "Text": "Available Monday to Friday"
+      },
+      {
+        "Id": "75ecc04f-fbf3-4419-8373-8875bb16dc67",
+        "Name": "p",
+        "Text": "8 AM to 5 PM Central Time."
+      },
+      {
+        "Id": "7de34df1-42cd-4700-ab61-898eaa6df7be",
+        "Name": "a",
+        "Text": "Call 18552700615",
+        "Href": "tel:18552700615"
+      },
+      {
+        "Id": "a87cb47a-7b97-4422-80e4-12302de04e3d",
+        "Name": "span",
+        "Text": "Call 18552700615"
+      }
+    ]
+  },
+  {
+    "Type": "Section",
+    "Id": "e09ca026-8a94-4217-a507-2f8a547e4304",
+    "Title": "Need Help?",
+    "Elements": [
+      {
+        "Id": "6203d488-c778-486b-8ceb-3ecebf7289b3",
+        "Name": "h3",
+        "Text": "Need Help?"
+      },
+      {
+        "Id": "af560fee-a8f6-4f2f-a41d-12e5120b9522",
+        "Name": "p",
+        "Text": "Chat with a Microsoft sales specialist for answers to your Power BI questions."
+      },
+      {
+        "Id": "8f5fe135-a1b1-40c5-9e03-9fb38c7a62d8",
+        "Name": "button",
+        "Text": "Chat now"
+      },
+      {
+        "Id": "601b9d2d-eb72-4b29-922c-7750a6ec8a49",
+        "Name": "span",
+        "Text": "Chat now"
+      },
+      {
+        "Id": "9b10fcd7-a525-47f1-a4ba-19fa5e11d9c0",
+        "Name": "button",
+        "Text": "No thanks"
+      },
+      {
+        "Id": "bea11a33-8a61-4fd1-9315-426f73f80e68",
+        "Name": "span",
+        "Text": "No thanks"
+      }
+    ]
+  }
+]

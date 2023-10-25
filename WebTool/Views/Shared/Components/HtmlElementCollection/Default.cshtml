@@ -1,0 +1,125 @@
+﻿@model HtmlElementCollection
+
+@{
+    int hCounter = 1;
+    int pCounter = 1;
+    int ctaCounter = 1;
+    foreach (HtmlElement element in Model)
+    {
+        bool isTableHeaderCell = ViewBag.Parent is HtmlTableCell cell && cell.IsHeader;
+        switch (element.Name)
+        {
+            case "h1":
+            case "h2":
+            case "h3":
+            case "h4":
+            case "h5":
+            case "h6":
+            case "p":
+            case "button" when !element.DataVideoEmbed.IsDefined():
+            case "li":
+            case "div":
+            case "span":
+            case "pagetitle":
+            case "metakeywords":
+            case "metadescription":
+                string elementTitle;
+                bool isHeadline = new string[] { "h1", "h2", "h3", "h4", "h5", "h6" }.Contains(element.Name);
+                if (isHeadline)
+                {
+                    elementTitle = $"Headline{hCounter++}";
+                }
+                else if (element.Name == "p")
+                {
+                    elementTitle = $"Body copy{pCounter++}";
+                }
+                else if (element.Name == "li")
+                {
+                    elementTitle = "List Item";
+                }
+                else if (element.Name == "pagetitle")
+                {
+                    elementTitle = "Page Title";
+                }
+                else if (element.Name == "metakeywords")
+                {
+                    elementTitle = "Keywords";
+                }
+                else if (element.Name == "metadescription")
+                {
+                    elementTitle = "Description";
+                }
+                else
+                {
+                    elementTitle = element.Name;
+                }
+                <tr data-container-id=@ViewBag.ContainerId data-parent-id=@ViewBag.Parent?.Id data-deleted=@ViewBag.Parent?.Deleted>
+                    <td class="fw-bold text-nowrap bg-info">@elementTitle</td>
+                    <td data-id=@element.Id data-name=@element.Name @(isHeadline ? $"data-headline-counter={hCounter - 1}" : null) @(isTableHeaderCell ? $"data-table-header-cell" : null) colspan="3">
+                        <div class="editable" data-current="@element.Text" data-prev="@element.TextPrev">
+                            @element.Text
+                        </div>
+                    </td>
+                </tr>
+                break;
+            case "img":
+                <tr data-container-id=@ViewBag.ContainerId data-parent-id=@ViewBag.Parent?.Id data-deleted=@ViewBag.Parent?.Deleted>
+                    <td class="fw-bold text-nowrap bg-info">
+                        <img class="element-img" src=@element.Src style="max-width: 50px; max-height: 50px;" />
+                    </td>
+                    <td data-id=@element.Id data-name="img.src" colspan="3">
+                        <span class="fw-bold">Image name</span>:
+                        <div class="editable-img" data-current="@System.IO.Path.GetFileName(element.Src)" data-prev="@System.IO.Path.GetFileName(element.SrcPrev)">
+                            @System.IO.Path.GetFileName(element.Src)
+                        </div>
+                    </td>
+                </tr>
+                <tr data-container-id=@ViewBag.ContainerId data-parent-id=@ViewBag.Parent?.Id data-deleted=@ViewBag.Parent?.Deleted>
+                    <td class="fw-bold text-nowrap bg-info">Image Alt Text</td>
+                    <td data-id=@element.Id data-name="img.alt" colspan="3">
+                        <div class="editable" data-current="@element.Alt" data-prev="@element.AltPrev">
+                            @element.Alt
+                        </div>
+                    </td>
+                </tr>
+                break;
+            case "a":
+            case "button" when element.DataVideoEmbed.IsDefined():
+                string href = element.Name == "button" ? element.DataVideoEmbed : element.Href;
+                string hrefPrev = element.Name == "button" ? element.DataVideoEmbedPrev : element.HrefPrev;
+                <tr data-container-id=@ViewBag.ContainerId data-parent-id=@ViewBag.Parent?.Id data-deleted=@ViewBag.Parent?.Deleted>
+                    <td class="fw-bold text-nowrap bg-info">CTA@(ctaCounter++)</td>
+                    <td data-id=@element.Id data-name=@($"{element.Name}.text") @(isTableHeaderCell ? $"data-table-header-cell" : null)>
+                        <div class="editable" data-current="@element.Text" data-prev="@element.TextPrev">
+                            @element.Text
+                        </div>
+                    </td>
+                    <td class="fw-bold text-nowrap bg-info">CTA URL</td>
+                    <td data-id=@element.Id data-name=@($"{element.Name}.href")>
+                        <div class="editable" data-current="@href" data-prev="@hrefPrev">
+                            <a href=@href>@href</a>
+                        </div>
+                    </td>
+                </tr>
+                break;
+            case "iframe":
+                <tr data-container-id=@ViewBag.ContainerId data-parent-id=@ViewBag.Parent?.Id data-deleted=@ViewBag.Parent?.Deleted>
+                    <td class="fw-bold text-nowrap bg-info">Video link</td>
+                    <td data-id=@element.Id data-name=@element.Name colspan="3">
+                        <div class="editable" data-current="@element.Src" data-prev="@element.SrcPrev">
+                            <a href=@element.Src>@element.Src</a>
+                        </div>
+                    </td>
+                </tr>
+                break;
+        }
+    }
+}
+
+<div class="spinner" style="display:none">
+    <div class="center-div">
+        <div class="inner-div">
+            <div class="loader"></div>
+        </div>
+    </div>
+</div>

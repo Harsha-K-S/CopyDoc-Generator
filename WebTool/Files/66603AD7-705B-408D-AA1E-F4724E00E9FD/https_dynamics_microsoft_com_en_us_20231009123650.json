@@ -1,0 +1,1916 @@
+[
+  {
+    "Type": "SeoSection",
+    "Id": "e2f2ee22-7777-41d8-930a-797686aab8af",
+    "Title": "SEO Details",
+    "Elements": [
+      {
+        "Id": "a7d30e38-0f65-4c47-a43b-6f59991c6fb1",
+        "Name": "pagetitle",
+        "Text": "Business Applications | Microsoft Dynamics 365"
+      },
+      {
+        "Id": "4fb06918-2b94-4a94-83c9-ac1ec9514efc",
+        "Name": "metakeywords",
+        "Text": "Microsoft Dynamics 365, Dynamics 365, business applications, what is dynamics 365"
+      },
+      {
+        "Id": "d124da68-2292-4884-9d5a-67d9be4ddbe4",
+        "Name": "metadescription",
+        "Text": "Learn how to be more agile with Dynamics 365, the only portfolio of intelligent business applications that empowers everyone to adapt and innovate."
+      }
+    ]
+  },
+  {
+    "Type": "Section",
+    "Id": "89437450-6d02-42c0-a0e4-815225f7cd5e",
+    "Title": "Stay agile. Do more with less.",
+    "Elements": [
+      {
+        "Id": "1628bf65-2951-47c5-991d-a60c06deb4b4",
+        "Name": "img",
+        "Src": "/img/Screenshot 2023-03-06 12310420231009123621.png",
+        "SrcPrev": "https://dynamics365cdn.azureedge.net/cvt-bfc1944bf5bfbcb9fe524e369f119916ca7af841dd98166cf89e62f8a9ae5412/pictures/pages/index/hero_desktop.jpg",
+        "Alt": "Stay agile. Do more with less. update",
+        "AltPrev": "Stay agile. Do more with less."
+      },
+      {
+        "Id": "02261c99-a798-4c7e-8371-992db6ab094c",
+        "Name": "div",
+        "Text": "Microsoft Dynamics\u00A03651",
+        "TextPrev": "Microsoft Dynamics\u00A0365"
+      },
+      {
+        "Id": "b0b7e68c-7406-417a-a37d-7e24d617d68b",
+        "Name": "h1",
+        "Text": "Stay agile. Do more with less."
+      },
+      {
+        "Id": "f85c12b5-93d6-4c2e-860d-63bc0a0bb6cb",
+        "Name": "p",
+        "Text": "Drive more efficiency, reduce costs, and create a hyperconnected business that links people, data, and processes across your organization\u2014enabling every team to quickly adapt and innovate."
+      },
+      {
+        "Id": "d75952f2-18be-4464-9c1e-49abdf04ff1f",
+        "Name": "a",
+        "Text": "Learn how",
+        "Href": "https://dynamics.microsoft.com/en-us/what-is-dynamics365/"
+      },
+      {
+        "Id": "eeb5b1d4-9753-4cda-b0f0-cc996b065c4e",
+        "Name": "span",
+        "Text": "Learn how"
+      },
+      {
+        "Id": "c2eb0fc9-778d-4ff9-9fb8-0565aad0fbff",
+        "Name": "button",
+        "DataVideoEmbed": "https://www.microsoft.com/en-us/videoplayer/embed/RE4NOct?jsapi=true\u0026amp;postJsllMsg=true",
+        "Text": "Watch the overview"
+      },
+      {
+        "Id": "9e6400be-c670-4235-9bd4-14700c5d8486",
+        "Name": "span",
+        "Text": "Watch the overview"
+      }
+    ]
+  },
+  {
+    "Type": "Section",
+    "Id": "bd6f89a3-a4a1-4307-938b-a6ce1d5b303a",
+    "Title": "Component3",
+    "Elements": [
+      {
+        "Id": "25874d0e-f20e-4f38-ac4d-ec327472cc61",
+        "Name": "p",
+        "Text": "Introducing AIM\u2014move to the cloud with confidence and boost productivity with rapid AI adoption."
+      },
+      {
+        "Id": "0b6c5f77-6018-4364-9de6-10faf864ea6e",
+        "Name": "a",
+        "Text": "Learn more",
+        "Href": "https://dynamics.microsoft.com/en-us/cloud-migration/"
+      },
+      {
+        "Id": "0a18736f-ee67-4505-91dc-5a29bdf17ac3",
+        "Name": "span",
+        "Text": "Learn more"
+      },
+      {
+        "Id": "03437bc1-86ab-4f29-a6ee-79bb6839d5b1",
+        "Name": "p",
+        "Text": "See how sales and marketing teams use AI to lighten their load and get more time back in their workdays."
+      },
+      {
+        "Id": "1f4a76a5-6e96-4e0a-a0c6-8b261f7c1b0a",
+        "Name": "a",
+        "Text": "Learn more",
+        "Href": "https://go.microsoft.com/fwlink/?LinkId=2240876\u0026amp;clcid=0x409"
+      },
+      {
+        "Id": "a9acf86f-439d-4004-96ca-3f6cba60fab4",
+        "Name": "span",
+        "Text": "Learn more"
+      }
+    ]
+  },
+  {
+    "Type": "Section",
+    "Id": "2cdce5e0-a774-4f82-9a04-ee1c957e47fd",
+    "Title": "Solutions that fit you. Not the other way around.",
+    "Elements": [
+      {
+        "Id": "b96d8d17-1d42-45ed-befc-28907f00e463",
+        "Name": "h2",
+        "Text": "Solutions that fit you. Not the other way around."
+      },
+      {
+        "Id": "12261880-38ae-44a0-9614-2a9350e10126",
+        "Name": "p",
+        "Text": "Choose one, some, or all. Dynamics\u00A0365 applications are made to work together\u2014and with your existing systems\u2014for a comprehensive solution that connects your entire business. So you connect with every customer."
+      },
+      {
+        "Id": "e3fedb2e-6c63-41cf-9ea3-05aa1fffc2bf",
+        "Name": "button",
+        "Text": "Sales and marketing"
+      },
+      {
+        "Id": "1a2df086-bf0a-4430-b438-b9728dc9ced4",
+        "Name": "button",
+        "Text": "Service"
+      },
+      {
+        "Id": "d39bf218-2ed1-4668-b696-61e3a67b01e8",
+        "Name": "button",
+        "Text": "Finance"
+      },
+      {
+        "Id": "846c8bbf-1ae3-4697-860b-83fb07e0252e",
+        "Name": "button",
+        "Text": "Supply chain"
+      },
+      {
+        "Id": "20a0ce08-2a81-4e69-b443-d7ff41850b0d",
+        "Name": "img",
+        "Src": "//dynamics365cdn.azureedge.net/cvt-1b42ab5319caecba53ade4327a1cdedb5b93f1903539fa6fd902439f98d66e57/pictures/pages/index/usecases/use-case-sales-marketing-tab.png",
+        "Alt": "Sales impact image"
+      },
+      {
+        "Id": "128c53d4-8b87-4017-90cc-7133f803ba25",
+        "Name": "h3",
+        "Text": "Drive more revenue by connecting sales and marketing"
+      },
+      {
+        "Id": "5671b531-56a6-44b2-9d24-ef5cab8d3f48",
+        "Name": "li",
+        "Text": "Get increased visibility into customer needs."
+      },
+      {
+        "Id": "5680cff8-9065-4b10-b3f8-4507f7f5ae6c",
+        "Name": "li",
+        "Text": "Lead customers down the pipeline faster and close more deals."
+      },
+      {
+        "Id": "9a1334ca-ae56-4e46-9a20-f0b68377053d",
+        "Name": "li",
+        "Text": "Streamline processes and coach sellers."
+      },
+      {
+        "Id": "11343082-c48f-46b1-8a6d-08251ce35b57",
+        "Name": "a",
+        "Text": "Learn more",
+        "Href": "https://go.microsoft.com/fwlink/?LinkId=2212557\u0026amp;clcid=0x409"
+      },
+      {
+        "Id": "ec574ed0-6a74-4b19-af0a-536e7e0fdc05",
+        "Name": "span",
+        "Text": "Learn more"
+      },
+      {
+        "Id": "058ab714-9317-425a-9065-c08ec9436822",
+        "Name": "img",
+        "Src": "//dynamics365cdn.azureedge.net/cvt-650eb06f516fb2c24301373d9f8fab68e54989852a09636baa6ebc9046ca1dc0/pictures/pages/index/usecases/use-case-service-tab.jpg",
+        "Alt": "Customer service image"
+      },
+      {
+        "Id": "3f130239-4c39-402f-a56b-9adf2b04dfb0",
+        "Name": "h3",
+        "Text": "Reimagine the way you deliver customer service"
+      },
+      {
+        "Id": "b6d8368a-daa1-4503-9630-bf04c5770990",
+        "Name": "li",
+        "Text": "Personalize service experiences."
+      },
+      {
+        "Id": "b05b9908-1ee0-45f2-a397-e461a0a1894b",
+        "Name": "li",
+        "Text": "Elevate employee effectiveness."
+      },
+      {
+        "Id": "eec0a506-5663-4c06-b582-a550ec39653c",
+        "Name": "li",
+        "Text": "Optimize service operations."
+      },
+      {
+        "Id": "9efa04ad-a56e-4a3f-8026-ee55aed0991f",
+        "Name": "a",
+        "Text": "Learn more about Service",
+        "Href": "https://dynamics.microsoft.com/en-us/service-solution/"
+      },
+      {
+        "Id": "191f2107-a8c6-4b59-8aab-1d5faef6c7e7",
+        "Name": "span",
+        "Text": "Learn more about Service"
+      },
+      {
+        "Id": "77ca59c6-3d8a-4dac-9e4e-560c084496f9",
+        "Name": "img",
+        "Src": "//dynamics365cdn.azureedge.net/cvt-643a3223674494f01e9d516ff857ca0b7415ca97b0942ae3f684994aa0abb595/pictures/pages/index/usecases/use-case-finance-tab.jpg",
+        "Alt": "Finance agility image"
+      },
+      {
+        "Id": "77f17a3f-e646-4523-800b-bb8341d95dd4",
+        "Name": "h3",
+        "Text": "Build finance and business operation agility"
+      },
+      {
+        "Id": "a40d5706-1849-45c3-bbf1-d7a34f383b1d",
+        "Name": "li",
+        "Text": "Adapt faster to avoid disruptions."
+      },
+      {
+        "Id": "4c3df32f-8030-48e9-a13a-d17c313ef3ba",
+        "Name": "li",
+        "Text": "Work smarter by driving efficiencies."
+      },
+      {
+        "Id": "32650f87-97c0-4f94-a1ae-5c7ab375697b",
+        "Name": "li",
+        "Text": "Drive better performance with automation."
+      },
+      {
+        "Id": "16562488-2046-40b5-8187-491f6a520904",
+        "Name": "a",
+        "Text": "Learn more about Finance",
+        "Href": "https://dynamics.microsoft.com/en-us/financial-and-operating-models/"
+      },
+      {
+        "Id": "1470cb5b-be78-4a37-a2b4-c7603f168382",
+        "Name": "span",
+        "Text": "Learn more about Finance"
+      },
+      {
+        "Id": "ca3f9eb4-4caf-4a10-bc51-989eb470ac8d",
+        "Name": "img",
+        "Src": "//dynamics365cdn.azureedge.net/cvt-55889dc92cb3011f0eec0a78f82bae367d506e43f33ccd4b90b24e6ffbe1faad/pictures/pages/index/usecases/use-case-supply-chain-tab.jpg",
+        "Alt": "Digital supply chain image"
+      },
+      {
+        "Id": "e0649732-95ce-4eab-9c0c-3058ae48da9b",
+        "Name": "h3",
+        "Text": "Adapt and thrive with a digital supply chain"
+      },
+      {
+        "Id": "4f74a521-36c6-4fcc-ab16-6352bc556260",
+        "Name": "li",
+        "Text": "Maximize asset performance."
+      },
+      {
+        "Id": "02d878e4-3bcc-465c-b475-d5cf0215e26c",
+        "Name": "li",
+        "Text": "Transform manufacturing operations."
+      },
+      {
+        "Id": "2b865d7c-2f99-453d-ad38-2b1f4d3e4c87",
+        "Name": "li",
+        "Text": "Meet growing digital commerce needs."
+      },
+      {
+        "Id": "145f38ae-8f0b-4f51-a34f-62a9c8b46ca8",
+        "Name": "a",
+        "Text": "Learn more about Supply Chain",
+        "Href": "https://dynamics.microsoft.com/en-us/digital-supply-chain/"
+      },
+      {
+        "Id": "495be37d-58e9-4580-b619-45393970d16f",
+        "Name": "span",
+        "Text": "Learn more about Supply Chain"
+      }
+    ]
+  },
+  {
+    "Type": "Tabs",
+    "Id": "cba0f26c-4b4d-4829-9c17-fc92bcce2603",
+    "Title": "Tabs",
+    "Tabs": [
+      {
+        "Id": "cacf99ec-3da9-4086-9f27-453614df99ef",
+        "Title": "Sales and marketing",
+        "Elements": [
+          {
+            "Id": "fe99d04c-dca7-4746-b7b9-25dd25bc7e43",
+            "Name": "img",
+            "Src": "//dynamics365cdn.azureedge.net/cvt-1b42ab5319caecba53ade4327a1cdedb5b93f1903539fa6fd902439f98d66e57/pictures/pages/index/usecases/use-case-sales-marketing-tab.png",
+            "Alt": "Sales impact image"
+          },
+          {
+            "Id": "fa268a7d-d58e-473a-ae51-6e45159c1fc2",
+            "Name": "h3",
+            "Text": "Drive more revenue by connecting sales and marketing"
+          },
+          {
+            "Id": "9c65b14c-9f20-4a60-b1af-481505eb410a",
+            "Name": "li",
+            "Text": "Get increased visibility into customer needs."
+          },
+          {
+            "Id": "7dee3193-3a62-4136-80e3-5e5c6da23bc1",
+            "Name": "li",
+            "Text": "Lead customers down the pipeline faster and close more deals."
+          },
+          {
+            "Id": "b2137bb8-afb5-4ba0-9c28-3b4e5c67ed4b",
+            "Name": "li",
+            "Text": "Streamline processes and coach sellers."
+          },
+          {
+            "Id": "5217ca66-1166-428b-8be2-ea8130594a14",
+            "Name": "a",
+            "Text": "Learn more",
+            "Href": "https://go.microsoft.com/fwlink/?LinkId=2212557\u0026amp;clcid=0x409"
+          },
+          {
+            "Id": "cb4060cb-ce76-46aa-b0ab-50ab28952a69",
+            "Name": "span",
+            "Text": "Learn more"
+          }
+        ]
+      },
+      {
+        "Id": "d781b1e1-a844-479f-97f8-02eda7d27c0a",
+        "Title": "Service",
+        "Elements": [
+          {
+            "Id": "fd1010f0-5c74-4b7c-a85e-01d4a72faf0d",
+            "Name": "img",
+            "Src": "//dynamics365cdn.azureedge.net/cvt-650eb06f516fb2c24301373d9f8fab68e54989852a09636baa6ebc9046ca1dc0/pictures/pages/index/usecases/use-case-service-tab.jpg",
+            "Alt": "Customer service image"
+          },
+          {
+            "Id": "f133980f-a3d8-4d53-86a6-5d7c07ff1805",
+            "Name": "h3",
+            "Text": "Reimagine the way you deliver customer service"
+          },
+          {
+            "Id": "2cdea421-ffcf-44bd-b37e-027034a3fd7a",
+            "Name": "li",
+            "Text": "Personalize service experiences."
+          },
+          {
+            "Id": "55ef4c7f-4845-4509-9185-a77155106c6f",
+            "Name": "li",
+            "Text": "Elevate employee effectiveness."
+          },
+          {
+            "Id": "9ef849fe-ca83-4490-8a2a-31aa51aabc9c",
+            "Name": "li",
+            "Text": "Optimize service operations."
+          },
+          {
+            "Id": "c24a519b-b582-430a-a205-b6732c459d98",
+            "Name": "a",
+            "Text": "Learn more about Service",
+            "Href": "https://dynamics.microsoft.com/en-us/service-solution/"
+          },
+          {
+            "Id": "402f2ab5-55d8-4235-8ae3-3946ed646ba3",
+            "Name": "span",
+            "Text": "Learn more about Service"
+          }
+        ]
+      },
+      {
+        "Id": "3d9e7467-001b-436f-be62-de6ac6082343",
+        "Title": "Finance",
+        "Elements": [
+          {
+            "Id": "77da8669-8f1a-49f5-9ba4-2b126840874a",
+            "Name": "img",
+            "Src": "//dynamics365cdn.azureedge.net/cvt-643a3223674494f01e9d516ff857ca0b7415ca97b0942ae3f684994aa0abb595/pictures/pages/index/usecases/use-case-finance-tab.jpg",
+            "Alt": "Finance agility image"
+          },
+          {
+            "Id": "05f3bb14-3b5b-42ad-bf60-43e8d674d2e1",
+            "Name": "h3",
+            "Text": "Build finance and business operation agility"
+          },
+          {
+            "Id": "e98cd862-d3fd-4997-984c-89c0ccfb31cc",
+            "Name": "li",
+            "Text": "Adapt faster to avoid disruptions."
+          },
+          {
+            "Id": "7465c81a-e3e5-479c-82d0-55218a5a70c8",
+            "Name": "li",
+            "Text": "Work smarter by driving efficiencies."
+          },
+          {
+            "Id": "e783695d-d3dc-4e3e-96ab-2734fc862e48",
+            "Name": "li",
+            "Text": "Drive better performance with automation."
+          },
+          {
+            "Id": "d9a2a55e-9340-42cb-a09a-4884585f3c14",
+            "Name": "a",
+            "Text": "Learn more about Finance",
+            "Href": "https://dynamics.microsoft.com/en-us/financial-and-operating-models/"
+          },
+          {
+            "Id": "faaa6f5a-910b-48cf-b6eb-3b1af69ea0ef",
+            "Name": "span",
+            "Text": "Learn more about Finance"
+          }
+        ]
+      },
+      {
+        "Id": "d2827a23-06b6-40d1-898c-69492ebbe453",
+        "Title": "Supply chain",
+        "Elements": [
+          {
+            "Id": "f19597ba-193b-4e48-b8c7-8690cf1895e8",
+            "Name": "img",
+            "Src": "//dynamics365cdn.azureedge.net/cvt-55889dc92cb3011f0eec0a78f82bae367d506e43f33ccd4b90b24e6ffbe1faad/pictures/pages/index/usecases/use-case-supply-chain-tab.jpg",
+            "Alt": "Digital supply chain image"
+          },
+          {
+            "Id": "79d81127-b8cd-47c1-b3cb-0f872a9a2aef",
+            "Name": "h3",
+            "Text": "Adapt and thrive with a digital supply chain"
+          },
+          {
+            "Id": "26c29f04-249d-47f4-8849-61fdaf5cd1f3",
+            "Name": "li",
+            "Text": "Maximize asset performance."
+          },
+          {
+            "Id": "81084eab-c5a3-4941-bb9b-2dc146e8c667",
+            "Name": "li",
+            "Text": "Transform manufacturing operations."
+          },
+          {
+            "Id": "62380252-4dba-4032-95fa-3aa775ab6e02",
+            "Name": "li",
+            "Text": "Meet growing digital commerce needs."
+          },
+          {
+            "Id": "fa307ec6-55af-48b0-8057-f7fd93a96c9e",
+            "Name": "a",
+            "Text": "Learn more about Supply Chain",
+            "Href": "https://dynamics.microsoft.com/en-us/digital-supply-chain/"
+          },
+          {
+            "Id": "b458e8ff-0f24-4015-8437-5a04cf8f088b",
+            "Name": "span",
+            "Text": "Learn more about Supply Chain"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Type": "Section",
+    "Id": "091eac7e-c886-439e-82f2-d02297622f7d",
+    "Title": "Proven to help businesses do more with less",
+    "Elements": [
+      {
+        "Id": "fd615e35-bc12-4f2d-832b-f2cb64bf2b4d",
+        "Name": "h2",
+        "Text": "Proven to help businesses do more with less"
+      },
+      {
+        "Id": "235af379-90ab-42ef-9958-038532e7df62",
+        "Name": "button",
+        "Text": "Total Economic Impact\u2122"
+      },
+      {
+        "Id": "e3f9de83-3575-4d1a-a42c-05e6839dd0e9",
+        "Name": "button",
+        "Text": "Industry recognition"
+      },
+      {
+        "Id": "3d80079f-9638-4b81-8dbd-75f74bf25fee",
+        "Name": "h2",
+        "Text": "Total Economic Impact\u2122"
+      },
+      {
+        "Id": "184b1712-972e-489b-935f-ca73337120b6",
+        "Name": "p",
+        "Text": "Explore the advantages of Dynamics\u00A0365 by reading commissioned studies conducted by Forrester Consulting."
+      },
+      {
+        "Id": "8c361eb6-4c88-48e6-833a-b4389f5a2bc5",
+        "Name": "h3",
+        "Text": "Up to 55 percent1"
+      },
+      {
+        "Id": "198dfb03-828e-48ea-9ba7-e19c0f268612",
+        "Name": "p",
+        "Text": "Increase in finance personnel productivity using Dynamics\u00A0365 Finance"
+      },
+      {
+        "Id": "2c449ac6-548b-4b1a-bc41-7c9f1aa83111",
+        "Name": "a",
+        "Text": "Read the study",
+        "Href": "https://tools.totaleconomicimpact.com/go/microsoft/D365Finance/"
+      },
+      {
+        "Id": "a08cc6da-407c-46c9-8600-198cf8c2c18b",
+        "Name": "span",
+        "Text": "Read the study"
+      },
+      {
+        "Id": "07d73011-9b9d-41df-a0c4-72282dee31ed",
+        "Name": "h3",
+        "Text": "215 percent ROI2"
+      },
+      {
+        "Id": "51ce9ddf-4e9f-42fc-88b6-fc68d8a99aad",
+        "Name": "p",
+        "Text": "Over three years using Dynamics\u00A0365 Sales"
+      },
+      {
+        "Id": "e65afa6e-2983-44de-a313-f05d0b14f6de",
+        "Name": "a",
+        "Text": "Read the study",
+        "Href": "https://go.microsoft.com/fwlink/?LinkId=2210614\u0026amp;clcid=0x409"
+      },
+      {
+        "Id": "58cc878e-5792-434b-8471-d413a43cc705",
+        "Name": "span",
+        "Text": "Read the study"
+      },
+      {
+        "Id": "14cb07a6-b3d6-4378-9282-207f8a5ef179",
+        "Name": "h3",
+        "Text": "73 percent reduction3"
+      },
+      {
+        "Id": "a0cef9af-a336-4081-810b-d51a71b8eb37",
+        "Name": "p",
+        "Text": "In average agent handling time using Dynamics\u00A0365 Customer Service"
+      },
+      {
+        "Id": "e62deb32-0a68-43b5-b7c7-5443aa8844a6",
+        "Name": "a",
+        "Text": "Read the study",
+        "Href": "https://info.microsoft.com/ww-landing-TEI-of-D365-customer-service.html?lcid=en-us"
+      },
+      {
+        "Id": "e9bf0c0d-af95-44a0-a7e0-c73c0e18f7c8",
+        "Name": "span",
+        "Text": "Read the study"
+      },
+      {
+        "Id": "6edc2c4d-b701-44b3-9d9e-ce0733c39776",
+        "Name": "h3",
+        "Text": "$1.5M savings4"
+      },
+      {
+        "Id": "1587074b-fc3d-436c-b844-1257c3084440",
+        "Name": "p",
+        "Text": "By reducing unplanned machine downtime using Dynamics\u00A0365 Supply Chain Management"
+      },
+      {
+        "Id": "9fdf602b-d961-465f-8ec7-9675a080bdf2",
+        "Name": "a",
+        "Text": "Read the study",
+        "Href": "https://go.microsoft.com/fwlink/?LinkId=2174261\u0026amp;clcid=0x409"
+      },
+      {
+        "Id": "f060c964-2c96-4503-84bb-ae7e43cd412d",
+        "Name": "span",
+        "Text": "Read the study"
+      },
+      {
+        "Id": "2c87249a-c33e-468b-856f-97f570285f51",
+        "Name": "h3",
+        "Text": "$44K savings5"
+      },
+      {
+        "Id": "13f8a563-284d-4572-82e9-a274e918d2c2",
+        "Name": "p",
+        "Text": "In third party reporting spend using Dynamics\u00A0365 Business Central"
+      },
+      {
+        "Id": "233501a8-acd8-43d4-871d-460a48ad5226",
+        "Name": "a",
+        "Text": "Read the study",
+        "Href": "https://download.microsoft.com/download/f/8/b/f8b3d4db-d2b6-4357-bfc4-a1fdafd8b993/TEI_of_Microsoft_Business Central_FINAL.pdf"
+      },
+      {
+        "Id": "b3f45c25-28a4-4b28-bb6f-ff7254abac31",
+        "Name": "span",
+        "Text": "Read the study"
+      },
+      {
+        "Id": "832db272-1c4b-4f78-965a-1128e5be4a41",
+        "Name": "h2",
+        "Text": "Industry recognition"
+      },
+      {
+        "Id": "3c4143a5-a219-49be-bdde-8818888db458",
+        "Name": "p",
+        "Text": "See why Microsoft has been recognized for vision and execution."
+      },
+      {
+        "Id": "30f82c1c-09d1-4643-99d3-4fb4a3604911",
+        "Name": "h3",
+        "Text": "Leader in CRM suites"
+      },
+      {
+        "Id": "9231be1d-9ffc-4ec6-a5ee-7fec381e7ec0",
+        "Name": "p",
+        "Text": "Find out why Forrester named Microsoft a Leader in The Forrester Wave\u2122: CRM Suites, Q3 2022."
+      },
+      {
+        "Id": "049261f0-6b06-4d9c-9720-9a5ce3718f75",
+        "Name": "a",
+        "Text": "Read the report",
+        "Href": "https://reprints2.forrester.com/#/assets/2/108/RES177486/report"
+      },
+      {
+        "Id": "8e9bea8a-c991-43af-b5d9-74b5561a63c5",
+        "Name": "span",
+        "Text": "Read the report"
+      },
+      {
+        "Id": "72dfbdf8-0e66-4f7e-a85e-af00f3b2cb54",
+        "Name": "h3",
+        "Text": "Leader in enterprise ERP technology"
+      },
+      {
+        "Id": "8cd9b817-275c-4893-8135-b74cc3743ec2",
+        "Name": "p",
+        "Text": "Discover why Nucleus Research recognized Microsoft as a Leader in their Enterprise ERP Technology Value Matrix 2022."
+      },
+      {
+        "Id": "0eea1197-a2a2-40b5-9d73-e05290bbd336",
+        "Name": "a",
+        "Text": "Read the report",
+        "Href": "https://go.microsoft.com/fwlink/?LinkId=2188641\u0026amp;clcid=0x409"
+      },
+      {
+        "Id": "fbdc3a75-a123-406e-aad8-843bf2a3a356",
+        "Name": "span",
+        "Text": "Read the report"
+      },
+      {
+        "Id": "4022d97d-ea7f-4723-8157-7dd34d6c38c5",
+        "Name": "h3",
+        "Text": "Sales force automation platforms"
+      },
+      {
+        "Id": "5d7e0822-15d2-4623-86b7-0ef29bdea704",
+        "Name": "p",
+        "Text": "Find out why Gartner\u00AE named Microsoft a Leader in its 2022 Magic Quadrant\u2122 for Sales Force Automation Platforms.7"
+      },
+      {
+        "Id": "830dd2bc-6cbd-447e-84c7-12b562ac5d48",
+        "Name": "a",
+        "Text": "Read the report",
+        "Href": "https://www.gartner.com/doc/reprints?id=1-2AZROZJ8\u0026amp;ct=220901\u0026amp;st=sb"
+      },
+      {
+        "Id": "287aa141-d4c8-4fae-80fe-e476ce9f56ff",
+        "Name": "span",
+        "Text": "Read the report"
+      },
+      {
+        "Id": "cae95978-777b-415b-9e17-c274251f15f6",
+        "Name": "h3",
+        "Text": "Leader in core CRM solutions"
+      },
+      {
+        "Id": "79dbdd20-21f2-4028-8c8a-b7fe796c59a5",
+        "Name": "p",
+        "Text": "Discover why Dynamics\u00A0365 is a Leader in The Forrester Wave: Core CRM Solutions, Q3 2022."
+      },
+      {
+        "Id": "9ae7973b-676e-456c-9f94-6a3169622dea",
+        "Name": "a",
+        "Text": "Read the report",
+        "Href": "https://reprints2.forrester.com/#/assets/2/108/RES177484/report"
+      },
+      {
+        "Id": "68d21595-e8a3-4cec-8858-2d08035bc87f",
+        "Name": "span",
+        "Text": "Read the report"
+      },
+      {
+        "Id": "cf6769b4-d1ae-412d-ac26-28d4df8a61a3",
+        "Name": "h3",
+        "Text": "A Leader in Cloud ERP"
+      },
+      {
+        "Id": "27bfb395-611e-422d-8904-2e854b312d90",
+        "Name": "p",
+        "Text": "Learn why Microsoft is a Leader in the 2022 Gartner\u00AE Magic Quadrant\u2122 for Cloud ERP for Product-Centric Enterprises.6"
+      },
+      {
+        "Id": "a81b8b7f-657b-4a7a-aeec-ac7d522d7b56",
+        "Name": "a",
+        "Text": "Read the report",
+        "Href": "https://go.microsoft.com/fwlink/?LinkId=2172678\u0026amp;clcid=0x409"
+      },
+      {
+        "Id": "a4254216-49aa-4246-8b97-f3df741021d8",
+        "Name": "span",
+        "Text": "Read the report"
+      },
+      {
+        "Id": "95f11b80-cc04-4fc2-901b-bbd361a2b9ce",
+        "Name": "h3",
+        "Text": "A leader in field service"
+      },
+      {
+        "Id": "6c89ef20-1de7-46d3-8c67-bcf39550e43b",
+        "Name": "p",
+        "Text": "Learn why Microsoft is named a Leader in the 2022 Gartner\u00AE Magic Quadrant\u2122 for Field Service Management8."
+      },
+      {
+        "Id": "305cab82-2e0d-4e0c-a415-1d2ba2f593bb",
+        "Name": "a",
+        "Text": "Read the report",
+        "Href": "https://www.gartner.com/doc/reprints?id=1-2BHT6TAN\u0026amp;ct=221025\u0026amp;st=sb"
+      },
+      {
+        "Id": "b49e011d-9ba2-4efc-a37a-2cd4fa69a22a",
+        "Name": "span",
+        "Text": "Read the report"
+      }
+    ]
+  },
+  {
+    "Type": "Tabs",
+    "Id": "2993e7a5-00c0-4869-8500-22a341112237",
+    "Title": "Tabs",
+    "Tabs": [
+      {
+        "Id": "067247ff-4ec2-4a20-a76c-c3a8c2ea08c6",
+        "Title": "Total Economic Impact\u2122",
+        "Elements": [
+          {
+            "Id": "6830f321-c04c-4151-95f0-53d1fc163a0b",
+            "Name": "h2",
+            "Text": "Total Economic Impact\u2122"
+          },
+          {
+            "Id": "21b2fe86-fd32-4374-a3dd-7b2bb0cc803c",
+            "Name": "p",
+            "Text": "Explore the advantages of Dynamics\u00A0365 by reading commissioned studies conducted by Forrester Consulting."
+          },
+          {
+            "Id": "6a648a19-98ad-4a99-a1d8-b5269cc32845",
+            "Name": "h3",
+            "Text": "Up to 55 percent1"
+          },
+          {
+            "Id": "dad33d5f-3c85-4817-aba0-52c5aa7c08bb",
+            "Name": "p",
+            "Text": "Increase in finance personnel productivity using Dynamics\u00A0365 Finance"
+          },
+          {
+            "Id": "3123e891-2d9f-4124-98c4-75df88afe6da",
+            "Name": "a",
+            "Text": "Read the study",
+            "Href": "https://tools.totaleconomicimpact.com/go/microsoft/D365Finance/"
+          },
+          {
+            "Id": "d6536811-d0a3-4c4e-a807-7ce27ed2aaf0",
+            "Name": "span",
+            "Text": "Read the study"
+          },
+          {
+            "Id": "eb0e7b5d-43e0-4838-8ea5-b56884da9db9",
+            "Name": "h3",
+            "Text": "215 percent ROI2"
+          },
+          {
+            "Id": "697b276f-9cc1-48ed-b8ea-98166c5039f6",
+            "Name": "p",
+            "Text": "Over three years using Dynamics\u00A0365 Sales"
+          },
+          {
+            "Id": "78b23d45-d87b-41bd-8e19-a6cd1fda9067",
+            "Name": "a",
+            "Text": "Read the study",
+            "Href": "https://go.microsoft.com/fwlink/?LinkId=2210614\u0026amp;clcid=0x409"
+          },
+          {
+            "Id": "d9508c31-f208-4654-b52b-7341d5d07914",
+            "Name": "span",
+            "Text": "Read the study"
+          },
+          {
+            "Id": "3e697e88-700b-4a05-9e6e-c5dbeef4f333",
+            "Name": "h3",
+            "Text": "73 percent reduction3"
+          },
+          {
+            "Id": "46c78e01-0d2a-4dc5-87be-bb345e491777",
+            "Name": "p",
+            "Text": "In average agent handling time using Dynamics\u00A0365 Customer Service"
+          },
+          {
+            "Id": "b7af898f-ea53-4b98-a8f7-529a1564018d",
+            "Name": "a",
+            "Text": "Read the study",
+            "Href": "https://info.microsoft.com/ww-landing-TEI-of-D365-customer-service.html?lcid=en-us"
+          },
+          {
+            "Id": "cc92f307-0d6e-421f-9ed8-851520170715",
+            "Name": "span",
+            "Text": "Read the study"
+          },
+          {
+            "Id": "78256384-3e70-49ee-8b6c-840080630c89",
+            "Name": "h3",
+            "Text": "$1.5M savings4"
+          },
+          {
+            "Id": "c53f0124-78ec-4dbf-b20f-cd192c4503a7",
+            "Name": "p",
+            "Text": "By reducing unplanned machine downtime using Dynamics\u00A0365 Supply Chain Management"
+          },
+          {
+            "Id": "86b8a2ee-0f82-4640-ab4a-f8033802fe2b",
+            "Name": "a",
+            "Text": "Read the study",
+            "Href": "https://go.microsoft.com/fwlink/?LinkId=2174261\u0026amp;clcid=0x409"
+          },
+          {
+            "Id": "fca0c4a0-bb4c-4208-8831-382143693d0b",
+            "Name": "span",
+            "Text": "Read the study"
+          },
+          {
+            "Id": "7d4ad337-df26-4ea3-9435-f58347f9eaf8",
+            "Name": "h3",
+            "Text": "$44K savings5"
+          },
+          {
+            "Id": "d3963c34-8cd1-4540-8586-f328130753db",
+            "Name": "p",
+            "Text": "In third party reporting spend using Dynamics\u00A0365 Business Central"
+          },
+          {
+            "Id": "18427076-6021-4da6-a28b-9799f25080d7",
+            "Name": "a",
+            "Text": "Read the study",
+            "Href": "https://download.microsoft.com/download/f/8/b/f8b3d4db-d2b6-4357-bfc4-a1fdafd8b993/TEI_of_Microsoft_Business Central_FINAL.pdf"
+          },
+          {
+            "Id": "b5182ca4-0152-4c06-bea2-e8e2abbd73ad",
+            "Name": "span",
+            "Text": "Read the study"
+          }
+        ]
+      },
+      {
+        "Id": "ea21a295-c261-42e9-a433-4c8f51d8b22f",
+        "Title": "Industry recognition",
+        "Elements": [
+          {
+            "Id": "df8b2bf5-6f97-4c56-98ca-1ce7e9e9bb72",
+            "Name": "h2",
+            "Text": "Industry recognition"
+          },
+          {
+            "Id": "e54d30df-cacd-443c-a210-357e089508cc",
+            "Name": "p",
+            "Text": "See why Microsoft has been recognized for vision and execution."
+          },
+          {
+            "Id": "c98dc7e7-98b3-4181-a6ac-ca531738c515",
+            "Name": "h3",
+            "Text": "Leader in CRM suites"
+          },
+          {
+            "Id": "abc6ee2a-2c58-43a7-9c36-d4ab176fb8fa",
+            "Name": "p",
+            "Text": "Find out why Forrester named Microsoft a Leader in The Forrester Wave\u2122: CRM Suites, Q3 2022."
+          },
+          {
+            "Id": "2222e96f-0169-49a9-952a-a770d8c173a0",
+            "Name": "a",
+            "Text": "Read the report",
+            "Href": "https://reprints2.forrester.com/#/assets/2/108/RES177486/report"
+          },
+          {
+            "Id": "7d5c9a0f-9dfb-4280-8cb3-18afb8aed821",
+            "Name": "span",
+            "Text": "Read the report"
+          },
+          {
+            "Id": "746832f6-b6a3-4229-bf93-c5b0eff59fc9",
+            "Name": "h3",
+            "Text": "Leader in enterprise ERP technology"
+          },
+          {
+            "Id": "31e7e84d-e6fd-4bb9-a2d5-4962144f17c4",
+            "Name": "p",
+            "Text": "Discover why Nucleus Research recognized Microsoft as a Leader in their Enterprise ERP Technology Value Matrix 2022."
+          },
+          {
+            "Id": "bd971f1c-cbbb-4f13-9681-c06e49a4216c",
+            "Name": "a",
+            "Text": "Read the report",
+            "Href": "https://go.microsoft.com/fwlink/?LinkId=2188641\u0026amp;clcid=0x409"
+          },
+          {
+            "Id": "1d154306-fcaa-4810-86dc-b3a67a1f05df",
+            "Name": "span",
+            "Text": "Read the report"
+          },
+          {
+            "Id": "245d12fe-d9d0-4ec1-b446-38881ad90188",
+            "Name": "h3",
+            "Text": "Sales force automation platforms"
+          },
+          {
+            "Id": "7427a5fd-69e5-434f-acb6-0d8ee2b73db8",
+            "Name": "p",
+            "Text": "Find out why Gartner\u00AE named Microsoft a Leader in its 2022 Magic Quadrant\u2122 for Sales Force Automation Platforms.7"
+          },
+          {
+            "Id": "ab13df53-8985-440b-8579-8bc2d196edf7",
+            "Name": "a",
+            "Text": "Read the report",
+            "Href": "https://www.gartner.com/doc/reprints?id=1-2AZROZJ8\u0026amp;ct=220901\u0026amp;st=sb"
+          },
+          {
+            "Id": "d42b1af2-edc4-4c81-aa13-67d42c1666e8",
+            "Name": "span",
+            "Text": "Read the report"
+          },
+          {
+            "Id": "1dc246b1-4bf4-4007-825e-bed300e79bbb",
+            "Name": "h3",
+            "Text": "Leader in core CRM solutions"
+          },
+          {
+            "Id": "05314513-f829-47c0-bfb6-ba24cfcf1b8e",
+            "Name": "p",
+            "Text": "Discover why Dynamics\u00A0365 is a Leader in The Forrester Wave: Core CRM Solutions, Q3 2022."
+          },
+          {
+            "Id": "a0be3b15-11a6-48ef-9e87-55961e0dfd31",
+            "Name": "a",
+            "Text": "Read the report",
+            "Href": "https://reprints2.forrester.com/#/assets/2/108/RES177484/report"
+          },
+          {
+            "Id": "f7c5b531-fb5d-4de4-b9db-99e4e8a8d257",
+            "Name": "span",
+            "Text": "Read the report"
+          },
+          {
+            "Id": "c45e93d3-c72f-4ff8-bce4-fa3c6973b061",
+            "Name": "h3",
+            "Text": "A Leader in Cloud ERP"
+          },
+          {
+            "Id": "25e7c8c9-cc90-44ae-86ad-b3355b50f30f",
+            "Name": "p",
+            "Text": "Learn why Microsoft is a Leader in the 2022 Gartner\u00AE Magic Quadrant\u2122 for Cloud ERP for Product-Centric Enterprises.6"
+          },
+          {
+            "Id": "8bf9812f-0f4c-4d6e-992a-6f93fd8fde03",
+            "Name": "a",
+            "Text": "Read the report",
+            "Href": "https://go.microsoft.com/fwlink/?LinkId=2172678\u0026amp;clcid=0x409"
+          },
+          {
+            "Id": "9b9aba81-6d3d-46c1-9748-e1c12f6ea05d",
+            "Name": "span",
+            "Text": "Read the report"
+          },
+          {
+            "Id": "f0294e74-4ba3-47c8-b263-4229ccbe3d02",
+            "Name": "h3",
+            "Text": "A leader in field service"
+          },
+          {
+            "Id": "a7b4db4f-3e14-4519-a89f-4afa18633e85",
+            "Name": "p",
+            "Text": "Learn why Microsoft is named a Leader in the 2022 Gartner\u00AE Magic Quadrant\u2122 for Field Service Management8."
+          },
+          {
+            "Id": "7dd9336c-3d2f-4031-a0b1-55e6e3659bf4",
+            "Name": "a",
+            "Text": "Read the report",
+            "Href": "https://www.gartner.com/doc/reprints?id=1-2BHT6TAN\u0026amp;ct=221025\u0026amp;st=sb"
+          },
+          {
+            "Id": "27552729-c367-4a51-a7a3-d175f98375a2",
+            "Name": "span",
+            "Text": "Read the report"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Type": "Cards",
+    "Id": "125c6128-74b0-4859-a5ed-5a91e190c7b9",
+    "Title": "Cards",
+    "Cards": [
+      {
+        "Id": "2baa5937-0fe3-4710-a10c-28cab32f0a08",
+        "Title": "Card1",
+        "Elements": [
+          {
+            "Id": "67eed056-17c4-4bcc-8818-35262895c0df",
+            "Name": "h3",
+            "Text": "Up to 55 percent1"
+          },
+          {
+            "Id": "e95270ef-5f3a-4819-a822-c97a9779999f",
+            "Name": "p",
+            "Text": "Increase in finance personnel productivity using Dynamics\u00A0365 Finance"
+          },
+          {
+            "Id": "4001ec12-21b4-4f67-92a0-79eb1dc43e0f",
+            "Name": "a",
+            "Text": "Read the study",
+            "Href": "https://tools.totaleconomicimpact.com/go/microsoft/D365Finance/"
+          },
+          {
+            "Id": "95ecc8b1-cda0-4b0e-8936-9ccb9d761f32",
+            "Name": "span",
+            "Text": "Read the study"
+          }
+        ]
+      },
+      {
+        "Id": "db3fa137-f175-46b1-b695-d578e2d53011",
+        "Title": "Card2",
+        "Elements": [
+          {
+            "Id": "552060aa-4e22-47d9-93d5-5a7bac025155",
+            "Name": "h3",
+            "Text": "215 percent ROI2"
+          },
+          {
+            "Id": "b7e93fdb-a642-41f9-9e4e-4b52c941b9f6",
+            "Name": "p",
+            "Text": "Over three years using Dynamics\u00A0365 Sales"
+          },
+          {
+            "Id": "bed598b1-2814-4271-af0a-9077cbf1e276",
+            "Name": "a",
+            "Text": "Read the study",
+            "Href": "https://go.microsoft.com/fwlink/?LinkId=2210614\u0026amp;clcid=0x409"
+          },
+          {
+            "Id": "b449fcdf-22a7-4a65-9b8a-b37071d458fa",
+            "Name": "span",
+            "Text": "Read the study"
+          }
+        ]
+      },
+      {
+        "Id": "a72d0467-acb1-432e-abf4-6c6b3662118d",
+        "Title": "Card3",
+        "Elements": [
+          {
+            "Id": "a376e753-072d-417d-87fd-bef2e38ba1b1",
+            "Name": "h3",
+            "Text": "73 percent reduction3"
+          },
+          {
+            "Id": "c37d9695-8d0c-4c56-98c0-e6567f5af3b5",
+            "Name": "p",
+            "Text": "In average agent handling time using Dynamics\u00A0365 Customer Service"
+          },
+          {
+            "Id": "9089c5b5-f781-4d20-b89d-7162ef9dece6",
+            "Name": "a",
+            "Text": "Read the study",
+            "Href": "https://info.microsoft.com/ww-landing-TEI-of-D365-customer-service.html?lcid=en-us"
+          },
+          {
+            "Id": "8ef2b682-57b9-43b0-86cd-aada1bf14d2e",
+            "Name": "span",
+            "Text": "Read the study"
+          }
+        ]
+      },
+      {
+        "Id": "e66a1b69-6a6d-4d58-94d2-6a2dadc99690",
+        "Title": "Card4",
+        "Elements": [
+          {
+            "Id": "b4917324-e4c8-423f-ae8e-1111acf08791",
+            "Name": "h3",
+            "Text": "$1.5M savings4"
+          },
+          {
+            "Id": "08e37092-d9a6-49d4-a1c9-172de58e82f0",
+            "Name": "p",
+            "Text": "By reducing unplanned machine downtime using Dynamics\u00A0365 Supply Chain Management"
+          },
+          {
+            "Id": "b4a22fb5-e625-4182-acaf-3c0b7ab404cb",
+            "Name": "a",
+            "Text": "Read the study",
+            "Href": "https://go.microsoft.com/fwlink/?LinkId=2174261\u0026amp;clcid=0x409"
+          },
+          {
+            "Id": "4b1b3abc-d46a-4f9c-9a24-97db85ae61f5",
+            "Name": "span",
+            "Text": "Read the study"
+          }
+        ]
+      },
+      {
+        "Id": "53c68207-f71d-4c4c-a228-ac3adc29028b",
+        "Title": "Card5",
+        "Elements": [
+          {
+            "Id": "6bc89cef-5299-418d-ab77-772b74ee4367",
+            "Name": "h3",
+            "Text": "$44K savings5"
+          },
+          {
+            "Id": "1e8a5729-385f-452b-aaf1-55f08f92c3b4",
+            "Name": "p",
+            "Text": "In third party reporting spend using Dynamics\u00A0365 Business Central"
+          },
+          {
+            "Id": "73bd85db-5f3b-4151-8363-34eec40ae24f",
+            "Name": "a",
+            "Text": "Read the study",
+            "Href": "https://download.microsoft.com/download/f/8/b/f8b3d4db-d2b6-4357-bfc4-a1fdafd8b993/TEI_of_Microsoft_Business Central_FINAL.pdf"
+          },
+          {
+            "Id": "29f4ad0e-d35c-46f9-bd92-ec129d86f219",
+            "Name": "span",
+            "Text": "Read the study"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Type": "Cards",
+    "Id": "c5d784a7-7806-48d1-9358-84641a955c83",
+    "Title": "Cards",
+    "Cards": [
+      {
+        "Id": "81dd3085-59ca-4f2e-b414-a4f38d546425",
+        "Title": "Card1",
+        "Elements": [
+          {
+            "Id": "bb3831d5-2f72-4bb9-9013-75b7d2ee9d21",
+            "Name": "h3",
+            "Text": "Leader in CRM suites"
+          },
+          {
+            "Id": "20c314ef-de4d-4d94-a145-8d0e68692f37",
+            "Name": "p",
+            "Text": "Find out why Forrester named Microsoft a Leader in The Forrester Wave\u2122: CRM Suites, Q3 2022."
+          },
+          {
+            "Id": "2ff58ea4-cbf9-472c-8528-ded34c825ced",
+            "Name": "a",
+            "Text": "Read the report",
+            "Href": "https://reprints2.forrester.com/#/assets/2/108/RES177486/report"
+          },
+          {
+            "Id": "3ff75ba4-9761-44e2-8263-47089c54046a",
+            "Name": "span",
+            "Text": "Read the report"
+          }
+        ]
+      },
+      {
+        "Id": "edc2585b-3bf2-4937-a3b6-993530f3a3a5",
+        "Title": "Card2",
+        "Elements": [
+          {
+            "Id": "0a26a349-f4e0-416d-a9eb-6fd4a811f119",
+            "Name": "h3",
+            "Text": "Leader in enterprise ERP technology"
+          },
+          {
+            "Id": "98883c9b-a373-42fc-b8cf-030cf81c20c6",
+            "Name": "p",
+            "Text": "Discover why Nucleus Research recognized Microsoft as a Leader in their Enterprise ERP Technology Value Matrix 2022."
+          },
+          {
+            "Id": "4059c8fe-17b8-4537-9b87-4898104fee53",
+            "Name": "a",
+            "Text": "Read the report",
+            "Href": "https://go.microsoft.com/fwlink/?LinkId=2188641\u0026amp;clcid=0x409"
+          },
+          {
+            "Id": "7627d958-f5a5-4542-b159-8b471b5c7bbc",
+            "Name": "span",
+            "Text": "Read the report"
+          }
+        ]
+      },
+      {
+        "Id": "0f73c9f2-1bb1-4349-b8d8-303372b3f424",
+        "Title": "Card3",
+        "Elements": [
+          {
+            "Id": "4f1a985d-307b-4ec7-a7b7-80403799433f",
+            "Name": "h3",
+            "Text": "Sales force automation platforms"
+          },
+          {
+            "Id": "33bb12bb-c196-4b90-9cba-310f4aef2b15",
+            "Name": "p",
+            "Text": "Find out why Gartner\u00AE named Microsoft a Leader in its 2022 Magic Quadrant\u2122 for Sales Force Automation Platforms.7"
+          },
+          {
+            "Id": "2a8782c8-3929-4a2e-9fd0-5bfe516a8afd",
+            "Name": "a",
+            "Text": "Read the report",
+            "Href": "https://www.gartner.com/doc/reprints?id=1-2AZROZJ8\u0026amp;ct=220901\u0026amp;st=sb"
+          },
+          {
+            "Id": "b783107a-c821-4f1b-9bc4-e08a87b4f2a2",
+            "Name": "span",
+            "Text": "Read the report"
+          }
+        ]
+      },
+      {
+        "Id": "0415061b-7d7c-4def-9f68-8ba6067cacd7",
+        "Title": "Card4",
+        "Elements": [
+          {
+            "Id": "78d00d2a-22e0-483a-86c3-27e2652f41c4",
+            "Name": "h3",
+            "Text": "Leader in core CRM solutions"
+          },
+          {
+            "Id": "db6c5e47-972d-44c4-b426-b630d0105b68",
+            "Name": "p",
+            "Text": "Discover why Dynamics\u00A0365 is a Leader in The Forrester Wave: Core CRM Solutions, Q3 2022."
+          },
+          {
+            "Id": "9164a067-078f-463b-88a7-e572eeb01200",
+            "Name": "a",
+            "Text": "Read the report",
+            "Href": "https://reprints2.forrester.com/#/assets/2/108/RES177484/report"
+          },
+          {
+            "Id": "efd1669d-6adf-4e86-af83-3a7ceec134cc",
+            "Name": "span",
+            "Text": "Read the report"
+          }
+        ]
+      },
+      {
+        "Id": "0401667f-9c25-4644-aa6b-b369d17d2d66",
+        "Title": "Card5",
+        "Elements": [
+          {
+            "Id": "727cd94c-8ff7-4362-ac59-7bf90df56255",
+            "Name": "h3",
+            "Text": "A Leader in Cloud ERP"
+          },
+          {
+            "Id": "ba00307e-91c7-4f5c-be89-ee63b0a21797",
+            "Name": "p",
+            "Text": "Learn why Microsoft is a Leader in the 2022 Gartner\u00AE Magic Quadrant\u2122 for Cloud ERP for Product-Centric Enterprises.6"
+          },
+          {
+            "Id": "064838af-d702-4a55-90b1-0d75e7379719",
+            "Name": "a",
+            "Text": "Read the report",
+            "Href": "https://go.microsoft.com/fwlink/?LinkId=2172678\u0026amp;clcid=0x409"
+          },
+          {
+            "Id": "fd6cee4a-678a-48ad-870f-4a8e4882abd9",
+            "Name": "span",
+            "Text": "Read the report"
+          }
+        ]
+      },
+      {
+        "Id": "98da933f-0c69-4ea3-82fd-bbacbab42b47",
+        "Title": "Card6",
+        "Elements": [
+          {
+            "Id": "1c4a7a63-075a-4fd9-a685-decd62a91c4f",
+            "Name": "h3",
+            "Text": "A leader in field service"
+          },
+          {
+            "Id": "a942ca5c-b995-406b-b126-5dc31c677cdd",
+            "Name": "p",
+            "Text": "Learn why Microsoft is named a Leader in the 2022 Gartner\u00AE Magic Quadrant\u2122 for Field Service Management8."
+          },
+          {
+            "Id": "75774605-90fd-4473-bb71-4c1c9b214a73",
+            "Name": "a",
+            "Text": "Read the report",
+            "Href": "https://www.gartner.com/doc/reprints?id=1-2BHT6TAN\u0026amp;ct=221025\u0026amp;st=sb"
+          },
+          {
+            "Id": "6030fb3c-0509-4af2-a20f-601448ff960c",
+            "Name": "span",
+            "Text": "Read the report"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Type": "Tabs",
+    "Id": "507a0854-19e2-4578-81d2-38583a40fe1f",
+    "Title": "Tabs",
+    "Tabs": [
+      {
+        "Id": "fe4c5f29-bf15-471a-9694-7e098cd06479",
+        "Title": "Tab1",
+        "Elements": [
+          {
+            "Id": "0bd164ee-f752-41f4-a04c-8928c10b5bc3",
+            "Name": "img",
+            "Src": "//dynamics365cdn.azureedge.net/cvt-a6841ee6df23d95bb58b55e92ee3f3677860e0c8ecfc42411ce6ff6d373402bd/pictures/pages/index/customer-evidence/phillips.jpg",
+            "Alt": "A man manufacturing machineries"
+          },
+          {
+            "Id": "220ea860-3109-44f9-9235-ecedfffe03fe",
+            "Name": "h3",
+            "Text": "Phillips Corporation boosts field operations"
+          },
+          {
+            "Id": "3e69392d-025d-4c14-819f-2ee190a00394",
+            "Name": "p",
+            "Text": "Read how the manufacturing supplier modernized its service operations and increased revenue using Field Service."
+          },
+          {
+            "Id": "ca5279ea-7174-47c8-ac6f-f9b8c6a905be",
+            "Name": "a",
+            "Text": "Read the story",
+            "Href": "https://customers.microsoft.com/story/1627203871037668308-phillips-corporation-manufacturing-dynamics-365"
+          },
+          {
+            "Id": "8ff04ac0-4a75-4897-957e-cdf8cc688c5e",
+            "Name": "span",
+            "Text": "Read the story"
+          }
+        ]
+      },
+      {
+        "Id": "5b687e03-2be1-4ad4-8df5-ba1dc4a95e57",
+        "Title": "Tab2",
+        "Elements": [
+          {
+            "Id": "8f055bab-b266-4332-9890-836c1f40a956",
+            "Name": "img",
+            "Src": "//dynamics365cdn.azureedge.net/cvt-6bc221fb273d11014bdcab6bfe310082972b5bcfcf2804266f0314ab7614cb1d/pictures/pages/index/customer-evidence/tillamook.jpg",
+            "Alt": "A truck on the bridge"
+          },
+          {
+            "Id": "7fa92b54-1d6e-498e-af67-ff3771657944",
+            "Name": "h3",
+            "Text": "Milking better outcomes"
+          },
+          {
+            "Id": "1c0eb507-8f56-4581-bed4-bb57a9a581a4",
+            "Name": "p",
+            "Text": "Tillamook County Creamery Association improved warehouse pallet throughput by over 50 percent while also automating key manual processes using Dynamics\u00A0365."
+          },
+          {
+            "Id": "067fe628-f315-42bd-a007-5c1577399e5c",
+            "Name": "a",
+            "Text": "Read the story",
+            "Href": "https://customers.microsoft.com/story/1496198354107568434-tillamook-consumergoods"
+          },
+          {
+            "Id": "24d8e3ef-4ebf-44a7-9721-5c96e2df6f8a",
+            "Name": "span",
+            "Text": "Read the story"
+          }
+        ]
+      },
+      {
+        "Id": "6b51dd25-72af-4eac-9061-df5a7bd46b79",
+        "Title": "Tab3",
+        "Elements": [
+          {
+            "Id": "16aa52bb-19c7-478c-bfbb-73e4f6c5c256",
+            "Name": "img",
+            "Src": "//dynamics365cdn.azureedge.net/cvt-d78327fd48c1be855dcdc2bee53bdc8af1ccc5d9feea317be2a681de5570f4d1/pictures/pages/index/customer-evidence/shicryogenics.jpg",
+            "Alt": "person discussing by pointing to laptop"
+          },
+          {
+            "Id": "f33207f3-c700-4eef-9af9-eb9e859b8452",
+            "Name": "h3",
+            "Text": "Repairing products four times faster"
+          },
+          {
+            "Id": "fd780778-5c84-4d1a-9d02-0cf79d8a6dd0",
+            "Name": "p",
+            "Text": "SHI Cryogenics reduced product repair turnaround times from two months to two weeks, while also growing sales and service profits using Dynamics\u00A0365."
+          },
+          {
+            "Id": "14f2a476-02f2-4a29-895c-c7522c038b9b",
+            "Name": "a",
+            "Text": "Read the story",
+            "Href": "https://customers.microsoft.com/story/847954-shi-cryogenics-manufacturing-dynamics-365"
+          },
+          {
+            "Id": "a130bcdd-2ebb-4f84-8e74-2a8b0e579686",
+            "Name": "span",
+            "Text": "Read the story"
+          }
+        ]
+      },
+      {
+        "Id": "93ccc9de-088d-4180-89d5-457fc7b0ace9",
+        "Title": "Tab4",
+        "Elements": [
+          {
+            "Id": "31113896-3a55-403c-9956-5d8acf1a1170",
+            "Name": "img",
+            "Src": "//dynamics365cdn.azureedge.net/cvt-3644306aeda1a84f6c638bfb406c432b3596b194e4f266f013377dd704b86c22/pictures/pages/index/customer-evidence/mvphealthcare.jpg",
+            "Alt": "Group of people together with happy faces"
+          },
+          {
+            "Id": "a0710941-b2db-44bf-985a-818418f1e5a1",
+            "Name": "h3",
+            "Text": "Modernizing to save $6M"
+          },
+          {
+            "Id": "6270d080-9219-4e70-a198-aa482ae37ce3",
+            "Name": "p",
+            "Text": "MVP Healthcare transitioned to Dynamics\u00A0365 and expects $6 million in savings by implementing AI-driven process improvements, sunsetting legacy domains, and improving IT efficiency."
+          },
+          {
+            "Id": "303ef7e0-9158-43be-9455-de0a8756f6bf",
+            "Name": "a",
+            "Text": "Read the story",
+            "Href": "https://customers.microsoft.com/story/773408-mvp-health-care-health-payor-dynamics-365"
+          },
+          {
+            "Id": "2acd7445-bd09-4ed0-b519-b69a14c428c0",
+            "Name": "span",
+            "Text": "Read the story"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Type": "Section",
+    "Id": "f5db45b5-1ad7-4b59-86e2-1f1e39f6f2c6",
+    "Title": "Trusted by global businesses big and\u00A0small",
+    "Elements": [
+      {
+        "Id": "698ec1c7-981f-4b1e-911a-c81d39e394d1",
+        "Name": "h2",
+        "Text": "Trusted by global businesses big and\u00A0small"
+      },
+      {
+        "Id": "9ca87758-ecd0-4001-8727-2ad3a563a8c6",
+        "Name": "img",
+        "Src": "//dynamics365cdn.azureedge.net/cvt-16454c9fee8c03f2341bf9133f8c9f70231e053c0d094abd37fb374651fdaed9/pictures/pages/index/logos/coca-cola-africa.png",
+        "Alt": "Coca-Cola Beverages Africa (CCBA)"
+      },
+      {
+        "Id": "6fa76046-50a8-4b48-a8d1-de5d56509218",
+        "Name": "img",
+        "Src": "//dynamics365cdn.azureedge.net/cvt-19460b86ee1c12181016aceb7a13f7ed2baa583b3b4f038530048e6dcc766bee/pictures/pages/index/logos/gnc.png",
+        "Alt": "GNC"
+      },
+      {
+        "Id": "f92e2975-91bc-4074-9f90-711e5dda7fa1",
+        "Name": "img",
+        "Src": "//dynamics365cdn.azureedge.net/cvt-27fffbb560b74470c4b85d4ef7b2770920c19db786a6ac65f6608b22c12215dd/pictures/pages/index/logos/hp@2x.png",
+        "Alt": "HP"
+      },
+      {
+        "Id": "4b9fc426-a289-46c1-82dc-5e393cb2f4b4",
+        "Name": "img",
+        "Src": "//dynamics365cdn.azureedge.net/cvt-3036846954e30fe1e2c3db213bb43aaf5e381c2d5120a7d2dde1d7da58e129a4/pictures/pages/index/logos/chevron@2x.png",
+        "Alt": "Chevron"
+      },
+      {
+        "Id": "39e777f9-915d-4aff-9ed1-64b191bf8802",
+        "Name": "img",
+        "Src": "//dynamics365cdn.azureedge.net/cvt-ab21cd84bcadf15c39e0de7b564556fd782f33ea336a0364dfcc1342d64b441e/pictures/pages/index/logos/daimler.png",
+        "Alt": "Daimler Trucks North America"
+      },
+      {
+        "Id": "405a11ab-537a-45fc-95d8-6c48296960d3",
+        "Name": "img",
+        "Src": "//dynamics365cdn.azureedge.net/cvt-c0c1a4fd20495c79480cd8819fea97c2bb808441fb9cca11bd13104928a05a6e/pictures/pages/index/logos/edible.png",
+        "Alt": "Edible Arrangements"
+      },
+      {
+        "Id": "ec1992a9-d422-4233-852e-76520115ce6e",
+        "Name": "img",
+        "Src": "//dynamics365cdn.azureedge.net/cvt-69c7e67850e03170102b5b1a15e1e2943ad7f509f329722e0120824c64239d41/pictures/pages/index/logos/chipotle.png",
+        "Alt": "Chipotle"
+      },
+      {
+        "Id": "78d9b470-e799-44a8-8968-6183886101de",
+        "Name": "img",
+        "Src": "//dynamics365cdn.azureedge.net/cvt-2ca28f08fbbaaed6b509b57f8114bbc1af20d1021104ad270c0741bde68d44f6/pictures/pages/index/logos/gibson-brands.png",
+        "Alt": "Gibson Brands"
+      },
+      {
+        "Id": "f18e6aca-6eb3-4658-8099-f38c2cb043ad",
+        "Name": "img",
+        "Src": "//dynamics365cdn.azureedge.net/cvt-fabf70dfc9b322f8ca28624e8474b43445d8ca48fecb09d3cda8fd88f5c09634/pictures/pages/index/logos/jansen-ag.png",
+        "Alt": "Jansen AG"
+      },
+      {
+        "Id": "ef6d0a5d-e3dd-4a50-8793-0273a4c79ea2",
+        "Name": "img",
+        "Src": "//dynamics365cdn.azureedge.net/cvt-a2fbb29a944e56fad84bfd1403ae97271ceca11528a077060af57c12adb44d2b/pictures/pages/index/logos/king-county.png",
+        "Alt": "King County"
+      },
+      {
+        "Id": "34fcc584-feaa-4915-8194-03a9b107a28f",
+        "Name": "img",
+        "Src": "//dynamics365cdn.azureedge.net/cvt-54e175e7968a30e37af9a00f5aaed439e7b09bf15f7b8e2beafd4f40912794ac/pictures/pages/index/logos/aubainerie.png",
+        "Alt": "Aubainerie"
+      },
+      {
+        "Id": "1784c48b-bb02-4696-8be1-5ce5baa753db",
+        "Name": "img",
+        "Src": "//dynamics365cdn.azureedge.net/cvt-d03885481ba2bc491b37ed6832049c933dd09de032055f605d333ed91e89777e/pictures/pages/index/logos/heineken.png",
+        "Alt": "Heineken"
+      },
+      {
+        "Id": "77a51193-ff63-4fe8-84da-752535047888",
+        "Name": "img",
+        "Src": "//dynamics365cdn.azureedge.net/cvt-987f8513f5aaf345f173b372544485a1cb94aa858257554c3362e9debf44eb01/pictures/pages/index/logos/rabobank.png",
+        "Alt": "Rabobank"
+      },
+      {
+        "Id": "cfa1fa79-c568-4ada-81cb-e4eb6b60621a",
+        "Name": "img",
+        "Src": "//dynamics365cdn.azureedge.net/cvt-67ada94b6ef408d3213b768f8b8bf80d3b83deea1435734f185bead63c362a80/pictures/pages/index/logos/morgan-sindall-group.png",
+        "Alt": "Morgan Sindall Group"
+      },
+      {
+        "Id": "c1adf56c-da58-4cc6-ad6b-dc5691e86078",
+        "Name": "img",
+        "Src": "//dynamics365cdn.azureedge.net/cvt-27e57d65f0ed2bae85b8fb0c61b3ee4bd8e3801110d89017984986e2b6b039c1/pictures/pages/index/logos/siemens-new.png",
+        "Alt": "Siemens"
+      },
+      {
+        "Id": "db9375f8-c9b0-4d60-a18f-0a4265fc1e21",
+        "Name": "img",
+        "Src": "//dynamics365cdn.azureedge.net/cvt-f9b8ce6578d48b821f1c21683eabd674d75caf1f27cca954db01d594495a1cf1/pictures/pages/index/logos/mercedes-benz.png",
+        "Alt": "Mercedes Benz"
+      },
+      {
+        "Id": "315951ed-97c3-4f48-85b7-393900cd269f",
+        "Name": "img",
+        "Src": "//dynamics365cdn.azureedge.net/cvt-cabf11370066198f7e0c9a26998b614eebd3104ac2a52d74b5fa73e18d0da1d9/pictures/pages/index/logos/ecolab@2x.png",
+        "Alt": "Ecolab"
+      },
+      {
+        "Id": "5c4e689b-89c1-4e7b-9e88-ae6488b01fbb",
+        "Name": "img",
+        "Src": "//dynamics365cdn.azureedge.net/cvt-55a7cf76e65fe5eca493eb7fefc2172e3b58e3ed7864984464a532a595b99544/pictures/pages/index/logos/campari-group.png",
+        "Alt": "Campari Group"
+      },
+      {
+        "Id": "3e2f1fe4-68b0-4796-898c-542b3a329b07",
+        "Name": "img",
+        "Src": "//dynamics365cdn.azureedge.net/cvt-39a9112ef530365f5be69d48bbbe4c72f9cab187f255db0e358a5b9be54104db/pictures/pages/index/logos/eaton.png",
+        "Alt": "Eaton"
+      },
+      {
+        "Id": "ecc63fde-dfec-4170-9ba0-7c7e2a100c31",
+        "Name": "img",
+        "Src": "//dynamics365cdn.azureedge.net/cvt-2f540f02e433b47b8f7c4c2ffc19e086488c47cef1d057b6b07e7d6877257bcc/pictures/pages/index/logos/maersk-supply-service.png",
+        "Alt": "Maersk Supply Service"
+      },
+      {
+        "Id": "f179cb97-41a6-4a82-a63d-7d3d8db26c4d",
+        "Name": "img",
+        "Src": "//dynamics365cdn.azureedge.net/cvt-f672e0e375c3000d5f6ba9ad07d523a8fed278d1c42585d8d5c6aaafe2853365/pictures/pages/index/logos/fitness@2x.png",
+        "Alt": "24 Hour Fitness"
+      },
+      {
+        "Id": "6c4ea244-a447-4963-9927-0d17e46fba20",
+        "Name": "img",
+        "Src": "//dynamics365cdn.azureedge.net/cvt-5c0690b6482f57a4f0f5a90bdde051e67a52b4c6c1006b7af865300e7e667183/pictures/pages/index/logos/michael-hill.png",
+        "Alt": "Michael Hill"
+      },
+      {
+        "Id": "d0e2ca49-2035-4212-89dc-4051b9a87877",
+        "Name": "img",
+        "Src": "//dynamics365cdn.azureedge.net/cvt-9b8378384fc09337926ec50a24c1e4139ddc8b3f8ac63baad47122840d111eb8/pictures/pages/index/logos/chemtreat.png",
+        "Alt": "ChemTreat"
+      },
+      {
+        "Id": "f96d1242-9c68-47fa-8453-86c706ee1bdb",
+        "Name": "img",
+        "Src": "//dynamics365cdn.azureedge.net/cvt-9871ee49c4d378d845af94e67fc2bfa2c100b7b56bf7ff0662086d2eea2a61e4/pictures/pages/index/logos/mainstream.png",
+        "Alt": "Mainstream"
+      },
+      {
+        "Id": "4f959872-bf42-4d3c-a29b-a7f50eaae1d6",
+        "Name": "a",
+        "Text": "Read customer stories",
+        "Href": "https://dynamics.microsoft.com/en-us/customer-stories/"
+      },
+      {
+        "Id": "6b6b45d1-3c74-471d-9a7f-7367605791f8",
+        "Name": "span",
+        "Text": "Read customer stories"
+      }
+    ]
+  },
+  {
+    "Type": "Section",
+    "Id": "e071315a-3c88-4498-8552-47a986ffd456",
+    "Title": "Get started with Dynamics 365",
+    "Elements": [
+      {
+        "Id": "7466521f-62e7-4919-831a-e155d08504a7",
+        "Name": "img",
+        "Src": "https://dynamics365cdn.azureedge.net/cvt-a02879a266b05297f0b5cdfe45189b00d05b72221cc863fff84c031b5521710d/pictures/pages/index/Homepage_Get_Started.jpg",
+        "Alt": "Person working at a laptop"
+      },
+      {
+        "Id": "20d5efaf-d73d-4a70-bc06-a9a18b45f669",
+        "Name": "h2",
+        "Text": "Get started with Dynamics 365"
+      },
+      {
+        "Id": "7991a055-872e-4c85-a6d9-150ab4dce8d3",
+        "Name": "a",
+        "Text": "Try for free",
+        "Href": "https://dynamics.microsoft.com/en-us/dynamics-365-free-trial/"
+      },
+      {
+        "Id": "fc55b3ef-13f4-4e00-8742-06fd6250758a",
+        "Name": "span",
+        "Text": "Try for free"
+      },
+      {
+        "Id": "d93799dd-fccc-4826-aa13-29dcd0699fe7",
+        "Name": "img",
+        "Src": "/pictures/pages/index/Homepage_Get_Started.jpg",
+        "Alt": "Person working at a laptop"
+      }
+    ]
+  },
+  {
+    "Type": "Section",
+    "Id": "16a7ad96-366f-4931-95d0-ce9b73ff1da9",
+    "Title": "Component13",
+    "Elements": [
+      {
+        "Id": "bd5eea9c-52ce-4da5-a6b6-51e09fce0e17",
+        "Name": "p",
+        "Text": "1 Data point from the July 2022 Total Economic Impact\u2122 commissioned study conducted by Forrester Consulting, calculated over three years."
+      },
+      {
+        "Id": "b7211a19-f9bb-4783-a789-4057e388de34",
+        "Name": "p",
+        "Text": "2 Data point from the March 2022 Total Economic Impact\u2122 commissioned study conducted by Forrester Consulting, calculated over three years."
+      },
+      {
+        "Id": "9b60f99b-7fb2-42e7-af1c-3b97af4d8ed3",
+        "Name": "p",
+        "Text": "3 Data point from the August 2020 Total Economic Impact\u2122 commissioned study conducted by Forrester Consulting, calculated over three years."
+      },
+      {
+        "Id": "be6897cb-2d0a-4162-bda2-0d8b61cc56af",
+        "Name": "p",
+        "Text": "4 Data point from the August 2021 Total Economic Impact\u2122 commissioned study conducted by Forrester Consulting, calculated over three years."
+      },
+      {
+        "Id": "780da16a-870a-48a5-84cd-772168e33b26",
+        "Name": "p",
+        "Text": "5 Data point from the September 2020 Total Economic Impact\u2122 commissioned study conducted by Forrester Consulting, calculated over three years."
+      },
+      {
+        "Id": "694f5728-ea59-4306-8206-c9951c05734c",
+        "Name": "p",
+        "Text": "6 Gartner Magic Quadrant for Cloud ERP for Product-Centric Enterprises, 26 September 2022, Greg Leiter, Dixie John, Robert Anderson, and Tim Faith."
+      },
+      {
+        "Id": "0f790f56-00de-415c-8bc6-a4496be19d48",
+        "Name": "p",
+        "Text": "7 Gartner, Magic Quadrant for Sales Force Automation Platforms, Adnan Zijadic, Ilona Hansen, Steve Rietberg, Varun Agarwal, 20 September 2022"
+      },
+      {
+        "Id": "1040167b-3835-434b-b31c-5901a42b9009",
+        "Name": "p",
+        "Text": "8 Gartner Magic Quadrant for B2B Marketing Automation Platforms, Rick LaFond, Julian Poulter, Jeffrey L. Cohen, Matt Wakeman, and Jeff Goldberg, 19 September 2022."
+      },
+      {
+        "Id": "3c729322-8d56-4f7e-9485-71a15d4a99bf",
+        "Name": "p",
+        "Text": "Gartner is a registered trademark and service mark and Magic Quadrant is a registered trademark of Gartner, Inc. and/or its affiliates in the U.S. and internationally and are used herein with permission. All rights reserved."
+      },
+      {
+        "Id": "26d9b8cb-f179-4b2c-805a-b34cebb65846",
+        "Name": "p",
+        "Text": "Gartner does not endorse any vendor, product or service depicted in its research publications, and does not advise technology users to select only those vendors with the highest ratings or other designation. Gartner research publications consist of the opinions of Gartner\u2019s research organization and should not be construed as statements of fact. Gartner disclaims all warranties, expressed or implied, with respect to this research, including any warranties of merchantability or fitness for a particular purpose."
+      }
+    ]
+  },
+  {
+    "Type": "Section",
+    "Id": "9a412b1c-ccd7-4af3-8d21-24c44ebbfe58",
+    "Title": "Contact us",
+    "Elements": [
+      {
+        "Id": "fac55f5e-46d9-4b0c-8e0d-df1291b50e62",
+        "Name": "h2",
+        "Text": "Contact us"
+      },
+      {
+        "Id": "9922eb85-d692-4b3c-b633-34f66005fc9f",
+        "Name": "h3",
+        "Text": "Chat with Sales"
+      },
+      {
+        "Id": "3301eeb6-35a7-443b-a881-38d03c79b5d6",
+        "Name": "p",
+        "Text": "Available Monday to Friday"
+      },
+      {
+        "Id": "f03a2a85-44d9-411d-87b8-c4f10331c0e4",
+        "Name": "p",
+        "Text": "8 AM to 5 PM Central Time."
+      },
+      {
+        "Id": "b8c100c6-544a-421b-a128-fa8c8c6a3ec1",
+        "Name": "a",
+        "Text": "Chat now",
+        "Href": "https://dynamics.microsoft.com/en-us/#"
+      },
+      {
+        "Id": "a5245e05-114f-4f22-9282-de368d7f5a5e",
+        "Name": "span",
+        "Text": "Chat now"
+      },
+      {
+        "Id": "2bd61bb8-a56f-4404-873a-44888bb8d337",
+        "Name": "h3",
+        "Text": "Request we contact you"
+      },
+      {
+        "Id": "5ee4b595-80c0-47cb-9ccf-c6dae8586af1",
+        "Name": "p",
+        "Text": "Have a Dynamics 365 sales expert contact you."
+      },
+      {
+        "Id": "e6628303-84a7-4316-abd8-4f0016af22d8",
+        "Name": "a",
+        "Text": "Send a request",
+        "Href": "https://go.microsoft.com/fwlink/?LinkId=2240698\u0026amp;clcid=0x409"
+      },
+      {
+        "Id": "df7665b2-0979-47dd-96d0-25f62efa2ab5",
+        "Name": "span",
+        "Text": "Send a request"
+      },
+      {
+        "Id": "ab94b394-cb5e-4745-b331-4df99d74632d",
+        "Name": "h3",
+        "Text": "Call Sales"
+      },
+      {
+        "Id": "8fa240af-0012-4549-87c5-b98d95c5c4e3",
+        "Name": "p",
+        "Text": "Available Monday to Friday"
+      },
+      {
+        "Id": "7e5a0399-e40a-4228-a13e-907aecc67da9",
+        "Name": "p",
+        "Text": "8 AM to 5 PM Central Time."
+      },
+      {
+        "Id": "1b810b59-b3df-46a5-a13a-98c6977ce94e",
+        "Name": "a",
+        "Text": "Call 18552700615",
+        "Href": "tel:18552700615"
+      },
+      {
+        "Id": "d7247b22-7242-4660-9bad-a75ce5207545",
+        "Name": "span",
+        "Text": "Call 18552700615"
+      }
+    ]
+  },
+  {
+    "Type": "Section",
+    "Id": "7c663906-9c6f-477e-85b6-821a4e9c967a",
+    "Title": "Component15",
+    "Elements": [
+      {
+        "Id": "ff8b7734-0969-42db-be36-553da9499cec",
+        "Name": "iframe",
+        "Src": "https://dynamics.microsoft.com/en-us/"
+      }
+    ]
+  },
+  {
+    "Type": "Section",
+    "Id": "90e2188f-b6b5-46c1-a671-d6daa9ccd30f",
+    "Title": "Need Help?",
+    "Elements": [
+      {
+        "Id": "0da68e09-2534-4bfe-a44e-eb55a5ac1445",
+        "Name": "h3",
+        "Text": "Need Help?"
+      },
+      {
+        "Id": "58d7fa65-6bb6-4e45-bb0f-6e959886e983",
+        "Name": "p",
+        "Text": "Chat with a Microsoft sales specialist for answers to your Dynamics 365 questions."
+      },
+      {
+        "Id": "0b497429-ab98-48a6-a445-689561f0f254",
+        "Name": "button",
+        "Text": "Chat now"
+      },
+      {
+        "Id": "7d6bbd3e-dd7d-4467-a841-ae671e7c0312",
+        "Name": "span",
+        "Text": "Chat now"
+      },
+      {
+        "Id": "a6f59afc-7eff-4e3c-b43c-9914664ccec7",
+        "Name": "button",
+        "Text": "No thanks"
+      },
+      {
+        "Id": "1718a109-867c-4ec4-af8d-507548ff5f89",
+        "Name": "span",
+        "Text": "No thanks"
+      }
+    ]
+  },
+  {
+    "Type": "Section",
+    "Id": "7db982ba-b988-482d-b0ab-baafd60f6d20",
+    "Title": "Thanks for reaching out\u200B",
+    "Elements": [
+      {
+        "Id": "bf32df8d-61ef-4745-9505-270e7ec8f9d5",
+        "Name": "button",
+        "Text": "\u00D7"
+      },
+      {
+        "Id": "cc1a314a-0976-4eb1-9c18-74dd32ec170f",
+        "Name": "img",
+        "Src": "https://dynamics365cdn.azureedge.net/cvt-da485b5e78394d40483a6742b6955c75cab4d3598877fc2d166f142de6774864/pictures/geo-redirect/north-america/geo-popup-yellow.png",
+        "Alt": "north-america"
+      },
+      {
+        "Id": "5cbcf9d4-743f-4e88-943d-37771eadb444",
+        "Name": "h3",
+        "Text": "Thanks for reaching out\u200B"
+      },
+      {
+        "Id": "a72bfb06-4c9e-44aa-ac2b-7552bff60b9b",
+        "Name": "p",
+        "Text": "You\u2019re trying to chat with our en-us Sales team outside of their business hours, but you can talk now in en-in with our India - English Sales\u00A0team.\u200B"
+      },
+      {
+        "Id": "a5a50955-dbd8-4c39-aa8f-793319234e47",
+        "Name": "a",
+        "Text": "Chat now",
+        "Href": "https://dynamics.microsoft.com/en-in/"
+      },
+      {
+        "Id": "f79a1ed3-891f-4470-b77b-c37f574555af",
+        "Name": "span",
+        "Text": "Chat now"
+      },
+      {
+        "Id": "47bdbd82-1ec9-4625-ab22-1301bc18deea",
+        "Name": "a",
+        "Text": "No, thanks",
+        "Href": "https://dynamics.microsoft.com/en-us/"
+      },
+      {
+        "Id": "2abb5fe2-6382-4a3c-b1b1-cdc9bd130b2b",
+        "Name": "span",
+        "Text": "No, thanks"
+      }
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+﻿@page
+@model IndexModel
+@inject SignInManager<ApplicationUser> SignInManager
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div style="margin-top: 50px;">
+    @if (SignInManager.IsSignedIn(User))
+    {
+        @if ((User.IsInRole("Manager") || User.IsInRole("Admin")))
+        {
+            <a class="box-link" style="background-color:rgb(244, 161, 0);" asp-controller="Requests" asp-action="Create">
+                Add New Request
+            </a>
+            <a class="box-link" style="background-color:rgb(51, 102, 255);" asp-controller="Requests" asp-action="List" asp-route-userId="@User.GetUserId()">
+                View Old Request
+            </a>
+        }
+        @if (User.IsInRole("Admin"))
+        {
+            <a class="box-link" style="background-color:rgb(0, 172, 105);" asp-controller="Users" asp-action="Dashboard">
+                User Management
+            </a>
+        }
+    }
+</div>

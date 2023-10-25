@@ -1,0 +1,304 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+html {
+    font-size: 14px;
+    position: relative;
+    min-height: 100%;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+body {
+    margin-bottom: 60px;
+    min-width:fit-content;
+}
+.container {
+    max-width:none;
+}
+
+.spinner {
+    position: fixed;
+    z-index: 999;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: Black;
+    filter: alpha(opacity=60);
+    opacity: 0.6;
+    -moz-opacity: 0.8;
+}
+
+.center-div {
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -150px;
+    margin-top: -150px;
+}
+
+.inner-div {
+    background-color: white;
+    border-radius: 15px;
+    margin: auto;
+    padding: 2%;
+    width: 150px;
+}
+
+.loader {
+    margin: auto;
+    border: 16px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 16px solid #15a0ec;
+    border-bottom: 16px solid #15a0ec;
+    width: 120px;
+    height: 120px;
+    -webkit-animation: spin 2s linear infinite;
+    animation: spin 2s linear infinite;
+}
+
+@-webkit-keyframes spin {
+    0% {
+        -webkit-transform: rotate(0deg);
+    }
+
+    100% {
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.bg-primary {
+    color: white;
+    font-weight: bold;
+}
+
+.btn-edit,
+.btn-edit-title,
+.btn-copy,
+.btn-save,
+.btn-save-title,
+.btn-cancel,
+.btn-cancel-title,
+.btn-upload,
+.btn-clone,
+.btn-delete {
+    margin-left: 5px;
+}
+
+tr[data-container-discriminator=Card] .btn-clone,
+tr[data-container-discriminator=Card] .btn-clone:hover,
+tr[data-container-discriminator=Card] .btn-delete,
+tr[data-container-discriminator=Card] .btn-delete:hover,
+tr[data-container-discriminator=Tab] .btn-clone,
+tr[data-container-discriminator=Tab] .btn-clone:hover,
+tr[data-container-discriminator=Tab] .btn-delete,
+tr[data-container-discriminator=Tab] .btn-delete:hover {
+    color: white;
+    float: right;
+    margin-right: 10px;
+}
+tr[data-container-discriminator="Card"][data-deleted="True"] .bg-primary:after {
+    color: white;
+    content: 'Deleted Card';
+    position: relative;
+    left: 49%;
+}
+tr[data-container-discriminator="Tab"][data-deleted="True"] .bg-primary:after {
+    color: white;
+    content: 'Deleted Tab';
+    position: relative;
+    left: 49%;
+}
+tr[data-container-discriminator=SeoSection] td.bg-primary {
+    background-color: purple !important;
+}
+
+.editable,
+.editable-img {
+    display: inline;
+}
+.editable ins,
+.editable-img ins {
+    text-decoration: none;
+    background-color: yellow;
+}
+.editable del,
+.editable-img del {
+    text-decoration: line-through;
+    background-color: #fbb6c2;
+    color: #555;
+}
+
+tr[data-deleted="True"] :not(.bg-info) {
+    color: red !important;
+    text-decoration: line-through;
+}
+
+td[data-headline-counter],
+td[data-table-header-cell]{
+    background-color: rgb(137, 207, 240);
+    font-weight: bold;
+}
+
+tr[data-deleted="True"] .btn-edit,
+tr[data-deleted="True"] .btn-edit-title,
+tr[data-deleted="True"] .btn-copy,
+tr[data-deleted="True"] .btn-delete,
+tr[data-deleted="True"] .btn-upload {
+    display: none;
+}
+tr[data-deleted="True"] .btn-clone i {
+    color: white !important;
+}
+
+td {
+    height: 41px;
+}
+
+.welcome-label {
+    display: inline-block;
+    margin: 0 5px 0 5px;
+}
+.navbar-nav {
+    flex-direction: row;
+    width: 100%;
+}
+.navbar-collapse {
+    height: 36px;
+}
+.navbar-collapse.collapse {
+    display: flex !important;
+    flex-direction: row-reverse;
+}
+.navbar-nav .nav-item {
+    text-align: right;
+    flex-grow: 1;
+}
+.navbar {
+    background-color: rgb(51, 102, 255) !important;
+}
+.navbar,
+.navbar .nav-link {
+    color: white !important;
+}
+
+.bg-info {
+    background-color: rgb(192, 192, 192) !important;
+}
+
+a.box-link {
+    color: white;
+    border-radius: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 25px;
+    width: 350px;
+    height: 170px;
+    line-height: 110px;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.login-container {
+    font-family: 'Poppins', sans-serif;
+    background: #007bff;
+    background: linear-gradient(to right, #0062E6, #33AEFF);
+    position: absolute;
+    left: 0;
+    top: 0;
+    min-width: 100%;
+    height: 100vh;
+}
+.login-container .panel {
+    min-height: 380px;
+    border-radius: 12px;
+    min-height: 55vh;
+}
+.login-container .panel-heading {
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 36px;
+}
+.login-container .input-field {
+    border-radius: 5px;
+    padding: 12px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    border: 1px solid #ddd;
+    color: #4343ff;
+    cursor: default;
+    margin-bottom: 25px;
+}
+.login-container input[type='text'],
+.login-container input[type='email'],
+.login-container input[type='password'] {
+    border: none;
+    outline: none;
+    box-shadow: none;
+    width: 100%;
+}
+.login-container input:-webkit-autofill,
+.login-container input:-webkit-autofill:hover,
+.login-container input:-webkit-autofill:focus,
+.login-container input:-webkit-autofill:active {
+    transition: background-color 5000s ease-in-out 0s;
+}
+.login-container .btn.btn-primary {
+    margin-top: 20px;
+    border-radius: 15px;
+    width: 100%;
+    height: 50px;
+    font-size: 18px;
+}
+@media(max-width: 360px) {
+    .login-container {
+        margin: 30px 0;
+    }
+}
+.table-filter-input {
+    margin-top: 5px;
+    width: 100%;
+    width: -moz-available; /* WebKit-based browsers will ignore this. */
+    width: -webkit-fill-available; /* Mozilla-based browsers will ignore this. */
+    width: fill-available;
+}
+.btn-previous-change,
+.btn-next-change {
+    position: fixed;
+    right: 20px;
+    font-size: 32px;
+    opacity: 0.3;
+}
+.btn-previous-change:hover,
+.btn-next-change:hover {
+    opacity: 0.7;
+}
+.btn-previous-change {
+    top: 130px;
+}
+.btn-next-change {
+    top: 175px;
+}

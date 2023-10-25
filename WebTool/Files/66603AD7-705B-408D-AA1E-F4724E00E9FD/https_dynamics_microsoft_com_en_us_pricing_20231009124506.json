@@ -1,0 +1,3308 @@
+[
+  {
+    "Type": "SeoSection",
+    "Id": "7ce5c596-f35e-4f91-9cb4-225ad27a21d1",
+    "Title": "SEO Details",
+    "Elements": [
+      {
+        "Id": "ca45142a-719c-4b84-b462-b551ac4ed3cc",
+        "Name": "pagetitle",
+        "Text": "Pricing | Microsoft Dynamics 365"
+      },
+      {
+        "Id": "e7433bc3-2380-4f23-99be-6911e51b88d8",
+        "Name": "metakeywords",
+        "Text": "dynamics 365 pricing, dynamics 365 price, dynamics 365 plans"
+      },
+      {
+        "Id": "a8ca176b-0dee-47f1-80bf-d5a4f1a0b115",
+        "Name": "metadescription",
+        "Text": "Find Microsoft Dynamics 365 plans and pricing to choose the applications that are right for your business needs."
+      }
+    ]
+  },
+  {
+    "Type": "Section",
+    "Id": "c0a1bb05-f0d9-4166-8c75-1e45ea9b6803",
+    "Title": "\r\n            Dynamics\u00A0365 pricing\r\n        ",
+    "Elements": [
+      {
+        "Id": "f2794386-9e24-428d-8f4d-de2f2af6e45a",
+        "Name": "h1",
+        "Text": "Dynamics\u00A0365 pricing"
+      },
+      {
+        "Id": "5d10d9a2-c6bd-4320-8a5b-26c851827cfe",
+        "Name": "p",
+        "Text": "Select a business area to view pricing information"
+      },
+      {
+        "Id": "1fbd3892-f9af-4c6c-a606-9feab07a3290",
+        "Name": "a",
+        "Text": "Download the licensing guide",
+        "Href": "https://go.microsoft.com/fwlink/?LinkId=866544\u0026amp;clcid=0x409"
+      },
+      {
+        "Id": "938f344d-4241-4464-a96f-e236c1db2b5b",
+        "Name": "span",
+        "Text": "Download the licensing guide"
+      },
+      {
+        "Id": "30ab96da-ee23-4860-95df-42ffae0f7226",
+        "Name": "a",
+        "Text": "Start a free trial",
+        "Href": "https://dynamics.microsoft.com/en-us/dynamics-365-free-trial/"
+      },
+      {
+        "Id": "d13f11bf-b1bd-4235-ac3e-acd4bca1b569",
+        "Name": "span",
+        "Text": "Start a free trial"
+      },
+      {
+        "Id": "3e635894-320d-4697-8e16-9c959c3215b2",
+        "Name": "img",
+        "Src": "https://dynamics365cdn.azureedge.net/cvt-a013a8b4001276eb6c8ca3cdc95d8554081aa5b3a74e60899706daccaa4ce8cc/pictures/pages/pricing/hero-pricing.jpg",
+        "Alt": "Image of a man working with laptop"
+      },
+      {
+        "Id": "7f164177-5811-4c9c-a4bf-11dc1a7836c1",
+        "Name": "img",
+        "Src": "https://dynamics365cdn.azureedge.net/cvt-a013a8b4001276eb6c8ca3cdc95d8554081aa5b3a74e60899706daccaa4ce8cc/pictures/pages/pricing/hero-pricing.jpg",
+        "Alt": "Image of a man working with laptop"
+      }
+    ]
+  },
+  {
+    "Type": "Table",
+    "Id": "c9573efa-d241-4a9b-8a00-81a55251a60c",
+    "Title": "Table",
+    "Rows": [
+      {
+        "Id": "01fdf6cd-7ff6-4d21-bc87-fb1cfea43021",
+        "Cells": [
+          {
+            "Id": "7443c0a1-c2d8-48d4-891e-af0e637aeb70",
+            "Elements": [
+              {
+                "Id": "5380d6af-03b5-47de-8fe2-4a5f2469e4fa",
+                "Name": "span",
+                "Text": "Small and medium business"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "6952278d-4a8b-4362-978e-c247166598b8",
+            "Elements": [
+              {
+                "Id": "d257e32f-167f-4be5-99ba-d65b2ee2aeee",
+                "Name": "span",
+                "Text": "First Dynamics\u00A0365 app"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "bcc83b92-eb03-41cb-9beb-0066a8b64a55",
+            "Elements": [
+              {
+                "Id": "4fb13ebe-779b-4bb1-8d22-13809e97537d",
+                "Name": "span",
+                "Text": "Subsequent qualifying1Dynamics\u00A0365 app"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "e5d044d6-ba99-4236-93b3-75cdfbe54a02",
+        "Cells": [
+          {
+            "Id": "6a6dc6c6-a975-421f-a4ca-ac90c06356c2",
+            "Elements": [
+              {
+                "Id": "f782318b-da79-487c-933c-9dcfad9ef559",
+                "Name": "a",
+                "Text": "Business Central Essentials",
+                "Href": "https://dynamics.microsoft.com/en-us/business-central/pricing/"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "c4f63aba-d83c-4035-9352-cfc734b37500",
+            "Elements": [
+              {
+                "Id": "c3da80ed-5c39-476e-952d-94609aa299f4",
+                "Name": "div",
+                "Text": "From  $70        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      },
+      {
+        "Id": "edf6dedd-a2ba-4b20-995e-f33671e80014",
+        "Cells": [
+          {
+            "Id": "b7a1a086-d3af-4032-be65-f54d3de921ea",
+            "Elements": [
+              {
+                "Id": "196dc0d9-d09c-4b99-aa61-5e6d1aa05388",
+                "Name": "a",
+                "Text": "Business Central Premium",
+                "Href": "https://dynamics.microsoft.com/en-us/business-central/pricing/"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "8c3a5545-bdc3-479d-9d55-ba482619570d",
+            "Elements": [
+              {
+                "Id": "24c13e9c-7d6f-48ea-b649-22a6003da664",
+                "Name": "div",
+                "Text": "From  $100        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      },
+      {
+        "Id": "5ce4294b-dd4a-4aeb-bb85-2e69653ef237",
+        "Cells": [
+          {
+            "Id": "2e838725-13ab-4b0b-b496-f954f0cdd1c9",
+            "Elements": [
+              {
+                "Id": "69319f5c-11e8-4d2d-ae21-8e4c68b08d48",
+                "Name": "a",
+                "Text": "Customer Service Professional",
+                "Href": "https://dynamics.microsoft.com/en-us/customer-service/pricing/"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "656be3eb-04bf-464b-b965-c22de5708b84",
+            "Elements": [
+              {
+                "Id": "dd8c36c3-2c73-4223-8c5c-2c2696027466",
+                "Name": "div",
+                "Text": "$50        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          },
+          {
+            "Id": "9cf5d93d-6968-4802-a5f9-923362baf469",
+            "Elements": [
+              {
+                "Id": "7db6cfea-7890-471a-8876-56b8dfd3400a",
+                "Name": "div",
+                "Text": "$20        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      },
+      {
+        "Id": "0a704af7-98e2-45c8-8eda-f581460e8e37",
+        "Cells": [
+          {
+            "Id": "6bc768b5-37ec-4040-9ce6-474a80ac2869",
+            "Elements": [
+              {
+                "Id": "5303ee9a-2f6d-4e28-9c28-8189e5b90098",
+                "Name": "a",
+                "Text": "Sales Professional",
+                "Href": "https://dynamics.microsoft.com/en-us/sales/pricing/"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "9859f3d5-da84-4f14-b27c-1fba3d964b7c",
+            "Elements": [
+              {
+                "Id": "3cb2cfc2-6ce5-47e5-8857-49126402e31a",
+                "Name": "div",
+                "Text": "$65        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          },
+          {
+            "Id": "f130c9d0-2baa-4071-bbae-cef289011ebb",
+            "Elements": [
+              {
+                "Id": "0527a4cf-783e-4014-a211-54940517c948",
+                "Name": "div",
+                "Text": "$20        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Type": "Table",
+    "Id": "5a351858-36c1-4dae-952e-2eeb707d112e",
+    "Title": "Table",
+    "Rows": [
+      {
+        "Id": "94054e88-41d1-419f-b1b8-c830447a5122",
+        "Cells": [
+          {
+            "Id": "6cded3d4-d243-4765-a2bc-64e2f5fa1da2",
+            "Elements": [
+              {
+                "Id": "c1a27e3a-709d-489d-b0f2-00590745dd6d",
+                "Name": "span",
+                "Text": "Small and medium business"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "d1a20f5e-dcb2-412c-9b8d-9c6d45825657",
+        "Cells": [
+          {
+            "Id": "4e557cdb-e010-4d41-80b0-13be9475b6e5",
+            "Elements": [
+              {
+                "Id": "ae43aa96-2647-4fc1-b283-418dd5c637c8",
+                "Name": "span",
+                "Text": "First Dynamics\u00A0365 app"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "431b76d0-311d-4bf8-9278-212b3a40eb75",
+            "Elements": [
+              {
+                "Id": "e9faa885-04dd-42ef-ae12-5a99f9a7c3b1",
+                "Name": "span",
+                "Text": "Subsequent qualifying1Dynamics\u00A0365 app"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "f6040bc9-0326-4ace-b256-2bdd48e65d12",
+        "Cells": [
+          {
+            "Id": "c347b3b5-c0c0-470d-87d9-ef68ac082d28",
+            "Elements": [
+              {
+                "Id": "1250f188-018c-4c84-b766-5383525d7690",
+                "Name": "a",
+                "Text": "Business Central Essentials",
+                "Href": "https://dynamics.microsoft.com/en-us/business-central/pricing/"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "5b98d372-535f-4f23-8fbe-fc0b3ce86ab3",
+        "Cells": [
+          {
+            "Id": "392cc06e-a046-432f-841c-c6a7f872038e",
+            "Elements": [
+              {
+                "Id": "d16d1e91-8081-4d8c-86c8-a5ff2126e8fa",
+                "Name": "div",
+                "Text": "From  $70        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      },
+      {
+        "Id": "2c4fbde7-a236-4320-b26d-a17f4b4ad6a0",
+        "Cells": [
+          {
+            "Id": "f68e3d32-6adc-4e6f-8955-9ed566ef489f",
+            "Elements": [
+              {
+                "Id": "2a224c46-8429-4ecb-b865-802992ffe259",
+                "Name": "a",
+                "Text": "Business Central Premium",
+                "Href": "https://dynamics.microsoft.com/en-us/business-central/pricing/"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "912acdb3-b51e-448d-be92-f6913bff11d3",
+        "Cells": [
+          {
+            "Id": "6740be60-fe37-473d-82b7-5b88c5a443cf",
+            "Elements": [
+              {
+                "Id": "1876eb73-75e4-450b-9fe6-394b6a901d9e",
+                "Name": "div",
+                "Text": "From  $100        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      },
+      {
+        "Id": "fde2f4f4-2f3a-4ed8-a9c2-b34f9b7d72b6",
+        "Cells": [
+          {
+            "Id": "26490ef0-b478-4131-89f2-ef853cd3cc06",
+            "Elements": [
+              {
+                "Id": "bd414162-001a-4545-9c7a-b058866c073f",
+                "Name": "a",
+                "Text": "Customer Service Professional",
+                "Href": "https://dynamics.microsoft.com/en-us/customer-service/pricing/"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "b093b28c-d88d-4309-957a-fa93497d0bb8",
+        "Cells": [
+          {
+            "Id": "edbaf635-5272-413b-8513-bb1aaaa792d5",
+            "Elements": [
+              {
+                "Id": "5b5e421e-b47b-443a-9d39-d8527c9cefab",
+                "Name": "div",
+                "Text": "$50        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          },
+          {
+            "Id": "e8662bee-ef19-4f26-803b-a934eca2ca6d",
+            "Elements": [
+              {
+                "Id": "65cbf38e-7d35-49f8-a3a0-b4bd9eb01fac",
+                "Name": "div",
+                "Text": "$20        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      },
+      {
+        "Id": "6aae8136-9edb-4a44-8385-15d15b45e017",
+        "Cells": [
+          {
+            "Id": "d2f082e3-3c0f-4304-af8a-8822b627d4e6",
+            "Elements": [
+              {
+                "Id": "ec440e67-99f4-4d63-80c1-0f98b11854dc",
+                "Name": "a",
+                "Text": "Sales Professional",
+                "Href": "https://dynamics.microsoft.com/en-us/sales/pricing/"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "8b0bb333-e802-4bda-be08-4aba789f3fb3",
+        "Cells": [
+          {
+            "Id": "c75eb56c-44f3-4283-8438-d26b8d70ca4f",
+            "Elements": [
+              {
+                "Id": "7c39f2c9-2dec-46db-adcf-3736a9a0128a",
+                "Name": "div",
+                "Text": "$65        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          },
+          {
+            "Id": "13e6103b-0136-46b6-bb44-d7463fa81b05",
+            "Elements": [
+              {
+                "Id": "f2873bf1-5134-428f-a115-fbb42cdfe5e3",
+                "Name": "div",
+                "Text": "$20        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Type": "Table",
+    "Id": "85caf12a-f766-4589-b5fe-4f5bad3cbf1c",
+    "Title": "Table",
+    "Rows": [
+      {
+        "Id": "7a8e766f-93f7-4a06-b998-8b0143be025b",
+        "Cells": [
+          {
+            "Id": "00762d41-2293-41aa-ba8f-1f3e8383902d",
+            "Elements": [
+              {
+                "Id": "3d4a15f9-57e4-4227-82d4-e7e41c087e38",
+                "Name": "span",
+                "Text": "Sales"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "0c91061c-6882-40f4-907e-80ab4c112974",
+            "Elements": [
+              {
+                "Id": "c5f84a25-b62f-4fa1-8d08-82e4847b77a5",
+                "Name": "span",
+                "Text": "First Dynamics\u00A0365 app"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "f918103d-43c6-4fc7-95c3-32310e29e19e",
+            "Elements": [
+              {
+                "Id": "7ad5b9b8-1760-42a5-b088-85e9293d5de1",
+                "Name": "span",
+                "Text": "Subsequent qualifying1Dynamics\u00A0365 app"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "a7dc4662-fda2-4916-979a-ccb58ba6936f",
+        "Cells": [
+          {
+            "Id": "a5fc6936-215a-4a8d-96aa-98a57cd3ab38",
+            "Elements": [
+              {
+                "Id": "3c72aeb9-9769-46cf-9590-bc9a215f08aa",
+                "Name": "a",
+                "Text": "Sales Professional",
+                "Href": "https://dynamics.microsoft.com/en-us/sales/pricing/"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "b830cefa-96ce-4e4a-91d2-e79609d95eb1",
+            "Elements": [
+              {
+                "Id": "4eb3af17-319f-4c5b-9262-b5942daf0272",
+                "Name": "div",
+                "Text": "$65        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          },
+          {
+            "Id": "2b4b0837-fd0a-4d2d-ae8d-e8394c2a9b8d",
+            "Elements": [
+              {
+                "Id": "eb8369b2-d5ae-468d-b9ec-8a62af7cd9dc",
+                "Name": "div",
+                "Text": "$20        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      },
+      {
+        "Id": "6473542f-d473-47fc-83f7-f1758831b350",
+        "Cells": [
+          {
+            "Id": "d6c6480d-7eac-45b7-8965-b7d764076554",
+            "Elements": [
+              {
+                "Id": "1fbf5ffc-e4b5-4047-958f-f916820a314c",
+                "Name": "a",
+                "Text": "Sales Enterprise",
+                "Href": "https://dynamics.microsoft.com/en-us/sales/pricing/"
+              },
+              {
+                "Id": "64667cbe-cecb-4645-846e-2200d6dd2210",
+                "Name": "a",
+                "Text": "2",
+                "Href": "https://dynamics.microsoft.com/en-us/pricing/#footnote2"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "1d0a4146-07f9-4ae2-bc61-baddee60b358",
+            "Elements": [
+              {
+                "Id": "0976e4a6-cf3b-450a-9a19-2df79df439e4",
+                "Name": "div",
+                "Text": "$95        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          },
+          {
+            "Id": "6ade6945-facf-4f89-8182-97d4087d0537",
+            "Elements": [
+              {
+                "Id": "44f2a852-4ba8-4ac1-a122-36d13f4f9aaa",
+                "Name": "div",
+                "Text": "$20        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      },
+      {
+        "Id": "a4174bfd-d7b3-404b-92e5-e6b4c29a85d3",
+        "Cells": [
+          {
+            "Id": "9d37d240-684b-4be4-a656-473e1df73c95",
+            "Elements": [
+              {
+                "Id": "afd72d2a-d60c-4b23-8c32-1dff6463ad7a",
+                "Name": "a",
+                "Text": "Sales Premium",
+                "Href": "https://dynamics.microsoft.com/en-us/sales/pricing/"
+              },
+              {
+                "Id": "232d4814-fbb6-4da8-a88b-31ede7a56a60",
+                "Name": "a",
+                "Text": "2",
+                "Href": "https://dynamics.microsoft.com/en-us/pricing/#footnote2"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "2c51016f-a704-4d6d-9acc-fbc2a70a9aa6",
+            "Elements": [
+              {
+                "Id": "4cf9d70a-cb63-40d0-a370-2718e6be510f",
+                "Name": "div",
+                "Text": "$135        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      },
+      {
+        "Id": "007811fc-aa6f-4014-808c-3c87ac6857fc",
+        "Cells": [
+          {
+            "Id": "2159c129-65cc-4a5c-9cd8-f883452c4e1c",
+            "Elements": [
+              {
+                "Id": "6931d600-b37b-4f73-b960-a9a71e4f8582",
+                "Name": "a",
+                "Text": "Microsoft Relationship Sales",
+                "Href": "https://dynamics.microsoft.com/en-us/sales/pricing/"
+              },
+              {
+                "Id": "8051c7ee-6385-45dd-9449-b8c3fc6baca7",
+                "Name": "a",
+                "Text": "2",
+                "Href": "https://dynamics.microsoft.com/en-us/pricing/#footnote2"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "a8c6ad92-bea7-447c-bde4-e1663def14b4",
+            "Elements": [
+              {
+                "Id": "292be114-35c3-46e5-82e6-ae592ce9843a",
+                "Name": "div",
+                "Text": "$162        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      },
+      {
+        "Id": "46889be8-b104-4129-af1d-58040adb92c1",
+        "Cells": [
+          {
+            "Id": "2766ad9c-b17a-4e87-a404-d61f5379735e",
+            "Elements": [
+              {
+                "Id": "abc3a56c-6415-46ce-85f0-2118edd83cc9",
+                "Name": "a",
+                "Text": "Microsoft Sales Copilot",
+                "Href": "https://dynamics.microsoft.com/en-us/sales/pricing/"
+              },
+              {
+                "Id": "c39a4054-1d3d-4bc5-b9e3-6e8de11fad85",
+                "Name": "a",
+                "Text": "2",
+                "Href": "https://dynamics.microsoft.com/en-us/pricing/#footnote2"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "ebfb41ea-be9f-4425-b984-1bb358712a04",
+            "Elements": [
+              {
+                "Id": "aa65770d-cb25-4c1b-9ff9-5957c43805ee",
+                "Name": "div",
+                "Text": "$40        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Type": "Table",
+    "Id": "83fbae30-8eb5-4925-b024-7ec7bee04ec1",
+    "Title": "Table",
+    "Rows": [
+      {
+        "Id": "2f5fdda0-a187-47a6-a212-117890bd0381",
+        "Cells": [
+          {
+            "Id": "b7281ed0-c36e-4cd6-98e4-b69ff0be64d0",
+            "Elements": [
+              {
+                "Id": "cc2500bc-e3c3-41bd-8a17-e060093eed4c",
+                "Name": "span",
+                "Text": "Sales"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "37821f57-ed30-4d11-89aa-ceddd9de9bb5",
+        "Cells": [
+          {
+            "Id": "14b60c19-92a6-4570-a1c9-f156e0171728",
+            "Elements": [
+              {
+                "Id": "52110e48-3323-4e2e-9a6a-7efc337ac732",
+                "Name": "span",
+                "Text": "First Dynamics\u00A0365 app"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "94ad0b87-6d1f-4ee9-83bc-d1e339954184",
+            "Elements": [
+              {
+                "Id": "0516b05c-9222-491b-8522-6f489f41aae3",
+                "Name": "span",
+                "Text": "Subsequent qualifying1Dynamics\u00A0365 app"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "574b8cfd-3910-4b54-8adb-3972fc08a702",
+        "Cells": [
+          {
+            "Id": "aa33ffab-42ab-470f-be1c-7395f799b969",
+            "Elements": [
+              {
+                "Id": "9401c2ce-33d3-44b8-bde3-1a3638c5a7c3",
+                "Name": "a",
+                "Text": "Sales Professional",
+                "Href": "https://dynamics.microsoft.com/en-us/sales/pricing/"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "2e2b0d44-e5e8-4e37-9d6b-ea2481b71487",
+        "Cells": [
+          {
+            "Id": "657ffeba-9f18-4137-98af-84c71115760f",
+            "Elements": [
+              {
+                "Id": "5a409f11-8b4d-4675-b727-f5f4769b2223",
+                "Name": "div",
+                "Text": "$65        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          },
+          {
+            "Id": "5790109f-f9b4-40da-a319-c0d1db9f191f",
+            "Elements": [
+              {
+                "Id": "29a536b3-9499-4be7-91be-705dcf555733",
+                "Name": "div",
+                "Text": "$20        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      },
+      {
+        "Id": "36ead991-2fdd-410e-8c7d-f5ebff70fc0f",
+        "Cells": [
+          {
+            "Id": "f5f944f8-4b8b-4bf3-a514-f2ea0f689b23",
+            "Elements": [
+              {
+                "Id": "7101d0ad-b7be-483b-912d-5272c99e9124",
+                "Name": "a",
+                "Text": "Sales Enterprise",
+                "Href": "https://dynamics.microsoft.com/en-us/sales/pricing/"
+              },
+              {
+                "Id": "ee5dbf28-7f57-4eed-a0ca-a1ef6fd77434",
+                "Name": "a",
+                "Text": "2",
+                "Href": "https://dynamics.microsoft.com/en-us/pricing/#footnote2"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "b2b252ce-831f-41f3-9a74-8abfdbf4357f",
+        "Cells": [
+          {
+            "Id": "a2a82d5f-115f-40da-8cbc-a839047f3ab5",
+            "Elements": [
+              {
+                "Id": "f5a5566b-bd53-442c-a86f-d8614867b097",
+                "Name": "div",
+                "Text": "$95        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          },
+          {
+            "Id": "c63e8336-5f1f-47aa-a308-c7875678ee27",
+            "Elements": [
+              {
+                "Id": "8f80d9bb-f735-4e12-bd51-4c2cfa2b0e47",
+                "Name": "div",
+                "Text": "$20        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      },
+      {
+        "Id": "808ab0db-ce19-418a-b63b-a7a3cd51c8a8",
+        "Cells": [
+          {
+            "Id": "1f514949-401a-4229-93f9-28b68ef124e0",
+            "Elements": [
+              {
+                "Id": "44c5da89-aea4-4f27-b981-011d433757ed",
+                "Name": "a",
+                "Text": "Sales Premium",
+                "Href": "https://dynamics.microsoft.com/en-us/sales/pricing/"
+              },
+              {
+                "Id": "a216e58e-6f86-49dc-9cf7-89ba426d37ac",
+                "Name": "a",
+                "Text": "2",
+                "Href": "https://dynamics.microsoft.com/en-us/pricing/#footnote2"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "f017b5ae-a7a9-460a-a1bc-88ded58074c2",
+        "Cells": [
+          {
+            "Id": "9a3ac58f-fa40-45fe-b8cf-bab22dc1ec0a",
+            "Elements": [
+              {
+                "Id": "7f39535c-e95e-4888-b095-996c54bc6089",
+                "Name": "div",
+                "Text": "$135        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      },
+      {
+        "Id": "a36c0d55-e173-4082-b15c-6f2b62460a83",
+        "Cells": [
+          {
+            "Id": "f46339c3-8cb2-45b9-b647-7389fe607263",
+            "Elements": [
+              {
+                "Id": "932aaa7b-8f98-4dee-a5f9-2d7ff7ac548a",
+                "Name": "a",
+                "Text": "Microsoft Relationship Sales",
+                "Href": "https://dynamics.microsoft.com/en-us/sales/pricing/"
+              },
+              {
+                "Id": "5ab1b9a4-a6d5-49fe-ac83-62fb84c3e8a7",
+                "Name": "a",
+                "Text": "2",
+                "Href": "https://dynamics.microsoft.com/en-us/pricing/#footnote2"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "75b85913-e6c8-4c55-ac61-ba1cd39ca9de",
+        "Cells": [
+          {
+            "Id": "7f137466-8846-491c-9cd7-7b8fb9915bb1",
+            "Elements": [
+              {
+                "Id": "bc123901-a796-48aa-9c91-882d98f8334e",
+                "Name": "div",
+                "Text": "$162        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      },
+      {
+        "Id": "cb6ca489-972a-4ffc-abec-7cdf03b41398",
+        "Cells": [
+          {
+            "Id": "0e27c018-5d4b-4f96-8e80-3545b890230b",
+            "Elements": [
+              {
+                "Id": "3941a470-ee51-499d-a602-b41bcd7eee4e",
+                "Name": "a",
+                "Text": "Microsoft Sales Copilot",
+                "Href": "https://dynamics.microsoft.com/en-us/sales/pricing/"
+              },
+              {
+                "Id": "21fcd5a4-cd83-4e53-ae16-09052fb0cb34",
+                "Name": "a",
+                "Text": "2",
+                "Href": "https://dynamics.microsoft.com/en-us/pricing/#footnote2"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "487fa7b1-2ee5-433d-8e2a-3e81da64ec3d",
+        "Cells": [
+          {
+            "Id": "2c060d6a-0b32-4ee8-990d-66db82b82e06",
+            "Elements": [
+              {
+                "Id": "9f381bec-8dd7-4b9a-b427-4298321c1483",
+                "Name": "div",
+                "Text": "$40        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Type": "Table",
+    "Id": "ba7cf3ba-a428-4a6c-b0dd-ad5e235c6a9b",
+    "Title": "Table",
+    "Rows": [
+      {
+        "Id": "6bc689b5-b18d-4c3d-b3a8-466e9aebdee2",
+        "Cells": [
+          {
+            "Id": "8afb1994-3587-48f8-bd45-5772f9a8b771",
+            "Elements": [
+              {
+                "Id": "0adbaa19-ec4a-4033-aa15-7efad104ec50",
+                "Name": "span",
+                "Text": "Finance"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "82207b3c-41e8-4c07-96a0-7e714a745ec2",
+            "Elements": [
+              {
+                "Id": "fa42353f-0add-4358-931a-a207e7e1e7d0",
+                "Name": "span",
+                "Text": "First Dynamics\u00A0365 app"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "e1a21594-e0d0-444f-8974-30aa784d4162",
+            "Elements": [
+              {
+                "Id": "be4a6e9e-9d5e-4bf7-9bfd-db01ddea2f3d",
+                "Name": "span",
+                "Text": "Subsequent qualifying1Dynamics\u00A0365 app"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "c66705f5-b798-472b-836c-fc828ebbf91c",
+        "Cells": [
+          {
+            "Id": "e4701ab2-3afb-458d-b26e-4317a1e49171",
+            "Elements": [
+              {
+                "Id": "c5b502c0-9d98-4119-a085-4241c8152f0d",
+                "Name": "a",
+                "Text": "Finance",
+                "Href": "https://dynamics.microsoft.com/en-us/finance/pricing/"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "38bcd025-4e67-4c4a-8a95-be28f5be971d",
+            "Elements": [
+              {
+                "Id": "3c601dad-00f9-4d2b-84ae-cc66933aa4ba",
+                "Name": "div",
+                "Text": "$180        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          },
+          {
+            "Id": "0b748379-c00e-4f42-bac3-8848de3df880",
+            "Elements": [
+              {
+                "Id": "b48c8f18-68cf-43ea-bcd0-5c7756c5c4c7",
+                "Name": "div",
+                "Text": "$30        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Type": "Table",
+    "Id": "162bb724-0b8c-46eb-9c7e-eea1e4aed03c",
+    "Title": "Table",
+    "Rows": [
+      {
+        "Id": "f5c37703-80dc-40f7-bb6c-985e87feda4e",
+        "Cells": [
+          {
+            "Id": "ad0ea3b3-8290-47a5-9ac4-156b29043f83",
+            "Elements": [
+              {
+                "Id": "530f200b-4e1a-4708-b033-45092c1e2609",
+                "Name": "span",
+                "Text": "Finance"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "192f615f-ff51-4236-9ecf-f27e5340fb24",
+        "Cells": [
+          {
+            "Id": "df798991-24bd-4a68-ba55-326d9129168d",
+            "Elements": [
+              {
+                "Id": "4eb843b2-1a6f-437e-9c71-e6e35e047897",
+                "Name": "span",
+                "Text": "First Dynamics\u00A0365 app"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "021ebddd-d8ac-4d0e-957d-9b3123ee1d35",
+            "Elements": [
+              {
+                "Id": "aedd206a-26e0-4af4-aacc-34a8e32c8ac5",
+                "Name": "span",
+                "Text": "Subsequent qualifying1Dynamics\u00A0365 app"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "6f4a2de8-b9c5-42ae-9dfd-705d734a74e6",
+        "Cells": [
+          {
+            "Id": "065a6229-5d6a-4c09-a200-1f914f82ad20",
+            "Elements": [
+              {
+                "Id": "97a37ba2-6b41-42a4-8e92-08bd904607e7",
+                "Name": "a",
+                "Text": "Finance",
+                "Href": "https://dynamics.microsoft.com/en-us/finance/pricing/"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "d60c404b-51ea-4bd0-b02d-0455c3c2fbe5",
+        "Cells": [
+          {
+            "Id": "8e0c12ea-dea3-4514-8bc4-c45a5d4009c7",
+            "Elements": [
+              {
+                "Id": "4af8ff6e-f484-4947-8e62-ff3dbee8d5fd",
+                "Name": "div",
+                "Text": "$180        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          },
+          {
+            "Id": "1c9350de-b63b-49f5-b124-ca793dec5940",
+            "Elements": [
+              {
+                "Id": "d96461aa-4ec7-422e-a871-f1aa74759962",
+                "Name": "div",
+                "Text": "$30        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Type": "Table",
+    "Id": "438fbc0e-c085-4009-93b7-d2808a67cac0",
+    "Title": "Table",
+    "Rows": [
+      {
+        "Id": "6713659a-2732-44de-bc7f-0024778e594a",
+        "Cells": [
+          {
+            "Id": "e1bc59e0-6663-4f44-b109-280150650382",
+            "Elements": [
+              {
+                "Id": "06228018-30bb-4f2f-ac6f-841dc20f91d4",
+                "Name": "span",
+                "Text": "Marketing"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "50f1de77-109e-47c6-b034-bad1fe27597f",
+            "Elements": [
+              {
+                "Id": "fa6ca757-0c09-4fc3-b350-3a1a8d7b5ec4",
+                "Name": "span",
+                "Text": "First Dynamics\u00A0365 app"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "164fa200-aec8-4477-9ed2-2ac2ffd5ff8b",
+            "Elements": [
+              {
+                "Id": "db69c4b6-8c48-467a-9ec5-4b3d59ed67f3",
+                "Name": "span",
+                "Text": "Subsequent qualifying1Dynamics\u00A0365 app"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "c79a0130-2e5c-4dd5-af4a-10e0e92b92a2",
+        "Cells": [
+          {
+            "Id": "6833f18a-4045-4224-b237-e333a66f321c",
+            "Elements": [
+              {
+                "Id": "4edc7e05-7985-4c67-8d42-2f27b7cd88ba",
+                "Name": "a",
+                "Text": "Customer Insights",
+                "Href": "https://dynamics.microsoft.com/en-us/ai/customer-insights/pricing/"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "52a6fb41-0466-4b1a-afcb-61865e0e6d85",
+            "Elements": [
+              {
+                "Id": "2373dd2c-64d2-43a3-a65c-a327e2c722bb",
+                "Name": "div",
+                "Text": "From  $1,700        \r\n\r\n            \r\n                per tenant/month"
+              }
+            ],
+            "IsHeader": false
+          },
+          {
+            "Id": "42ed7f34-0c7f-4b89-8726-c0779736e1f9",
+            "Elements": [
+              {
+                "Id": "a95bd684-cc07-416c-bda4-0e75059ef608",
+                "Name": "div",
+                "Text": "$1,000        3\r\n\r\n            \r\n                per tenant/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Type": "Table",
+    "Id": "051a0605-047e-417c-b8fb-ac09f5e588a2",
+    "Title": "Table",
+    "Rows": [
+      {
+        "Id": "5198db6b-20d9-4e1b-b113-99f2afcf49ad",
+        "Cells": [
+          {
+            "Id": "c923dcf9-62be-476c-a7e7-bccdf8c25cb8",
+            "Elements": [
+              {
+                "Id": "f459a08d-a9f3-4666-9e8a-9f0d40002c93",
+                "Name": "span",
+                "Text": "Marketing"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "63507708-1cb1-41cb-a589-fb307263d819",
+        "Cells": [
+          {
+            "Id": "c66e5d2d-8fb6-440d-b875-407847405729",
+            "Elements": [
+              {
+                "Id": "adb11100-6d01-468d-ab3c-9d845aa92106",
+                "Name": "span",
+                "Text": "First Dynamics\u00A0365 app"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "52689186-18b5-4b83-b71d-bcac95368daf",
+            "Elements": [
+              {
+                "Id": "85731197-7525-48f9-9742-9d283449ff7a",
+                "Name": "span",
+                "Text": "Subsequent qualifying1Dynamics\u00A0365 app"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "f9abe510-ad4a-433f-b04c-91918d712611",
+        "Cells": [
+          {
+            "Id": "6efb6c4b-950e-418b-b636-0254633d06d1",
+            "Elements": [
+              {
+                "Id": "0b5f7dd5-b42a-4c1d-ad07-86ddeec1b3c5",
+                "Name": "a",
+                "Text": "Customer Insights",
+                "Href": "https://dynamics.microsoft.com/en-us/ai/customer-insights/pricing/"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "8f8a2518-c47d-4dfd-ab55-4ffe87e8d7af",
+        "Cells": [
+          {
+            "Id": "1cf4d58d-b4f0-4319-8f45-93bff24d5e19",
+            "Elements": [
+              {
+                "Id": "5ec22fcb-f8a6-4faa-97bd-6b8fa4e162aa",
+                "Name": "div",
+                "Text": "From  $1,700        \r\n\r\n            \r\n                per tenant/month"
+              }
+            ],
+            "IsHeader": false
+          },
+          {
+            "Id": "97574624-b571-4591-9c78-49fdfdb649b1",
+            "Elements": [
+              {
+                "Id": "034488b9-0112-486e-8d93-c27932242a5b",
+                "Name": "div",
+                "Text": "$1,000        3\r\n\r\n            \r\n                per tenant/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Type": "Table",
+    "Id": "6cc6f540-8a88-481a-9ca8-6c5a5ab8af31",
+    "Title": "Table",
+    "Rows": [
+      {
+        "Id": "ca11fb8a-03d3-458a-bc0a-9ea18c9af5bf",
+        "Cells": [
+          {
+            "Id": "329c9d2e-a07c-4ec1-ab0f-ccfb45e06a73",
+            "Elements": [
+              {
+                "Id": "13a38f2d-b750-4918-94e7-7488ddc1717e",
+                "Name": "span",
+                "Text": "Supply Chain"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "fe2f9f27-b598-4689-be0b-58d2c1f096cb",
+            "Elements": [
+              {
+                "Id": "0af445e1-7c11-47be-b268-8d65bcc32465",
+                "Name": "span",
+                "Text": "First Dynamics\u00A0365 app"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "38890bbd-bb31-4066-a1b4-f9f0b5acbb87",
+            "Elements": [
+              {
+                "Id": "f34e1f4f-9360-48e1-ad7a-f41167ab14d9",
+                "Name": "span",
+                "Text": "Subsequent qualifying1Dynamics\u00A0365 app"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "e51ed1c0-da3e-4d3d-b526-b9a47578d897",
+        "Cells": [
+          {
+            "Id": "6c57506a-180c-48b2-86d8-9f98d19925ff",
+            "Elements": [
+              {
+                "Id": "ffe77d7a-d85a-4e82-9f97-ea061609110e",
+                "Name": "a",
+                "Text": "Supply Chain Management",
+                "Href": "https://dynamics.microsoft.com/en-us/supply-chain-management/pricing/"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "0c979a8f-25f4-4f3c-be5f-3309bda85a9e",
+            "Elements": [
+              {
+                "Id": "6143bd92-699b-420b-a4c6-6a714313f719",
+                "Name": "div",
+                "Text": "$180        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          },
+          {
+            "Id": "43d49e76-69c0-44e5-8e5b-ab6a1cbe1434",
+            "Elements": [
+              {
+                "Id": "9bf5cae3-6c9d-4a15-9422-cf2f8240929a",
+                "Name": "div",
+                "Text": "$30        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      },
+      {
+        "Id": "fad01174-8fc7-4631-a444-dd44bf2ef188",
+        "Cells": [
+          {
+            "Id": "04dad9f7-51bc-4fa6-a429-0d269ee37181",
+            "Elements": [
+              {
+                "Id": "c19835b3-810e-4ade-a222-03e136755a40",
+                "Name": "a",
+                "Text": "Guides",
+                "Href": "https://dynamics.microsoft.com/en-us/mixed-reality/guides/pricing/"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "0f7bd60a-b1b5-46ab-96b7-9d942b095e76",
+            "Elements": [
+              {
+                "Id": "f6989d9a-1c4b-4cc3-b5cd-878b2af5951d",
+                "Name": "div",
+                "Text": "$65        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      },
+      {
+        "Id": "c08fe17c-b056-4674-add9-7abb9d1819e4",
+        "Cells": [
+          {
+            "Id": "d305ba13-3329-482e-a5cc-94ea63a54801",
+            "Elements": [
+              {
+                "Id": "b6b3436b-2ef1-4def-8806-964b257add15",
+                "Name": "a",
+                "Text": "Intelligent Order Management",
+                "Href": "https://dynamics.microsoft.com/en-us/intelligent-order-management/pricing/"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "d7d90fd6-cd30-4355-a7cf-20a4191ffc8d",
+            "Elements": [
+              {
+                "Id": "a651f9a6-a88c-41c0-a270-5020b90927fd",
+                "Name": "div",
+                "Text": "From  $300        \r\n\r\n            \r\n                per 1,000 orders lines/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Type": "Table",
+    "Id": "bf2021ad-4895-4e27-a7f1-8c3c507eb341",
+    "Title": "Table",
+    "Rows": [
+      {
+        "Id": "0d904a8c-65f6-43b6-bb1d-787df34d1584",
+        "Cells": [
+          {
+            "Id": "b7c4ff11-f9dc-4520-b296-a480360d7bf3",
+            "Elements": [
+              {
+                "Id": "437b982a-5c87-4410-b74e-fa866c8b42ae",
+                "Name": "span",
+                "Text": "Supply Chain"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "eda6e6bb-aa2b-43b5-b571-fcaf4d212734",
+        "Cells": [
+          {
+            "Id": "a0e00162-3653-45f8-a3f5-3794bd318eba",
+            "Elements": [
+              {
+                "Id": "11c9620f-6087-42fa-b161-6d618220957a",
+                "Name": "span",
+                "Text": "First Dynamics\u00A0365 app"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "d1f3c4ba-9a08-4ef9-8f42-23e2c9a603d9",
+            "Elements": [
+              {
+                "Id": "8951f860-01d2-476e-9416-fcab8bc1acf0",
+                "Name": "span",
+                "Text": "Subsequent qualifying1Dynamics\u00A0365 app"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "9019440b-f651-446d-9fbd-470b8d2ae0fe",
+        "Cells": [
+          {
+            "Id": "38eb16fc-290f-41c2-a7a1-53089ccc80aa",
+            "Elements": [
+              {
+                "Id": "eaa6fcf6-9266-4a5c-bf7a-e50620fafe88",
+                "Name": "a",
+                "Text": "Supply Chain Management",
+                "Href": "https://dynamics.microsoft.com/en-us/supply-chain-management/pricing/"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "1b557c45-b08e-484d-864e-e6b213267eb1",
+        "Cells": [
+          {
+            "Id": "b4a7bb4b-2240-4dbe-a0b7-65a30cd290b0",
+            "Elements": [
+              {
+                "Id": "cf81aa24-97b3-432f-8a89-5ba50c8c18b3",
+                "Name": "div",
+                "Text": "$180        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          },
+          {
+            "Id": "9606bc42-cd48-49ea-92df-15b7cc1fa3da",
+            "Elements": [
+              {
+                "Id": "33329152-77dd-4cd7-8e59-dfe6048b09b6",
+                "Name": "div",
+                "Text": "$30        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      },
+      {
+        "Id": "ae0bce0b-ab93-468d-a676-ef81ec5fb43f",
+        "Cells": [
+          {
+            "Id": "5db0093f-c3dd-423f-8ae7-4a4a590b4569",
+            "Elements": [
+              {
+                "Id": "5e44a002-f8fe-42a4-83b2-1e49bd09aaff",
+                "Name": "a",
+                "Text": "Guides",
+                "Href": "https://dynamics.microsoft.com/en-us/mixed-reality/guides/pricing/"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "d673fd4a-fe25-4cb9-a0a6-185dd525b12c",
+        "Cells": [
+          {
+            "Id": "6c1015ba-853b-4679-b5e3-0f4881c3b6ab",
+            "Elements": [
+              {
+                "Id": "e5ceec00-de0a-41bb-b179-0145055216e1",
+                "Name": "div",
+                "Text": "$65        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      },
+      {
+        "Id": "bb5cc768-37d9-41f4-8ce7-fbf946de1a7b",
+        "Cells": [
+          {
+            "Id": "06553789-27cb-4bba-9ce0-c137be234adb",
+            "Elements": [
+              {
+                "Id": "70462f90-2c95-4e8b-8575-91e3bbcf0da2",
+                "Name": "a",
+                "Text": "Intelligent Order Management",
+                "Href": "https://dynamics.microsoft.com/en-us/intelligent-order-management/pricing/"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "0c1dd45f-4002-4911-b53b-4f0c8b515404",
+        "Cells": [
+          {
+            "Id": "a6044164-cf7c-45aa-bad6-b13f8a885334",
+            "Elements": [
+              {
+                "Id": "6cf3d38f-5584-4c29-a5ea-f22a668e9712",
+                "Name": "div",
+                "Text": "From  $300        \r\n\r\n            \r\n                per 1,000 orders lines/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Type": "Table",
+    "Id": "d58fc88c-4040-42cb-9b64-d4c58663e0c2",
+    "Title": "Table",
+    "Rows": [
+      {
+        "Id": "548c61ab-6a2d-42f9-a962-66e4ee4e0a33",
+        "Cells": [
+          {
+            "Id": "442bac81-383e-4bb6-a519-57f15f3cdc96",
+            "Elements": [
+              {
+                "Id": "514dca91-c9d0-45ec-9ae0-51ed212c4b24",
+                "Name": "span",
+                "Text": "Service"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "6343b7b1-ead3-482b-9909-7839b29a51e0",
+            "Elements": [
+              {
+                "Id": "bfc7876b-2248-4016-a715-1d543eeb1fb1",
+                "Name": "span",
+                "Text": "First Dynamics\u00A0365 app"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "9b3fcf46-2978-4213-a8ae-a7dc47a4a595",
+            "Elements": [
+              {
+                "Id": "ed7bd893-3a30-40a5-a780-9daebf418c78",
+                "Name": "span",
+                "Text": "Subsequent qualifying1Dynamics\u00A0365 app"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "7ba92ab8-0ee1-4d89-9475-6189563bfdc3",
+        "Cells": [
+          {
+            "Id": "0f23a916-5ade-47da-833c-965cc20b7e53",
+            "Elements": [
+              {
+                "Id": "1359b03c-0e8a-4ad9-b5ef-31b38db883e1",
+                "Name": "a",
+                "Text": "Customer Service Professional",
+                "Href": "https://dynamics.microsoft.com/en-us/customer-service/pricing/"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "2cb63bf4-94ac-4d51-89b8-70545bf626aa",
+            "Elements": [
+              {
+                "Id": "a00c526f-1a84-4425-a984-346c77dd1172",
+                "Name": "div",
+                "Text": "$50        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          },
+          {
+            "Id": "168a3979-5f85-45f2-b767-6357ef6fe809",
+            "Elements": [
+              {
+                "Id": "ca23ded5-8505-47f0-9185-dde865a640ac",
+                "Name": "div",
+                "Text": "$20        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      },
+      {
+        "Id": "02e86349-dac0-4240-821c-9b66d1c9cc34",
+        "Cells": [
+          {
+            "Id": "ec499b1f-5bd8-4cc3-a5e8-3b076ad8a27d",
+            "Elements": [
+              {
+                "Id": "fa5f6995-6cd9-4611-b99e-5bee048228ab",
+                "Name": "a",
+                "Text": "Customer Service Enterprise",
+                "Href": "https://dynamics.microsoft.com/en-us/customer-service/pricing/"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "303298be-1fd2-42cc-976d-62bffdd6c3f6",
+            "Elements": [
+              {
+                "Id": "96438f92-2dad-40d4-9f0c-94d38a96cf2f",
+                "Name": "div",
+                "Text": "$95        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          },
+          {
+            "Id": "122ca972-249e-4b10-83f2-7cd350d16d8a",
+            "Elements": [
+              {
+                "Id": "2424a91e-20b4-4f03-9d3e-f65c33e8f3c6",
+                "Name": "div",
+                "Text": "$20        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      },
+      {
+        "Id": "801a0a05-6b7a-4219-bdda-f6fccdf137d7",
+        "Cells": [
+          {
+            "Id": "29a099ae-1ee1-4f18-89ed-27b1cad61526",
+            "Elements": [
+              {
+                "Id": "dd677f16-c285-4a29-8717-a60fc668f4b1",
+                "Name": "a",
+                "Text": "Field Service",
+                "Href": "https://dynamics.microsoft.com/en-us/field-service/pricing/"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "568eb86c-3a98-4865-be4c-beb44a3717a9",
+            "Elements": [
+              {
+                "Id": "3046dba0-29cb-4914-875e-ffdb5c54d9d4",
+                "Name": "div",
+                "Text": "$95        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          },
+          {
+            "Id": "b9719346-28a1-411d-ab36-0636d066181e",
+            "Elements": [
+              {
+                "Id": "4f05a925-deeb-4e2f-be36-e49da64431b2",
+                "Name": "div",
+                "Text": "$20        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      },
+      {
+        "Id": "1206c623-12be-4627-8670-f00bc68ea86f",
+        "Cells": [
+          {
+            "Id": "1102c633-4a80-41fc-9983-3aae205bb4f1",
+            "Elements": [
+              {
+                "Id": "8afa00e0-5b2c-4cfe-bcfb-02c293f943bc",
+                "Name": "a",
+                "Text": "Remote Assist",
+                "Href": "https://dynamics.microsoft.com/en-us/mixed-reality/remote-assist/pricing/"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "6cdc9682-4989-4137-a188-a3f3897a7f8c",
+            "Elements": [
+              {
+                "Id": "598be93f-7fad-430c-b989-3a8196353da4",
+                "Name": "div",
+                "Text": "$65        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          },
+          {
+            "Id": "ff6637b6-f49d-4227-920a-8a8b388f638e",
+            "Elements": [
+              {
+                "Id": "d6915c65-ee7f-4b64-88b3-1972bdcff23a",
+                "Name": "div",
+                "Text": "$20        4\r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Type": "Table",
+    "Id": "11d3586e-4272-4ec0-98cc-afeb1e0be3e3",
+    "Title": "Table",
+    "Rows": [
+      {
+        "Id": "e7abdd28-79f1-4316-9670-7e5ad0ae4a20",
+        "Cells": [
+          {
+            "Id": "cf9350a8-ac77-4be9-92e6-2baec1929ead",
+            "Elements": [
+              {
+                "Id": "e65b334e-03a3-4d3b-ba0a-d2705fc58b41",
+                "Name": "span",
+                "Text": "Service"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "5ca38774-af25-4ab3-ae87-73d3256437b4",
+        "Cells": [
+          {
+            "Id": "8a893863-84e0-4423-bcca-6fcada70bd8e",
+            "Elements": [
+              {
+                "Id": "bdc4d9b6-0fa8-4c9c-8ef6-6d522597b81d",
+                "Name": "span",
+                "Text": "First Dynamics\u00A0365 app"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "002db1d6-13f3-40a5-984a-d3ff61c63806",
+            "Elements": [
+              {
+                "Id": "77570690-aec0-4ef0-91c8-6caf847d323d",
+                "Name": "span",
+                "Text": "Subsequent qualifying1Dynamics\u00A0365 app"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "dd810a5a-acac-471c-b75b-02dd624a308d",
+        "Cells": [
+          {
+            "Id": "e0d5b3ea-f242-433c-bbc2-cce753045b1a",
+            "Elements": [
+              {
+                "Id": "7be4db52-c20b-4fb5-a165-c97d2ee65dfc",
+                "Name": "a",
+                "Text": "Customer Service Professional",
+                "Href": "https://dynamics.microsoft.com/en-us/customer-service/pricing/"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "09eeaebd-b2b3-447b-b532-aa5266fe68c7",
+        "Cells": [
+          {
+            "Id": "76a72aaa-8b32-4a75-9ab8-69fde694fa0c",
+            "Elements": [
+              {
+                "Id": "4cb6e9b1-1d49-4de3-a0a0-cd7af681e4f8",
+                "Name": "div",
+                "Text": "$50        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          },
+          {
+            "Id": "5d2e3b51-0b08-4c28-8a29-b5a57c8d33d7",
+            "Elements": [
+              {
+                "Id": "8732992c-54ce-4da8-8700-8e239549225a",
+                "Name": "div",
+                "Text": "$20        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      },
+      {
+        "Id": "a21966c6-04ef-4e7b-9809-808ac4c1dc3f",
+        "Cells": [
+          {
+            "Id": "888f9768-ac17-4736-b046-ca395437c204",
+            "Elements": [
+              {
+                "Id": "d2573201-d9f4-4fc3-b4c7-4adac25d2423",
+                "Name": "a",
+                "Text": "Customer Service Enterprise",
+                "Href": "https://dynamics.microsoft.com/en-us/customer-service/pricing/"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "0aed4df7-a148-456a-b07f-8474eb296ba9",
+        "Cells": [
+          {
+            "Id": "5d19cb1c-5e59-4964-abcd-31217567f0d8",
+            "Elements": [
+              {
+                "Id": "ecdbf0c2-ef82-4a97-a534-7f06f9a2d0d0",
+                "Name": "div",
+                "Text": "$95        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          },
+          {
+            "Id": "9d13a50e-56fe-4e09-b727-a7e68c0156f9",
+            "Elements": [
+              {
+                "Id": "440bfbc4-d967-4f5e-bd42-cb118cb8f0ee",
+                "Name": "div",
+                "Text": "$20        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      },
+      {
+        "Id": "a67eca71-15fe-4415-967b-fe7f48742711",
+        "Cells": [
+          {
+            "Id": "ff001709-86a6-4427-8ec6-121e8059ddd5",
+            "Elements": [
+              {
+                "Id": "706de32c-2d6c-4fc6-a511-3f7f4ff1ae90",
+                "Name": "a",
+                "Text": "Field Service",
+                "Href": "https://dynamics.microsoft.com/en-us/field-service/pricing/"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "23c457fc-aa56-4e12-9426-1e15af9217b2",
+        "Cells": [
+          {
+            "Id": "5a67a0a7-c6b2-4191-b871-a8861e69da74",
+            "Elements": [
+              {
+                "Id": "d4239db8-9195-4086-97c8-d9030caa0d63",
+                "Name": "div",
+                "Text": "$95        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          },
+          {
+            "Id": "ffce9f91-97bd-4f00-942e-7c1e7918bc54",
+            "Elements": [
+              {
+                "Id": "9be33d42-ebcc-4499-9b0c-12024f106941",
+                "Name": "div",
+                "Text": "$20        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      },
+      {
+        "Id": "71206e87-7bdf-4c9f-bb21-3bcbebe0cdbe",
+        "Cells": [
+          {
+            "Id": "6063ecc7-b6e7-46f1-ae5f-99b91f134af0",
+            "Elements": [
+              {
+                "Id": "d2b2603c-f287-4c1e-90f2-748f91822ee9",
+                "Name": "a",
+                "Text": "Remote Assist",
+                "Href": "https://dynamics.microsoft.com/en-us/mixed-reality/remote-assist/pricing/"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "aab70880-f1b3-4b72-baa7-1a1bfe0123ec",
+        "Cells": [
+          {
+            "Id": "1a34cc04-540f-4a9a-9f52-d276c9e8044b",
+            "Elements": [
+              {
+                "Id": "485780e0-5169-4b68-a3e1-10bb8836873d",
+                "Name": "div",
+                "Text": "$65        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          },
+          {
+            "Id": "d969a835-d12c-4e15-b241-c1bb7adabdb4",
+            "Elements": [
+              {
+                "Id": "d7b41cd5-b925-4073-9096-6f4a2b0d6cea",
+                "Name": "div",
+                "Text": "$20        4\r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Type": "Table",
+    "Id": "cf82cc22-191b-4c58-8999-2a58731c3b9b",
+    "Title": "Table",
+    "Rows": [
+      {
+        "Id": "4c73525c-2eec-4819-b250-c64599ff4004",
+        "Cells": [
+          {
+            "Id": "6dab2c70-f427-4d92-a3de-e5f6773001b8",
+            "Elements": [
+              {
+                "Id": "efe44013-7da4-47a9-a081-e03df675bf27",
+                "Name": "span",
+                "Text": "Project Management"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "ef1379fd-aabe-4889-853f-45cb8fbd9f2e",
+            "Elements": [
+              {
+                "Id": "8087dd90-e9bd-44fc-ac62-108654eedc7a",
+                "Name": "span",
+                "Text": "First Dynamics\u00A0365 app"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "8bc961c0-fa30-4d2c-9587-ec7c5a24f6cf",
+            "Elements": [
+              {
+                "Id": "80c56fb8-d6f6-49d9-b884-896bc0d1d190",
+                "Name": "span",
+                "Text": "Subsequent qualifying1Dynamics\u00A0365 app"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "def0dcd4-1aaa-4fd0-b572-83b9bfb78b1a",
+        "Cells": [
+          {
+            "Id": "5440b1a4-1023-48dc-966a-e45bc2fb977b",
+            "Elements": [
+              {
+                "Id": "8a34ec01-5701-495a-8813-07f2ff6bc218",
+                "Name": "a",
+                "Text": "Project Operations",
+                "Href": "https://dynamics.microsoft.com/en-us/project-operations/pricing/"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "b5b30850-1820-47aa-8142-f65fe14ae909",
+            "Elements": [
+              {
+                "Id": "948d1b28-f7a4-421f-8eb0-d5bdad416246",
+                "Name": "div",
+                "Text": "$120        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          },
+          {
+            "Id": "990edeaa-8ce6-4058-a23b-f243c2b2d9c3",
+            "Elements": [
+              {
+                "Id": "776f40b4-8d50-47ea-826f-837faefae1f3",
+                "Name": "div",
+                "Text": "$30        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Type": "Table",
+    "Id": "6d55f370-2d7c-4238-a4a9-3bffc05b410c",
+    "Title": "Table",
+    "Rows": [
+      {
+        "Id": "e06e7da4-de28-4251-a5f1-6607f9d5b416",
+        "Cells": [
+          {
+            "Id": "d3c3e182-73a6-4ea9-a6d8-15c6aaa6f286",
+            "Elements": [
+              {
+                "Id": "1ad14843-878c-488b-8690-8a82fb091978",
+                "Name": "span",
+                "Text": "Project Management"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "8418dd3e-a01e-4b02-9c84-c028a0673ca0",
+        "Cells": [
+          {
+            "Id": "f81c6f97-8f48-4838-b79c-27cd8c7a7527",
+            "Elements": [
+              {
+                "Id": "8d47ccbd-4d91-43b7-bd0b-bc6b58899625",
+                "Name": "span",
+                "Text": "First Dynamics\u00A0365 app"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "0c91446b-f81a-46f4-a7ab-901040362a70",
+            "Elements": [
+              {
+                "Id": "fc45df52-60d8-44e5-a9d8-37f1ac22e7ed",
+                "Name": "span",
+                "Text": "Subsequent qualifying1Dynamics\u00A0365 app"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "d4d9d5e1-dd0c-48ce-90ce-c79f002d4ef8",
+        "Cells": [
+          {
+            "Id": "e34c07bb-8bc1-4f2f-9f84-2c3365f27987",
+            "Elements": [
+              {
+                "Id": "0272ad31-ed3a-49cb-a564-ef59a3a2fa14",
+                "Name": "a",
+                "Text": "Project Operations",
+                "Href": "https://dynamics.microsoft.com/en-us/project-operations/pricing/"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "91ba3553-129a-4b6b-85ec-a35eebb7e515",
+        "Cells": [
+          {
+            "Id": "e1f3435f-f478-40c7-a8d8-0abf2e2a5750",
+            "Elements": [
+              {
+                "Id": "5adb983e-f786-4134-b860-fb10f55e7bf8",
+                "Name": "div",
+                "Text": "$120        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          },
+          {
+            "Id": "8e37ac4e-7578-4dfd-94e0-13a7c5782ae7",
+            "Elements": [
+              {
+                "Id": "a24bcdb7-4526-4d84-941f-400c097f1879",
+                "Name": "div",
+                "Text": "$30        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Type": "Table",
+    "Id": "e150a33e-897a-4027-aaac-53a826a87d9f",
+    "Title": "Table",
+    "Rows": [
+      {
+        "Id": "b35a9e6f-a7cb-41f4-b228-a39bab37c7fb",
+        "Cells": [
+          {
+            "Id": "85fc8a07-4f62-4d96-a416-98e99da44b1a",
+            "Elements": [
+              {
+                "Id": "9287e26c-b123-4308-a02a-7e469d28b4a3",
+                "Name": "span",
+                "Text": "Human Resources"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "ba0e005b-59d0-4c17-a217-3cd1e166d385",
+            "Elements": [
+              {
+                "Id": "edd3e3b7-fd10-4908-a4f6-525a6803cb10",
+                "Name": "span",
+                "Text": "First Dynamics\u00A0365 app"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "99ee4eaa-868e-438e-bec9-b4daf9602a7e",
+            "Elements": [
+              {
+                "Id": "1a65f9fd-fb79-47a0-a418-9b36f7c70f63",
+                "Name": "span",
+                "Text": "Subsequent qualifying1Dynamics\u00A0365 app"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "8d91ccff-afa0-43bc-bf3d-ea2e9ce3cc1d",
+        "Cells": [
+          {
+            "Id": "321c865c-0ca3-46ab-956e-a21094d0eb7d",
+            "Elements": [
+              {
+                "Id": "1ff6d880-7f85-4ab1-8e27-5947f0b1917d",
+                "Name": "a",
+                "Text": "Human Resources",
+                "Href": "https://dynamics.microsoft.com/en-us/human-resources/pricing/"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "e2142157-e71b-4033-aa0d-9b6c200b574e",
+            "Elements": [
+              {
+                "Id": "a3530b61-5438-43de-8325-c36b7a55db2a",
+                "Name": "div",
+                "Text": "$120        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          },
+          {
+            "Id": "828d6883-ab93-495b-a4ce-9a7230340eb8",
+            "Elements": [
+              {
+                "Id": "32e4e93f-d813-43d2-ad0c-93148fc2d5e9",
+                "Name": "div",
+                "Text": "$30        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Type": "Table",
+    "Id": "a17b08ac-70c4-431a-96b0-798a1f2b8cdb",
+    "Title": "Table",
+    "Rows": [
+      {
+        "Id": "d5ead7dc-8662-47c6-95ad-129ccd7c9efe",
+        "Cells": [
+          {
+            "Id": "cda99cc7-b48c-4916-99c4-4169bdf9abd0",
+            "Elements": [
+              {
+                "Id": "bbdcff06-e6f1-49c9-bffd-1841a839208b",
+                "Name": "span",
+                "Text": "Human Resources"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "7d634cd4-bae0-4571-bb7a-b594d3e129e2",
+        "Cells": [
+          {
+            "Id": "1f15ae6a-057b-47a0-8c4f-d029b5f86723",
+            "Elements": [
+              {
+                "Id": "64592508-f186-4245-847e-7cd02e598513",
+                "Name": "span",
+                "Text": "First Dynamics\u00A0365 app"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "4fbddf0f-be10-4830-8f6d-b431327eb5e4",
+            "Elements": [
+              {
+                "Id": "b61b6a44-4794-48d8-a63d-adc437c7e3ca",
+                "Name": "span",
+                "Text": "Subsequent qualifying1Dynamics\u00A0365 app"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "9e2cae79-e647-467a-bb65-b1c284f9557b",
+        "Cells": [
+          {
+            "Id": "49189f1d-a9a1-4df2-b78f-526d503d368d",
+            "Elements": [
+              {
+                "Id": "e88e23b6-1cd2-490c-a899-0da446004854",
+                "Name": "a",
+                "Text": "Human Resources",
+                "Href": "https://dynamics.microsoft.com/en-us/human-resources/pricing/"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "20b75db1-091e-48c6-8b16-ca50f76f5fcb",
+        "Cells": [
+          {
+            "Id": "fbfc9f9f-6f31-4879-9708-a206c12bfcbc",
+            "Elements": [
+              {
+                "Id": "abe5cd75-b080-4529-84e3-7c9762d4f1ed",
+                "Name": "div",
+                "Text": "$120        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          },
+          {
+            "Id": "888e7648-fe0a-4b7c-9922-3b80a476f5c3",
+            "Elements": [
+              {
+                "Id": "1d4b6216-0210-480d-9568-db651d46d675",
+                "Name": "div",
+                "Text": "$30        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Type": "Table",
+    "Id": "b403e9bd-d6e8-43c7-bdf2-dd8538649716",
+    "Title": "Table",
+    "Rows": [
+      {
+        "Id": "665f7bc6-214f-4156-a516-990824acfc2b",
+        "Cells": [
+          {
+            "Id": "4c4bd55f-9306-4eae-b7ac-4ad0dd710a40",
+            "Elements": [
+              {
+                "Id": "ea1cce84-388a-434c-b43f-9883784e95c1",
+                "Name": "span",
+                "Text": "Customer Data Platform"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "585e901b-8f40-486d-8a6f-ea22bc4d5588",
+            "Elements": [
+              {
+                "Id": "30d12952-f65a-4335-bafd-56225ef5a0c6",
+                "Name": "span",
+                "Text": "First Dynamics\u00A0365 app"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "db1f1cbe-2693-44ae-809f-0b305f7680fe",
+            "Elements": [
+              {
+                "Id": "e11f0740-75f6-43ed-867c-8ab03acdf5b0",
+                "Name": "span",
+                "Text": "Subsequent qualifying1Dynamics\u00A0365 app"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "08101176-6ca3-4b0f-8ee3-4ea15d7701ba",
+        "Cells": [
+          {
+            "Id": "78e75076-5451-4fa6-b498-ba1976a28220",
+            "Elements": [
+              {
+                "Id": "7afb1901-1f87-4a58-b417-916995045bc7",
+                "Name": "a",
+                "Text": "Customer Insights",
+                "Href": "https://dynamics.microsoft.com/en-us/ai/customer-insights/pricing/"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "6b2f6438-0b56-4b48-a13d-a32e12367b46",
+            "Elements": [
+              {
+                "Id": "6666592c-5bb5-448f-8706-423d3fbbf20f",
+                "Name": "div",
+                "Text": "$1,700        \r\n\r\n            \r\n                per tenant/month"
+              }
+            ],
+            "IsHeader": false
+          },
+          {
+            "Id": "9dd733db-4578-46f1-8f6e-ac89d3bec061",
+            "Elements": [
+              {
+                "Id": "8adc7ef8-7f55-46c8-940c-39756ce4f920",
+                "Name": "div",
+                "Text": "From  $1,000        \r\n\r\n            \r\n                per tenant/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      },
+      {
+        "Id": "8c097f59-0a57-45e9-b4a8-2842e7f59186",
+        "Cells": [
+          {
+            "Id": "c7827de2-0980-4150-ab8f-91dc78a77539",
+            "Elements": [
+              {
+                "Id": "08badae4-e82c-423b-afdd-0c3be7a2341e",
+                "Name": "a",
+                "Text": "Customer Voice",
+                "Href": "https://dynamics.microsoft.com/en-us/customer-voice/pricing/"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "df1439a5-8f49-4d20-a44a-660eaaa53b13",
+            "Elements": [
+              {
+                "Id": "b5cf879f-4a8a-4557-8fff-a3d183afa64b",
+                "Name": "div",
+                "Text": "From  $200        5\r\n\r\n            \r\n                2,000 survey responses per tenant/month*"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Type": "Table",
+    "Id": "a3b085ba-fccd-42fa-8011-bd28798014da",
+    "Title": "Table",
+    "Rows": [
+      {
+        "Id": "e3b4528b-2a32-4e69-b2b0-344fea0084da",
+        "Cells": [
+          {
+            "Id": "85303609-4152-4f33-a708-9306413f6092",
+            "Elements": [
+              {
+                "Id": "5bd97514-ec66-4ca9-a236-607b4f4191db",
+                "Name": "span",
+                "Text": "Customer Data Platform"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "eca35344-d8bf-4b74-a7ec-2b35d895a0f1",
+        "Cells": [
+          {
+            "Id": "f5f26a3b-103f-48d9-af7a-191d27667f7b",
+            "Elements": [
+              {
+                "Id": "2199d5eb-02f4-420b-bd5f-96e61e30cc98",
+                "Name": "span",
+                "Text": "First Dynamics\u00A0365 app"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "8928ac70-7b36-4fea-85a8-0433fd2cc82a",
+            "Elements": [
+              {
+                "Id": "21a0d187-5301-47fd-b249-0a11b4c7571f",
+                "Name": "span",
+                "Text": "Subsequent qualifying1Dynamics\u00A0365 app"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "efb28af4-b628-44d3-bc57-1839cbdf1adc",
+        "Cells": [
+          {
+            "Id": "2c89ccd8-8fa0-4c53-81b3-92a5216bd2e0",
+            "Elements": [
+              {
+                "Id": "3562bcc4-d164-45b5-9d27-722d31382b95",
+                "Name": "a",
+                "Text": "Customer Insights",
+                "Href": "https://dynamics.microsoft.com/en-us/ai/customer-insights/pricing/"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "f6b893ec-ea29-4e4d-b375-a631003cb5f9",
+        "Cells": [
+          {
+            "Id": "942b8072-ce7f-448c-93f5-f80be55fd87e",
+            "Elements": [
+              {
+                "Id": "493651dd-eb0a-4877-af08-0f97bd2bd2c7",
+                "Name": "div",
+                "Text": "$1,700        \r\n\r\n            \r\n                per tenant/month"
+              }
+            ],
+            "IsHeader": false
+          },
+          {
+            "Id": "fbd26c25-dba3-47c1-9d63-17523378c7d8",
+            "Elements": [
+              {
+                "Id": "d7dc6253-36f2-4666-95d0-9e88c6269afd",
+                "Name": "div",
+                "Text": "From  $1,000        \r\n\r\n            \r\n                per tenant/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      },
+      {
+        "Id": "d4849fb4-4e82-40f0-ae2c-1eddb81762a8",
+        "Cells": [
+          {
+            "Id": "4bf93234-737e-44da-bcae-4e9fab54bc19",
+            "Elements": [
+              {
+                "Id": "8f6c8e31-8949-4248-9035-45bc94032b5f",
+                "Name": "a",
+                "Text": "Customer Voice",
+                "Href": "https://dynamics.microsoft.com/en-us/customer-voice/pricing/"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "6b5377d4-325c-4f1e-8911-44b026ed7de3",
+        "Cells": [
+          {
+            "Id": "4a424051-e553-4f9a-a781-32b2cb88f9a5",
+            "Elements": [
+              {
+                "Id": "7c145766-1e12-4aa7-a6de-9df281ac002f",
+                "Name": "div",
+                "Text": "From  $200        5\r\n\r\n            \r\n                2,000 survey responses per tenant/month*"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Type": "Table",
+    "Id": "4bd80101-ad3c-4d9b-aa1c-ac2e72b500f9",
+    "Title": "Table",
+    "Rows": [
+      {
+        "Id": "07e8a524-6afc-4cc6-b0aa-61e3df065709",
+        "Cells": [
+          {
+            "Id": "a71033a7-f1f0-4e17-90c8-ec5c74b1fc86",
+            "Elements": [
+              {
+                "Id": "982bad6b-bc3f-4515-9f52-1ccb76b3b191",
+                "Name": "span",
+                "Text": "Commerce"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "ce30495b-4f14-4b35-9f5d-1163b89233f7",
+            "Elements": [
+              {
+                "Id": "a08a9618-53a6-4f32-a2a7-ef8bb2cae19b",
+                "Name": "span",
+                "Text": "First Dynamics\u00A0365 app"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "a3ed1ba3-7558-4b7c-b56c-cf8dcac07671",
+            "Elements": [
+              {
+                "Id": "7a3fbc07-9d4b-418a-a6c3-51b9ec3724bd",
+                "Name": "span",
+                "Text": "Subsequent qualifying1Dynamics\u00A0365 app"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "108d51ac-44e9-446a-9c2a-a78e1e4ef487",
+        "Cells": [
+          {
+            "Id": "63f2dc5e-b0d7-4fb0-a74b-8bf15163efd5",
+            "Elements": [
+              {
+                "Id": "27768dc7-31eb-4f91-b02a-4d0393e6c466",
+                "Name": "a",
+                "Text": "Commerce",
+                "Href": "https://dynamics.microsoft.com/en-us/commerce/pricing/"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "aef3033a-55d8-4206-a2a5-4242c10d5ebc",
+            "Elements": [
+              {
+                "Id": "55b3f5b4-a96b-4258-9ecf-d75986f2fef4",
+                "Name": "div",
+                "Text": "$180        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          },
+          {
+            "Id": "f5117085-680e-488e-9d0d-5ea2b2e70367",
+            "Elements": [
+              {
+                "Id": "f9f2575c-bc68-4e08-b2c7-47d29a9bb38b",
+                "Name": "div",
+                "Text": "$30        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      },
+      {
+        "Id": "d7bfee0a-5441-4933-84ba-6f73603c13e4",
+        "Cells": [
+          {
+            "Id": "e06fcb4d-6c16-49e6-92a2-e42946225143",
+            "Elements": [
+              {
+                "Id": "0d5cf466-8e67-4888-afa0-0ee6ecc67b06",
+                "Name": "a",
+                "Text": "Fraud Protection",
+                "Href": "https://dynamics.microsoft.com/en-us/ai/fraud-protection/pricing/"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "b3d21fbb-baea-4f5e-adba-05578fa72047",
+            "Elements": [
+              {
+                "Id": "4fcc9ba9-7e7f-48ab-8d58-bccd83193e47",
+                "Name": "div",
+                "Text": "$1,000        \r\n\r\n            \r\n                per tenant/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Type": "Table",
+    "Id": "aff200d0-6b91-48e9-a10c-876835e116ed",
+    "Title": "Table",
+    "Rows": [
+      {
+        "Id": "c311bc37-5461-4c44-9f4c-d16a92be489f",
+        "Cells": [
+          {
+            "Id": "f5266e3a-95d4-45ff-9c54-d5fc5f869eac",
+            "Elements": [
+              {
+                "Id": "351dcfde-bfbe-489e-8fe1-5d874c50bcd9",
+                "Name": "span",
+                "Text": "Commerce"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "679b991f-be21-4093-ad1a-27920754ed21",
+        "Cells": [
+          {
+            "Id": "c7afe6e0-9a1a-4add-ad60-9cf45ec9a776",
+            "Elements": [
+              {
+                "Id": "c01f5948-0ac3-4f51-8c34-03e0cb7958a7",
+                "Name": "span",
+                "Text": "First Dynamics\u00A0365 app"
+              }
+            ],
+            "IsHeader": true
+          },
+          {
+            "Id": "8f5951d0-db91-47d3-8a20-038b6d30e0ac",
+            "Elements": [
+              {
+                "Id": "c877904d-b4b6-46a2-8b6e-896a5df39061",
+                "Name": "span",
+                "Text": "Subsequent qualifying1Dynamics\u00A0365 app"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "699c5e80-8293-4089-8306-6ef8a344edee",
+        "Cells": [
+          {
+            "Id": "220f8591-f899-41c4-b3f9-1be4df63a6ba",
+            "Elements": [
+              {
+                "Id": "53aba6b4-27e3-42c8-8c83-acbb32d08f33",
+                "Name": "a",
+                "Text": "Commerce",
+                "Href": "https://dynamics.microsoft.com/en-us/commerce/pricing/"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "556d2d97-365a-4225-bb2d-3aaaad385239",
+        "Cells": [
+          {
+            "Id": "6e51c650-4b24-4549-9e8f-8e54dc8bc675",
+            "Elements": [
+              {
+                "Id": "f6ba21c9-974f-426d-b444-8174bc7ea8f4",
+                "Name": "div",
+                "Text": "$180        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          },
+          {
+            "Id": "74217a40-c25f-4e25-ad88-8d36693dc1c6",
+            "Elements": [
+              {
+                "Id": "a3055cab-a51d-4d58-8c7e-c4bb2a0d57b2",
+                "Name": "div",
+                "Text": "$30        \r\n\r\n            \r\n                per user/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      },
+      {
+        "Id": "6dd6299d-3eff-4e87-a1ef-c49e7aecb3e6",
+        "Cells": [
+          {
+            "Id": "3a6152ed-0514-4f8e-8081-c6f4102d88c7",
+            "Elements": [
+              {
+                "Id": "bc3d9add-69f5-4b17-bb66-899699f126da",
+                "Name": "a",
+                "Text": "Fraud Protection",
+                "Href": "https://dynamics.microsoft.com/en-us/ai/fraud-protection/pricing/"
+              }
+            ],
+            "IsHeader": true
+          }
+        ]
+      },
+      {
+        "Id": "3bf406be-c126-49d5-ab71-e107ae58b62a",
+        "Cells": [
+          {
+            "Id": "e70462d5-0ef2-479a-8a6f-53f6045a6264",
+            "Elements": [
+              {
+                "Id": "281d16d1-233b-4b15-af96-154ae989e43a",
+                "Name": "div",
+                "Text": "$1,000        \r\n\r\n            \r\n                per tenant/month"
+              }
+            ],
+            "IsHeader": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Type": "Section",
+    "Id": "76562cdf-0ee1-4aaf-9c68-c70635a3a876",
+    "Title": "Component23",
+    "Elements": [
+      {
+        "Id": "67feae88-9373-46a1-9217-a269de69ba0b",
+        "Name": "p",
+        "Text": "Prices shown are for informational purposes only and may not be reflective of actual list price due to currency, country, and regional variant factors. Your actual price will be reflected at\u00A0checkout."
+      },
+      {
+        "Id": "44a98950-286d-411d-8777-f60fe015bbb2",
+        "Name": "p",
+        "Text": "1 Subsequent pricing applies only to the individual licensed for the first app. For example, if Person A is licensed for the first app, subsequent pricing wouldn\u2019t apply to Person B.  Subsequent pricing for tenant-based apps applies to any tenant in your organization. A tenant contains uniquely identified domains, users, security groups, and licenses. Your organization may have multiple tenants, and a single tenant can contain multiple Dynamics\u00A0365 (online) environments. To learn about qualifying apps and other discounts, see the Licensing guide or contact us."
+      },
+      {
+        "Id": "b9f8e5eb-bf94-42b0-8ca2-b91ff26639e3",
+        "Name": "a",
+        "Text": "1",
+        "Href": "https://dynamics.microsoft.com/en-us/pricing/#footnote1"
+      },
+      {
+        "Id": "a28000df-81d4-4ac0-859f-36fe995778f2",
+        "Name": "a",
+        "Text": "Licensing guide",
+        "Href": "https://go.microsoft.com/fwlink/?LinkId=866544\u0026amp;clcid=0x409"
+      },
+      {
+        "Id": "583025f8-09be-4f2e-94d7-2b1662d7b4ea",
+        "Name": "a",
+        "Text": "contact us",
+        "Href": "https://go.microsoft.com/fwlink/?LinkId=2240698\u0026amp;clcid=0x409"
+      },
+      {
+        "Id": "6db9b0aa-9c21-4d88-bf0d-97adc2de9a24",
+        "Name": "p",
+        "Text": "2 Microsoft Sales Copilot is included in Sales Enterprise, and any plan that includes Dynamics\u00A0365 Sales Enterprise,at no additional cost."
+      },
+      {
+        "Id": "6df4d77b-7661-455c-bbb2-c8ce065fd4d7",
+        "Name": "a",
+        "Text": "2",
+        "Href": "https://dynamics.microsoft.com/en-us/pricing/#footnote2"
+      },
+      {
+        "Id": "7796040e-6ec7-48a9-b168-1e1dd0953384",
+        "Name": "a",
+        "Text": "Microsoft Sales Copilot",
+        "Href": "https://go.microsoft.com/fwlink/?LinkId=2245132\u0026amp;clcid=0x409"
+      },
+      {
+        "Id": "3926fbf5-b54d-410c-af66-24a1713b1cd3",
+        "Name": "p",
+        "Text": "3 10 users minimum of qualifying Dynamics\u00A0365 app."
+      },
+      {
+        "Id": "87093f2e-44ef-4899-b513-b3c05b8ced2b",
+        "Name": "a",
+        "Text": "3",
+        "Href": "https://dynamics.microsoft.com/en-us/pricing/#footnote-3"
+      },
+      {
+        "Id": "4727fe00-a224-4b7a-8484-f1ac07401f6b",
+        "Name": "p",
+        "Text": "4 User must be licensed for Dynamics\u00A0365 Field Service to qualify for reduced pricing."
+      },
+      {
+        "Id": "f775331e-0927-4e35-aa21-b737ba0c3dca",
+        "Name": "a",
+        "Text": "4",
+        "Href": "https://dynamics.microsoft.com/en-us/pricing/#footnote-4"
+      },
+      {
+        "Id": "ba17bf3d-c5e9-4d72-a6be-5d2b89136140",
+        "Name": "p",
+        "Text": "5 When purchased as a standalone application or additional capacity."
+      },
+      {
+        "Id": "4e8064b7-92d3-4be6-b97e-4b7a262ea222",
+        "Name": "a",
+        "Text": "5",
+        "Href": "https://dynamics.microsoft.com/en-us/pricing/#footnote-5"
+      }
+    ]
+  },
+  {
+    "Type": "Section",
+    "Id": "d216f5cc-d414-4758-bf98-6ddc72883ca5",
+    "Title": "Pricing for nonprofit organizations",
+    "Elements": [
+      {
+        "Id": "01f8349e-3220-4ef5-9b45-2db0dd2fda3d",
+        "Name": "h2",
+        "Text": "Pricing for nonprofit organizations"
+      },
+      {
+        "Id": "d86bb980-f880-4c48-9150-7d0ac3ae6245",
+        "Name": "p",
+        "Text": "Dynamics\u00A0365 can help nonprofits drive deeper engagement with donors, volunteers, and beneficiaries and better manage finances and operations."
+      },
+      {
+        "Id": "f4a6020f-2cb1-43d4-86eb-a677e7252ffe",
+        "Name": "a",
+        "Text": "See pricing for nonprofits",
+        "Href": "https://go.microsoft.com/fwlink/?LinkId=2104232\u0026amp;clcid=0x409"
+      },
+      {
+        "Id": "335ceae2-c624-4a10-93e0-347a0a3f2f8f",
+        "Name": "span",
+        "Text": "See pricing for nonprofits"
+      }
+    ]
+  },
+  {
+    "Type": "Section",
+    "Id": "1b2bd0a1-26c1-4106-9bf2-ae6644c5fcae",
+    "Title": "Pricing for nonprofit organizations",
+    "Elements": [
+      {
+        "Id": "acf2ea42-f55b-47b3-857a-9e4d1890d2c9",
+        "Name": "h2",
+        "Text": "Pricing for nonprofit organizations"
+      },
+      {
+        "Id": "54d86a8d-de20-4198-8334-279cc40579b3",
+        "Name": "p",
+        "Text": "Dynamics\u00A0365 can help nonprofits drive deeper engagement with donors, volunteers, and beneficiaries and better manage finances and operations."
+      },
+      {
+        "Id": "90029e45-b670-4650-9cd8-1b25f86b448e",
+        "Name": "a",
+        "Text": "See pricing for nonprofits",
+        "Href": "https://go.microsoft.com/fwlink/?LinkId=2104232\u0026amp;clcid=0x409"
+      },
+      {
+        "Id": "a09bc029-edcf-4ad8-a7c7-030d7eb56ea5",
+        "Name": "span",
+        "Text": "See pricing for nonprofits"
+      }
+    ]
+  },
+  {
+    "Type": "Section",
+    "Id": "0f90f28a-dbc5-4b35-9630-b13ac2c921b9",
+    "Title": "\r\n            Included in all Dynamics\u00A0365 applications\r\n        ",
+    "Elements": [
+      {
+        "Id": "36ba335f-e767-45ac-b81b-45aab1bb0c9a",
+        "Name": "h2",
+        "Text": "Included in all Dynamics\u00A0365 applications"
+      },
+      {
+        "Id": "62e5e977-8fd1-41cd-9ae0-4b75a70385e9",
+        "Name": "h3",
+        "Text": "Data security"
+      },
+      {
+        "Id": "db892142-f42a-4bca-a970-c876e046fe6a",
+        "Name": "h3",
+        "Text": "99.9 percent or above uptime\u00A0SLA"
+      },
+      {
+        "Id": "d8747a0e-5764-4540-9fbd-5bf717ff3abe",
+        "Name": "h3",
+        "Text": "Works with Microsoft\u00A0365 and LinkedIn"
+      },
+      {
+        "Id": "c28b3855-99bf-4760-b1fe-36ff7b146a05",
+        "Name": "h3",
+        "Text": "Intelligent technologies"
+      },
+      {
+        "Id": "e8427545-f04a-42f0-a97f-b8e9104d8ea9",
+        "Name": "h3",
+        "Text": "Phone and web support"
+      }
+    ]
+  },
+  {
+    "Type": "Section",
+    "Id": "a71a6de2-7645-47e8-acf3-6fe337775de2",
+    "Title": "Component27",
+    "Elements": [
+      {
+        "Id": "72e9205e-97d8-4b1a-b1a1-e0c9340479c2",
+        "Name": "iframe",
+        "Src": "https://dynamics.microsoft.com/en-us/pricing/"
+      }
+    ]
+  },
+  {
+    "Type": "Section",
+    "Id": "928afbdf-b8be-4fd5-87c0-6781be2e94ac",
+    "Title": "Contact us",
+    "Elements": [
+      {
+        "Id": "428b74cb-6475-4836-a4fb-27cd4c6c43ce",
+        "Name": "h2",
+        "Text": "Contact us"
+      },
+      {
+        "Id": "25eda8fa-91ca-4dd9-b881-b7d59a7802a4",
+        "Name": "h3",
+        "Text": "Chat with Sales"
+      },
+      {
+        "Id": "8f70eaa1-8b4e-42d9-8b0b-e0d25904a209",
+        "Name": "p",
+        "Text": "Available Monday to Friday"
+      },
+      {
+        "Id": "3c8be1e4-a194-4217-927e-9c1f0012ec6e",
+        "Name": "p",
+        "Text": "8 AM to 5 PM Central Time."
+      },
+      {
+        "Id": "ff8344ab-9592-483d-9ecd-b688da27fde9",
+        "Name": "a",
+        "Text": "Chat now",
+        "Href": "https://dynamics.microsoft.com/en-us/pricing/#"
+      },
+      {
+        "Id": "a3747c93-70a3-4f6a-83af-363f66e6c3ed",
+        "Name": "span",
+        "Text": "Chat now"
+      },
+      {
+        "Id": "8fedec1e-885d-4460-93a3-81b3ef00af78",
+        "Name": "h3",
+        "Text": "Request we contact you"
+      },
+      {
+        "Id": "1cfe728d-ceb5-4ac5-a840-d29827fc32de",
+        "Name": "p",
+        "Text": "Have a Dynamics 365 sales expert contact you."
+      },
+      {
+        "Id": "33dd1936-4c26-46b5-a10a-27c28c999952",
+        "Name": "a",
+        "Text": "Send a request",
+        "Href": "https://go.microsoft.com/fwlink/?LinkId=2240698\u0026amp;clcid=0x409"
+      },
+      {
+        "Id": "2677718b-1660-46e0-8106-0de2b08dd710",
+        "Name": "span",
+        "Text": "Send a request"
+      },
+      {
+        "Id": "d9686e5e-02ac-4c82-899c-a091af41a978",
+        "Name": "h3",
+        "Text": "Call Sales"
+      },
+      {
+        "Id": "d45322ef-d151-4ba1-b352-0b0eced22aa3",
+        "Name": "p",
+        "Text": "Available Monday to Friday"
+      },
+      {
+        "Id": "46a6d985-d6e1-45fd-bf2e-5aae8c94a009",
+        "Name": "p",
+        "Text": "8 AM to 5 PM Central Time."
+      },
+      {
+        "Id": "f7b3b8c0-64e3-45d6-b43e-3332094392a8",
+        "Name": "a",
+        "Text": "Call 18552700615",
+        "Href": "tel:18552700615"
+      },
+      {
+        "Id": "ffe93247-8378-4035-b0d1-9ff731c7ba7d",
+        "Name": "span",
+        "Text": "Call 18552700615"
+      }
+    ]
+  },
+  {
+    "Type": "Section",
+    "Id": "edc086d2-d91c-4334-8214-6d0892725670",
+    "Title": "Component29",
+    "Elements": [
+      {
+        "Id": "3d005f0c-f74f-473f-af90-ba9c3051806b",
+        "Name": "span",
+        "Text": "Follow this page"
+      },
+      {
+        "Id": "39842808-fd67-42b8-9962-279be8b1ed47",
+        "Name": "a",
+        "Href": "https://twitter.com/msftdynamics365?rel=no-follow"
+      },
+      {
+        "Id": "2b5dee53-7b99-43f7-9012-1d4b233af064",
+        "Name": "img",
+        "Src": "https://dynamics365cdn.azureedge.net/cvt-6ed0d718f19535771aa6a82645b1bd78ad2d1e1c115a5100277a1970e5dc99d4/svg/_bapishared/twitter.svg",
+        "Alt": "Follow this page on Twitter"
+      },
+      {
+        "Id": "e09bf16e-6cc2-47b6-84fc-bc5b53bd0b45",
+        "Name": "a",
+        "Href": "https://www.linkedin.com/showcase/3509297"
+      },
+      {
+        "Id": "04767df5-3f96-4101-a435-98fed18cee8b",
+        "Name": "img",
+        "Src": "https://dynamics365cdn.azureedge.net/cvt-4cb89c5c8aa4a0185c1d25c04c2ea3b5cb641ada152e37190dc5a04b62c86000/svg/_bapishared/linkedin.svg",
+        "Alt": "Follow this page on LinkedIn"
+      },
+      {
+        "Id": "e2f4023d-f550-4542-b213-f89be0db283d",
+        "Name": "a",
+        "Href": "https://www.youtube.com/channel/UCJGCg4rB3QSs8y_1FquelBQ/"
+      },
+      {
+        "Id": "151fb375-5468-463d-8d7e-6fb8b10006c8",
+        "Name": "img",
+        "Src": "https://dynamics365cdn.azureedge.net/cvt-f3936a9fee29d36e1f7d72fc780bb513f1eec19fb274f656d7bf3431ede52061/svg/_bapishared/youtube.svg",
+        "Alt": "Follow this page on Youtube"
+      },
+      {
+        "Id": "793e469a-fc3a-4bec-a170-64111b143864",
+        "Name": "a",
+        "Href": "https://www.facebook.com/msftdynamics365"
+      },
+      {
+        "Id": "9affdd79-de0f-413e-8eb6-4607f195bde0",
+        "Name": "img",
+        "Src": "https://dynamics365cdn.azureedge.net/cvt-2ea01630178355bafb2df6ad2f48affe3bc72e1b1b84d93b8f36ec825fd4db79/svg/_bapishared/facebook.svg",
+        "Alt": "Follow this page on Facebook"
+      },
+      {
+        "Id": "a2f2ca2d-5dbd-47ee-8bbd-e874b9b8d8c5",
+        "Name": "span",
+        "Text": "Share this page"
+      },
+      {
+        "Id": "29ad314f-32f3-4a55-a0c9-9a41220782f7",
+        "Name": "img",
+        "Src": "https://dynamics365cdn.azureedge.net/cvt-6ed0d718f19535771aa6a82645b1bd78ad2d1e1c115a5100277a1970e5dc99d4/svg/_bapishared/twitter.svg",
+        "Alt": "Share this page on Twitter"
+      },
+      {
+        "Id": "a793afd0-33b6-4f14-a089-690f435f2598",
+        "Name": "img",
+        "Src": "https://dynamics365cdn.azureedge.net/cvt-4cb89c5c8aa4a0185c1d25c04c2ea3b5cb641ada152e37190dc5a04b62c86000/svg/_bapishared/linkedin.svg",
+        "Alt": "Share this page on LinkedIn"
+      },
+      {
+        "Id": "2ecbe0d1-f67f-49c0-987d-b4ec58a35511",
+        "Name": "img",
+        "Src": "https://dynamics365cdn.azureedge.net/cvt-2ea01630178355bafb2df6ad2f48affe3bc72e1b1b84d93b8f36ec825fd4db79/svg/_bapishared/facebook.svg",
+        "Alt": "Share this page on Facebook"
+      }
+    ]
+  },
+  {
+    "Type": "Section",
+    "Id": "86d02a64-be38-4050-ba50-f1bc8fd7071a",
+    "Title": "Need Help?",
+    "Elements": [
+      {
+        "Id": "e6eca8f1-2e12-4eef-b268-9efe0dce33d9",
+        "Name": "h3",
+        "Text": "Need Help?"
+      },
+      {
+        "Id": "44385c62-1430-47ca-b6d7-3974b4c1cbe8",
+        "Name": "p",
+        "Text": "Chat with a Microsoft sales specialist for answers to your Dynamics 365 questions."
+      },
+      {
+        "Id": "5627ae91-9241-4f45-8820-637b87f4267c",
+        "Name": "button",
+        "Text": "Chat now"
+      },
+      {
+        "Id": "b9cc177d-cb95-4775-b85a-8cd5be70e191",
+        "Name": "span",
+        "Text": "Chat now"
+      },
+      {
+        "Id": "95ad6b86-0ecc-4719-9c6b-2e94c7ffccab",
+        "Name": "button",
+        "Text": "No thanks"
+      },
+      {
+        "Id": "1d7399f0-7735-4b69-92ac-94ad1418aeb3",
+        "Name": "span",
+        "Text": "No thanks"
+      }
+    ]
+  },
+  {
+    "Type": "Section",
+    "Id": "8b56c00a-44c8-43f0-a2a5-bc19f05db52d",
+    "Title": "Thanks for reaching out\u200B",
+    "Elements": [
+      {
+        "Id": "7a539ca8-ea9e-4750-ae2c-1412ea041a40",
+        "Name": "button",
+        "Text": "\u00D7"
+      },
+      {
+        "Id": "04d2f225-549e-4864-b1a1-2a63b14eb7c0",
+        "Name": "img",
+        "Src": "https://dynamics365cdn.azureedge.net/cvt-da485b5e78394d40483a6742b6955c75cab4d3598877fc2d166f142de6774864/pictures/geo-redirect/north-america/geo-popup-yellow.png",
+        "Alt": "north-america"
+      },
+      {
+        "Id": "9d4b552e-7062-4083-9453-247647ec67be",
+        "Name": "h3",
+        "Text": "Thanks for reaching out\u200B"
+      },
+      {
+        "Id": "f47670ec-0276-46b2-bb71-23ee30c6dbc8",
+        "Name": "p",
+        "Text": "You\u2019re trying to chat with our en-us Sales team outside of their business hours, but you can talk now in en-in with our India - English Sales\u00A0team.\u200B"
+      },
+      {
+        "Id": "ba296bbe-5f5b-42f6-842f-069c17aeaf71",
+        "Name": "a",
+        "Text": "Chat now",
+        "Href": "https://dynamics.microsoft.com/en-in/pricing/"
+      },
+      {
+        "Id": "6533d8fc-c560-470b-a968-fd48b20b6f7a",
+        "Name": "span",
+        "Text": "Chat now"
+      },
+      {
+        "Id": "aa85b8e2-adac-4410-90d7-02c43916a724",
+        "Name": "a",
+        "Text": "No, thanks",
+        "Href": "https://dynamics.microsoft.com/en-us/pricing/"
+      },
+      {
+        "Id": "2a58690e-c5af-44bd-8963-29b804621626",
+        "Name": "span",
+        "Text": "No, thanks"
+      }
+    ]
+  }
+]

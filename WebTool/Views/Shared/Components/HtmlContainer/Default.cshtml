@@ -1,0 +1,55 @@
+﻿@model HtmlContainerViewComponentModel
+
+@if (Model.Container is not HtmlCard && Model.Container is not HtmlTab)
+{
+    <tr data-container-id=@Model.Container.Id data-container-discriminator=@Model.Container.GetDiscriminator()>
+        <td colspan="4" class="bg-primary">@Model.Container.Title</td>
+    </tr>
+}
+
+@switch (Model.Container)
+{
+    case HtmlCard card when Model.Parent is HtmlCardsContainer cardsContainer:
+        <tr data-id=@card.Id data-container-id=@cardsContainer.Id data-container-discriminator=@card.GetDiscriminator() data-last=@(cardsContainer.Cards.IndexOf(card) == cardsContainer.Cards.Count - 1) data-deleted=@card.Deleted>
+            <td colspan="4" class="bg-primary">@card.Title</td>
+        </tr>
+        @await Component.InvokeAsync("HtmlElementCollection", new { elements = card.Elements, containerId = cardsContainer.Id, parent = card })
+        break;
+    case HtmlCardsContainer cardsContainer:
+        foreach (HtmlCard card in cardsContainer.Cards)
+        {
+            @await Component.InvokeAsync("HtmlContainer", new HtmlContainerViewComponentModel(card, cardsContainer))
+        }
+        break;
+    case HtmlSection section:
+        @await Component.InvokeAsync("HtmlElementCollection", new { elements = section.Elements, containerId = section.Id })
+        break;
+    case HtmlSeoSection seoSection:
+        @await Component.InvokeAsync("HtmlElementCollection", new { elements = seoSection.Elements, containerId = seoSection.Id })
+        break;
+    case HtmlTab tab when Model.Parent is HtmlTabsContainer tabsContainer:
+        <tr data-id=@tab.Id data-container-id=@tabsContainer.Id data-container-discriminator=@tab.GetDiscriminator() data-last=@(tabsContainer.Tabs.IndexOf(tab) == tabsContainer.Tabs.Count - 1) data-deleted=@tab.Deleted>
+            <td colspan="4" class="bg-primary"><span class="tab-title-header">@tab.Title</span></td>
+        </tr>
+        <tr data-id=@tab.Id data-container-id=@tabsContainer.Id data-deleted=@tab.Deleted>
+            <td class="fw-bold text-nowrap bg-info">Tab Text</td>
+            <td colspan="3"><span class="tab-title">@tab.Title</span></td>
+        </tr>
+        @await Component.InvokeAsync("HtmlElementCollection", new { elements = tab.Elements, containerId = tabsContainer.Id, parent = tab })
+        break;
+    case HtmlTable table:
+        foreach (HtmlTableRow row in table.Rows)
+        {
+            foreach (HtmlTableCell cell in row.Cells)
+            {
+                @await Component.InvokeAsync("HtmlElementCollection", new { elements = cell.Elements, containerId = cell.Id, parent = cell })
+            }
+        }
+        break;
+    case HtmlTabsContainer tabsContainer:
+        foreach (HtmlTab tab in tabsContainer.Tabs)
+        {
+            @await Component.InvokeAsync("HtmlContainer", new HtmlContainerViewComponentModel(tab, tabsContainer))
+        }
+        break;
+}

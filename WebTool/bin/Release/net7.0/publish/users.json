@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "66603AD7-705B-408D-AA1E-F4724E00E9FD",
+    "Name": "Admin",
+    "UserName": "admin",
+    "Email": "admin@hcl.com",
+    "Password": "12345",
+    "Role": "Admin"
+  },
+  {
+    "Id": "199f0ee4-ee11-45cf-89a3-5eca1f94c477",
+    "Name": "Dhirendra",
+    "UserName": "dhirendra@hcl.com",
+    "Email": "dhirendra@hcl.com",
+    "Password": "1234",
+    "Role": "Developer"
+  }
+]

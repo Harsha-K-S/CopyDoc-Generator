@@ -1,0 +1,58 @@
+﻿@model WebTool.RequestCreateModel
+@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="text-center">
+    <form id="frm" asp-action="Create">
+        <center>
+            <div class="form-group">
+                <label asp-for="TaskReferenceId">Task Reference ID</label>
+                <input asp-for="TaskReferenceId" type="number" class="form-control" style="width: 70%;" />
+            </div>
+            <div>
+                <span asp-validation-for="TaskReferenceId" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-3">
+                <label asp-for="Url">URL</label>
+                <input asp-for="Url" type="text" class="form-control" style="width: 70%;" />
+            </div>
+            <div>
+                <span asp-validation-for="Url" class="text-danger"></span>
+            </div>
+            @if (!string.IsNullOrEmpty(ViewBag.Error))
+            {
+                <div>
+                    <span class="text-danger">@ViewBag.Error</span>
+                </div>
+            }
+            <div>
+                <a href="/Index" class="btn btn-primary mt-3 me-3">Back</a>
+                <input type="submit" class="btn btn-primary mt-3" onclick="return parse();" />
+            </div>
+            <div class="spinner" style="display:none">
+                <div class="center-div">
+                    <div class="inner-div">
+                        <div class="loader"></div>
+                    </div>
+                </div>
+            </div>
+        </center>
+    </form>
+</div>
+
+@section Scripts {
+    <script>
+        function parse() {
+            if ($('#frm').valid()) {
+                $('.spinner').css('display', 'block');
+            }
+            else {
+                e.preventDefault();
+            }
+        }
+    </script>
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

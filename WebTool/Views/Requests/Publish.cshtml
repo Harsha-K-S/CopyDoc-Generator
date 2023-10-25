@@ -1,0 +1,13 @@
+﻿@model string
+@{
+    ViewData["Title"] = "Publlish";
+}
+
+<center>
+    <h2>
+        <a href=@Model>@Model</a>
+    </h2>
+    <button class="btn btn-primary" onclick="navigator.clipboard.writeText('@Model'); this.textContent = 'Copied'; return false;">
+        Copy URL
+    </button>
+</center>

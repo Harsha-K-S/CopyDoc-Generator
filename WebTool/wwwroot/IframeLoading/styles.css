@@ -1,0 +1,26 @@
+body {
+    padding: 10px;
+}
+
+.accordion-item {
+    border: none;
+}
+
+@media (max-width: 991px) {
+    .tab-content > .tab-pane {
+        display: block;
+        opacity: 1;
+    }
+}
+
+#iframe-container {
+    padding: 0px 20px;
+    width: 100%;
+}
+
+#iframe {
+    min-height: 200vh;
+    background-color: #f2f0ea;
+    border: none;
+    width: 100%;
+}
